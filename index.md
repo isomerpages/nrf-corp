@@ -52,6 +52,7 @@ sections:
       button: Find out more
       url: /CRP/
       alt: Image alt text
+      image: /images/pharmaceutical-research-scientist-preparing-a-sam-2022-03-07-23-55-55-utc.jpg
   - infopic:
       title: Central Gap Fund (CGF)
       subtitle: Funding & Grants
@@ -61,6 +62,7 @@ sections:
       button: Find out more
       url: \CGF\
       alt: Image alt text
+      image: /images/creative-idea-or-innovation-concept-2021-08-30-05-58-22-utc.jpg
   - resources:
       title: Media
       subtitle: Learn more
