@@ -67,8 +67,4 @@ sections:
       title: News Releases & Speeches
       subtitle: Media
       button: View More
-  - infobar:
-      title: National Research Foundation Singapore
-      subtitle: About
-      description: https://www.youtube.com/watch?v=8pzllOUy1-E&t=171s
 ---
