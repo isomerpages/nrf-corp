@@ -21,15 +21,18 @@ sections:
       button: Click here to find out more
       url: /RIE2025plan/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: IGMS
+          description: Integrated Grant Mngmnt System
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: GYSS
+          description: Global Young Scientists Summit
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: PSTA
+          description: President's S&T Awards
           url: /privacy/
+        - title: RIE Magazine
+          description: SG Guide to S&T
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
