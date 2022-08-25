@@ -1,7 +1,15 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: National Research Foundation Singapore
+description: >-
+  The National Research Foundation, Singapore (NRF), set up on 1 January 2006,
+  is a department within the Prime Minister's Office. The NRF sets the national
+  direction for research and development (R&D) by developing policies, plans and
+  strategies for research, innovation and enterprise. It also funds strategic
+  initiatives and develops R&D capabilities by nurturing research talent.
+
+
+  The NRF aims to transform Singapore into a vibrant R&D hub that contributes toward a knowledge-intensive, innovative and entrepreneurial economy; and make Singapore a magnet for excellence in science and innovation.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -33,4 +41,5 @@ sections:
       subtitle: Learn more
       button: View More
 ---
+
 
