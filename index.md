@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: RIE 2025
+      subtitle: Research, Innovation & Enterprise Plan 2025
       background: /images/abstract-geometric-cubes-background-modern-techno-2021-08-31-04-18-50-utc.jpg
-      button: Contact Us
-      url: /contact-us/
+      button: Click here to find out more
+      url: /RIE2025plan/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
