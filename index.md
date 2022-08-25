@@ -33,12 +33,34 @@ sections:
         - title: RIE Magazine
           description: SG Guide to S&T
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: The NRF Fellowship
+      subtitle: Funding & Grants
+      description: The Singapore NRF Fellowship provides opportunities for early
+        career researchers to carry out independent research in Singapore, over
+        a five-year period.
+      button: Find out more
+      url: /NRFF/
+      image: /images/concentrated-asian-scientist-staring-at-blood-drop-2021-09-03-15-40-19-utc.jpg
+      alt: Image alt text
+  - infopic:
+      title: Competitive Research Programme (CRP)
+      subtitle: Funding & Grants
+      description: The CRP funding scheme seeks to foster the formation of
+        multidisciplinary teams to conduct research that are of relevance to
+        Singapore society.
+      button: Find out more
+      url: /CRP/
+      alt: Image alt text
+  - infopic:
+      title: Central Gap Fund (CGF)
+      subtitle: Funding & Grants
+      description: The CGF aims to support the translation of research outcomes into
+        products, processes and/or services that generate benefits for
+        Singapore.
+      button: Find out more
+      url: \CGF\
+      alt: Image alt text
   - resources:
       title: Media
       subtitle: Learn more
