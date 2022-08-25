@@ -64,7 +64,7 @@ sections:
       alt: Image alt text
       image: /images/creative-idea-or-innovation-concept-2021-08-30-05-58-22-utc.jpg
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: News Releases & Speeches
+      subtitle: Media
       button: View More
 ---
