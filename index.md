@@ -18,7 +18,7 @@ sections:
       title: RIE 2025
       subtitle: Research, Innovation & Enterprise Plan 2025
       background: /images/hexagon-pattern-background-modern-technology-and-2021-08-31-04-18-43-utc.jpg
-      button: Click here to find out more
+      button: Find out more
       url: /RIE2025plan/
       key_highlights:
         - title: IGMS
