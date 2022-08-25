@@ -12,7 +12,7 @@ description: >-
   The NRF aims to transform Singapore into a vibrant R&D hub that contributes toward a knowledge-intensive, innovative and entrepreneurial economy; and make Singapore a magnet for excellence in science and innovation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: The May issue of the RIE Magazine is out! Click here to find out more.
 sections:
   - hero:
       title: RIE 2025
@@ -41,5 +41,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
-
