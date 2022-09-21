@@ -1,4 +1,5 @@
 collections:
   flagship-events:
     output: true
-    order: []
+    order:
+      - GYSS/.keep
