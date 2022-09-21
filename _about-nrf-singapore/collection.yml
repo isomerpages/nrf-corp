@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - About NRF Singapore.md
-      - Contact Us/.keep
-      - CREATE/.keep
       - Management/.keep
       - Management/RIE Council.md
       - Management/NRF Board.md
       - Management/Scientific Advisory Board.md
       - Management/Committee of Government Scientific Advisors.md
       - Management/NRF Senior Management.md
+      - Contact Us/.keep
+      - CREATE/.keep
