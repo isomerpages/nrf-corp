@@ -2,8 +2,6 @@ collections:
   about-nrf-singapore:
     output: true
     order:
-      - Campus for Research Excellence and Technological Enterprise (CREATE).md
-      - Contact Us.md
       - About NRF Singapore.md
       - Management/.keep
       - Management/RIE Council.md
@@ -11,3 +9,5 @@ collections:
       - Management/Scientific Advisory Board.md
       - Management/Committee of Government Scientific Advisors.md
       - Management/NRF Senior Management.md
+      - Campus for Research Excellence and Technological Enterprise (CREATE).md
+      - Contact Us.md
