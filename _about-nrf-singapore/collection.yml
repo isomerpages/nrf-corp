@@ -1,4 +1,5 @@
 collections:
   about-nrf-singapore:
     output: true
-    order: []
+    order:
+      - Management/.keep
