@@ -2,6 +2,7 @@ collections:
   the-rie-2025-plan:
     output: true
     order:
+      - "RIE2025: Focus Area 1.md"
       - RIE 2025 Plan.md
       - Focus Area 3/.keep
       - Focus Area 2/.keep
