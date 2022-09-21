@@ -4,9 +4,9 @@ collections:
     order:
       - Contact Us/.keep
       - CREATE/.keep
-      - Management/NRF Senior Management.md
       - Management/.keep
       - Management/RIE Council.md
       - Management/NRF Board.md
       - Management/Scientific Advisory Board.md
       - Management/Committee of Government Scientific Advisors.md
+      - Management/NRF Senior Management.md
