@@ -7,6 +7,10 @@ links:
     sublinks:
       - title: Focus Area 1
         url: /RIE2025/FocusArea1
+      - title: Focus Area 2
+        url: /RIE2025/FocusArea2
+      - title: Focus Area 3
+        url: /RIE2025/FocusArea3
   - title: Funding & Grants
     url: /funding-grants
     sublinks:
@@ -22,3 +26,5 @@ links:
         url: /funding-grants/CREATE-Fellowsip
       - title: I&E Fellowship Programme
         url: /funding-grants/IE-Fellowship
+  - title: Flagship Events
+    collection: example-collection
