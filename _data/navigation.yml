@@ -1,14 +1,24 @@
 logo: /images/NRF Logo (high-res).jpg
 links:
-  - title: NRF Singapore
+  - title: About NRF
     url: /about/
-  - title: RIE 2025 Plan
+  - title: The RIE 2025 Plan
     url: /RIE2025/
+    sublinks:
+      - title: Focus Area 1
+        url: /RIE2025/FocusArea1
   - title: Funding & Grants
-    url: /Funding/
-  - title: Programmes
-    url: /permalink
-  - title: Events
-    url: /Events/
-  - title: Media & Publications
-    url: /media/
+    url: /funding-grants
+    sublinks:
+      - title: NRF Fellowship
+        url: /funding-grants/NRFF
+      - title: NRF Investigatorship
+        url: /funding-grants/NRFI
+      - title: Competitive Research Programme
+        url: /funding-grants/CRP
+      - title: Central Gap Fund
+        url: /funding-grants/CGF
+      - title: CREATE Fellowship
+        url: /funding-grants/CREATE-Fellowsip
+      - title: I&E Fellowship Programme
+        url: /funding-grants/IE-Fellowship
