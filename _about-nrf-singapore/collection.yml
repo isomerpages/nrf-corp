@@ -4,6 +4,7 @@ collections:
     order:
       - Contact Us/.keep
       - CREATE/.keep
+      - Management/NRF Senior Management.md
       - Management/.keep
       - Management/RIE Council.md
       - Management/NRF Board.md
