@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About NRF Singapore.md
+      - Management/Example Title.md
       - Management/.keep
       - Management/RIE Council.md
       - Management/NRF Board.md
