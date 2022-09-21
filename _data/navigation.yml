@@ -1,7 +1,7 @@
 logo: /images/NRF Logo (high-res).jpg
 links:
-  - title: About NRF
-    url: /about/
+  - title: About NRF Singapore
+    collection: about-nrf-singapore
   - title: The RIE 2025 Plan
     url: /RIE2025/
     sublinks:
