@@ -17,5 +17,3 @@ Deputy Prime Minister Heng Swee Keat is the Chairman of the NRF Board.
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
-
-
