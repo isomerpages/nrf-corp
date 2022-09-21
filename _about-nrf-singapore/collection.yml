@@ -2,6 +2,7 @@ collections:
   about-nrf-singapore:
     output: true
     order:
+      - About NRF Singapore.md
       - Contact Us/.keep
       - CREATE/.keep
       - Management/.keep
