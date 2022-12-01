@@ -2,5 +2,6 @@ collections:
   flagship-events:
     output: true
     order:
+      - PSTA/Main Page.md
       - PSTA/.keep
       - GYSS/.keep
