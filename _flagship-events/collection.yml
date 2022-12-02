@@ -2,6 +2,6 @@ collections:
   flagship-events:
     output: true
     order:
-      - PSTA/Recognising Brilliant Minds.md
+      - PSTA/Nominate.md
       - PSTA/.keep
       - GYSS/.keep
