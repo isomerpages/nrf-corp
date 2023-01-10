@@ -1,4 +1,5 @@
 collections:
   psta:
     output: true
-    order: []
+    order:
+      - About the President Science and Technology Awards.md
