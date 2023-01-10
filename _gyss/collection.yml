@@ -1,4 +1,5 @@
 collections:
   gyss:
     output: true
-    order: []
+    order:
+      - About the Global Young Scientists Summit.md
