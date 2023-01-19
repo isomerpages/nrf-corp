@@ -29,7 +29,7 @@ sections:
           url: https://gmail.com
         - title: PSTA
           description: President's S&T Awards
-          url: /privacy/
+          url: /psta/
         - title: RIE Magazine
           description: SG Guide to S&T
           url: ""
