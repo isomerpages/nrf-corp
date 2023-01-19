@@ -29,7 +29,7 @@ sections:
           url: https://gmail.com
         - title: PSTA
           description: President's S&T Awards
-          url: /psta/
+          url: https://staging.d32jhm5ckwofyc.amplifyapp.com/
         - title: RIE Magazine
           description: SG Guide to S&T
           url: ""
