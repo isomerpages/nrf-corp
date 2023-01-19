@@ -2,4 +2,5 @@ collections:
   psta:
     output: true
     order:
+      - PSTA Homepage/.keep
       - About the President Science and Technology Awards.md
