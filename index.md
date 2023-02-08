@@ -12,8 +12,8 @@ description: >-
   The NRF aims to transform Singapore into a vibrant R&D hub that contributes toward a knowledge-intensive, innovative and entrepreneurial economy; and make Singapore a magnet for excellence in science and innovation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: The NRF Fellowship (Class of 2024) applications are now open!
-  Click here to apply.
+notification: The NRF Fellowship (Class of 2024) applications are now open! Find
+  out more here.
 sections:
   - hero:
       title: The RIE Ecosystem
@@ -25,15 +25,15 @@ sections:
         - title: IGMS
           description: Search for Research Grants
           url: https://google.com
-        - title: Media & Announcements
-          description: What's new from the Ecosystem
-          url: https://gmail.com
         - title: Funding Initiatives (FI)
           description: Ecosystem-wide FIs
           url: https://staging.d32jhm5ckwofyc.amplifyapp.com/
-        - title: Events
-          description: NRF flagship and other events
+        - title: PSTA 2023
+          description: Call for nominations open now!
           url: ""
+        - title: Media & Announcements
+          description: What's new from the Ecosystem
+          url: https://gmail.com
   - infopic:
       title: The NRF Fellowship
       subtitle: Funding & Grants
