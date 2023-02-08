@@ -15,9 +15,9 @@ permalink: /
 notification: The May issue of the RIE Magazine is out! Click here to find out more.
 sections:
   - hero:
-      title: RIE 2025
-      subtitle: Research, Innovation & Enterprise Plan 2025
-      background: /images/hexagon-pattern-background-modern-technology-and-2021-08-31-04-18-43-utc.jpg
+      title: The RIE Ecosystem
+      subtitle: Singapore's vibrant Research, Innovation and Enterprise Ecosystem
+      background: /images/hexagon-pattern-background-modern-technology-and-2022-12-16-11-09-48-utc.jpg
       button: Find out more
       url: /RIE2025plan/
       key_highlights:
