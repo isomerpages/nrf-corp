@@ -12,7 +12,8 @@ description: >-
   The NRF aims to transform Singapore into a vibrant R&D hub that contributes toward a knowledge-intensive, innovative and entrepreneurial economy; and make Singapore a magnet for excellence in science and innovation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: The May issue of the RIE Magazine is out! Click here to find out more.
+notification: The NRF Fellowship (Class of 2024) applications are now open!
+  Click here to apply.
 sections:
   - hero:
       title: The RIE Ecosystem
