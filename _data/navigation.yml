@@ -1,17 +1,15 @@
 logo: /images/NRF Logo (high-res).jpg
 links:
-  - title: About NRF Singapore
+  - title: About
     collection: about-nrf-singapore
-  - title: The RIE 2025 Plan
+  - title: The RIE Ecosystem
     url: /RIE2025/
     sublinks:
-      - title: Focus Area 1
-        url: /RIE2025/FocusArea1
       - title: Focus Area 2
         url: /RIE2025/FocusArea2
       - title: Focus Area 3
         url: /RIE2025/FocusArea3
-  - title: Funding & Grants
+  - title: Programmes
     url: /funding-grants
     sublinks:
       - title: NRF Fellowship
@@ -26,3 +24,16 @@ links:
         url: /funding-grants/CREATE-Fellowsip
       - title: I&E Fellowship Programme
         url: /funding-grants/IE-Fellowship
+  - title: Grants
+    url: /permalink
+    sublinks: []
+  - title: Events
+    url: /permalink
+    sublinks: []
+  - title: Media & Publications
+    url: /permalink
+    sublinks: []
+  - title: FAQ
+    url: /permalink
+  - title: Contact
+    url: /permalink
