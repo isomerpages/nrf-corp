@@ -1,16 +1,16 @@
 title: National Research Foundation Singapore
-url: ""
+url: https://www.nrf.gov.sg
 favicon: /images/Tiy.jpg
 colors:
   primary-color: "#9d3d4b"
-  secondary-color: "#d38a8a"
+  secondary-color: "#f2b880"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#465c69"
     - title: media-color-two
-      color: "#d3716e"
+      color: "#a9bcd0"
     - title: media-color-three
-      color: "#00838f"
+      color: "#bcebcb"
     - title: media-color-four
       color: "#00838f"
     - title: media-color-five
