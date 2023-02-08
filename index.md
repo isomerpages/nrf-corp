@@ -16,22 +16,22 @@ notification: The May issue of the RIE Magazine is out! Click here to find out m
 sections:
   - hero:
       title: The RIE Ecosystem
-      subtitle: Singapore's vibrant Research, Innovation and Enterprise Ecosystem
+      subtitle: Singapore's vibrant Research, Innovation and Enterprise (RIE) Ecosystem
       background: /images/hexagon-pattern-background-modern-technology-and-2022-12-16-11-09-48-utc.jpg
       button: Find out more
       url: /RIE2025plan/
       key_highlights:
         - title: IGMS
-          description: Integrated Grant Mngmnt System
+          description: Search for Research Grants
           url: https://google.com
-        - title: GYSS
-          description: Global Young Scientists Summit
+        - title: Media & Announcements
+          description: What's new from the Ecosystem
           url: https://gmail.com
-        - title: PSTA
-          description: President's S&T Awards
+        - title: Funding Initiatives (FI)
+          description: Ecosystem-wide FIs
           url: https://staging.d32jhm5ckwofyc.amplifyapp.com/
-        - title: RIE Magazine
-          description: SG Guide to S&T
+        - title: Events
+          description: NRF flagship and other events
           url: ""
   - infopic:
       title: The NRF Fellowship
