@@ -2,7 +2,7 @@ logo: /images/NRF Logo (high-res).jpg
 links:
   - title: About
     collection: about-nrf-singapore
-  - title: The RIE Ecosystem
+  - title: RIE Ecosystem
     url: /RIE2025/
     sublinks:
       - title: Focus Area 2
@@ -27,7 +27,7 @@ links:
   - title: Grants
     url: /permalink
     sublinks: []
-  - title: Events
+  - title: Flagship Events
     url: /permalink
     sublinks: []
   - title: Media & Publications
