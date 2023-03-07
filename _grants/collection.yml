@@ -2,6 +2,6 @@ collections:
   grants:
     output: true
     order:
-      - NRF Investigatorship.md
       - Integrated Grant Management System.md
       - NRF Fellowship.md
+      - NRF Investigatorship.md
