@@ -11,7 +11,7 @@ The National Research Foundation Competitive Research Programme funding scheme s
   
 The Competitive Research Programme funds use-inspired basic research projects that are selected  through a merit review process based on scientific excellence. The theme of the proposed research project must be motivated by an important need or problem to be solved.  
   
-[Past projects](https://www.nrf.gov.sg/docs/default-source/default-document-library/updated-list-of-crp-awarded-projects-(up-to-28th-call).pdf?sfvrsn=28849d78_2) have made discoveries of potential significant impact to industry and society.  
+[Past projects](/files/updated-list-of-crp-awarded-projects-(up-to-28th-call).pdf) have made discoveries of potential significant impact to industry and society.  
 
 ### Call Frequency and Grant Quantum
 
