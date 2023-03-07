@@ -1,4 +1,5 @@
 collections:
   grants:
     output: true
-    order: []
+    order:
+      - Integrated Grant Management System.md
