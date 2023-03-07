@@ -40,10 +40,10 @@ SMU is internationally recognised for its world-class research and distinguished
 ##### [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (SUTD)
 SUTD is one of the first universities in the world to incorporate the art and science of design and technology into a multi-disciplinary curriculum. Established in collaboration with Massachusetts Institute of Technology and Zhejiang University, SUTD seeks to nurture technology leaders and innovators in engineering product development, engineering systems and design, information systems technology and design, and architecture and sustainable design.
 
-##### Temasek Life Sciences Laboratory (TLL)
+##### [Temasek Life Sciences Laboratory](http://www.tll.org.sg/) (TLL)
 TLL’s vision is to build a pre-eminent organization of global talent to undertake bio-molecular science research and applications to benefit people in Asia and beyond.  The research institute focuses on understanding the cellular mechanisms that underlie the development and physiology of plants, fungi and animals which provides foundation for biotechnology innovation. 
 
-##### Singapore Institute of Technology (SIT)
+##### [Singapore Institute of Technology](https://www.singaporetech.edu.sg/) (SIT)
 The Singapore Institute of Technology (SIT) is Singapore’s first University of Applied Learning, offering industry-relevant degree programmes that prepare its graduates to be work- and future-ready professionals. Its mission is to maximise the potential of its learners and to innovate with industry, through an integrated applied learning and research approach, so as to contribute to the economy and society.
 
 The University’s unique pedagogy integrates work and study, embracing authentic learning in a real-world environment through collaborations with key strategic partners. Its focus on applied research with business impact is aimed at helping industry innovate and grow. Targeted to be ready in 2024, SIT’s centralised campus within the larger Punggol Digital District will feature a vibrant learning environment where academia and industry will be tightly integrated with the community.
