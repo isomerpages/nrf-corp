@@ -2,6 +2,7 @@ collections:
   grants:
     output: true
     order:
+      - Early Stage Venture Fund.md
       - Integrated Grant Management System.md
       - NRF Fellowship.md
       - NRF Investigatorship.md
