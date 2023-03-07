@@ -2,7 +2,7 @@ collections:
   grants:
     output: true
     order:
-      - Competitive Research Programme.md
       - Integrated Grant Management System.md
       - NRF Fellowship.md
       - NRF Investigatorship.md
+      - Competitive Research Programme.md
