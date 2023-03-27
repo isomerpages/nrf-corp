@@ -2,6 +2,7 @@ collections:
   grants:
     output: true
     order:
+      - Science of Learning/.keep
       - Integrated Grant Management System.md
       - NRF Fellowship.md
       - NRF Investigatorship.md
