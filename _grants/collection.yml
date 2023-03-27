@@ -2,7 +2,6 @@ collections:
   grants:
     output: true
     order:
-      - Science of Learning.md
       - Integrated Grant Management System.md
       - NRF Fellowship.md
       - NRF Investigatorship.md
@@ -10,4 +9,5 @@ collections:
       - Early Stage Venture Fund.md
       - Central Gap Fund.md
       - Science of Research, Innovation and Enterprise Programme.md
+      - Science of Learning.md
       - Science of Learning/.keep
