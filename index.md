@@ -12,13 +12,11 @@ description: >-
   The NRF aims to transform Singapore into a vibrant R&D hub that contributes toward a knowledge-intensive, innovative and entrepreneurial economy; and make Singapore a magnet for excellence in science and innovation.
 image: /images/isomer-logo.svg
 permalink: /
-notification: The NRF Fellowship (Class of 2024) applications are now open! Find
-  out more here.
+notification: ""
 sections:
   - hero:
       title: The RIE Ecosystem
       subtitle: Singapore's vibrant Research, Innovation and Enterprise (RIE) Ecosystem
-      background: /images/hexagon-pattern-background-modern-technology-and-2022-12-16-11-09-48-utc.jpg
       button: Find out more
       url: /RIE2025plan/
       key_highlights:
