@@ -19,24 +19,24 @@ To date, NRF has supported the setup of the following technology consortia:
 
 |  |  |  |
 | -------- | -------- | -------- |
-| [![Singapore Spintronics Consortium](/images/Programmes/sgspin.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-spintronics-consortium)<br>Singapore Spintronics Consortium | [![LUX Photonics Consortium](/images/Programmes/luxconsortium.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/lux-photonics-consortium)<br>LUX Photonics Consortium
+| [![Singapore Spintronics Consortium](/images/Programmes/sgspin.jpg)](https://www.nrf.gov.sg/tech-consortia/spintronics)<br>Singapore Spintronics Consortium | [![LUX Photonics Consortium](/images/Programmes/luxconsortium.jpg)](https://www.nrf.gov.sg/tech-consortia/lux-consortium)<br>LUX Photonics Consortium
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Singapore Cybersecurity Consortium](/images/Programmes/sgsconsortium.png)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-cybersecurity-consortium)<br> Singapore Cybersecurity Consortium | [![Singapore Membrane Consortium](/images/Programmes/sgmem-logo.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-membrane-consortium)<br> Singapore Membrane Consortium
+|[![Singapore Cybersecurity Consortium](/images/Programmes/sgsconsortium.png)](https://www.nrf.gov.sg/tech-consortia/cybersecurity-consortium)<br> Singapore Cybersecurity Consortium | [![Singapore Membrane Consortium](/images/Programmes/sgmem-logo.jpg)](https://www.nrf.gov.sg/tech-consortia/sgmem)<br> Singapore Membrane Consortium
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Singapore Data Science Consortium](/images/Programmes/sdsconsortium.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-data-science-consortium)<br> Singapore Data Science Consortium | [![Singapore Consortium for Synthetic Biology](/images/Programmes/sinergy.png)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-consortium-for-synthetic-biology)<br> Singapore Consortium for Synthetic Biology
+|[![Singapore Data Science Consortium](/images/Programmes/sdsconsortium.jpg)](https://www.nrf.gov.sg/tech-consortia/sdsc)<br> Singapore Data Science Consortium | [![Singapore Consortium for Synthetic Biology](/images/Programmes/sinergy.png)](https://www.nrf.gov.sg/tech-consortia/sinergy)<br> Singapore Consortium for Synthetic Biology
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Smart Grid and Power Electronics Consortium Singapore](/images/Programmes/specsconsortium.png)](https://www.nrf.gov.sg/programmes/technology-consortia/smart-grid-and-power-electronics-consortium-singapore)<br>Smart Grid and Power Electronics Consortium Singapore | [![Cooling Energy Science and Technology Singapore](/images/Programmes/coolestsg-logov1.png)](https://www.nrf.gov.sg/programmes/technology-consortia/cooling-energy-science-and-technology-singapore)<br> Cooling Energy Science and Technology Singapore
+|[![Smart Grid and Power Electronics Consortium Singapore](/images/Programmes/specsconsortium.png)](https://www.nrf.gov.sg/tech-consortia/specs)<br>Smart Grid and Power Electronics Consortium Singapore | [![Cooling Energy Science and Technology Singapore](/images/Programmes/coolestsg-logov1.png)](https://www.nrf.gov.sg/tech-consortia/coolestsg/)<br> Cooling Energy Science and Technology Singapore
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Singapore National Biofilm Consortium](/images/Programmes/snbc-logo.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-national-biofilm-consortium)<br> Singapore National Biofilm Consortium | [![Health Technologies Consortium](/images/Programmes/healthtec-logo-medium.png)](https://www.nrf.gov.sg/programmes/technology-consortia/health-technologies-consortium)<br>Health Technologies Consortium
+|[![Singapore National Biofilm Consortium](/images/Programmes/snbc-logo.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-national-biofilm-consortium)<br> Singapore National Biofilm Consortium | [![Health Technologies Consortium](/images/Programmes/healthtec-logo-medium.png)](https://www.nrf.gov.sg/tech-consortia/healthtec)<br>Health Technologies Consortium
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Singapore Battery Consortium](/images/Programmes/sbc_logo_landscape_colour.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-battery-consortium)<br>Singapore Battery Consortium
+|[![Singapore Battery Consortium](/images/Programmes/sbc_logo_landscape_colour.jpg)](https://www.nrf.gov.sg/tech-consortia/sgbatt)<br>Singapore Battery Consortium
