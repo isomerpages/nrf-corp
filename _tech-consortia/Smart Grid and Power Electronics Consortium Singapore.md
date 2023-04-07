@@ -11,4 +11,5 @@ It will enable companies to work with publicly-funded researchers to translate i
 
 SPECS is a national consortium that will be hosted at Nanyang Technological University, Singapore (NTU Singapore). The management board will be co-chaired by the Energy Research Institute @ NTU (ERI@N) and Energy Market Authority to facilitate the eventual deployment of smart grid and power electronics technologies developed in the Energy Grid 2.0 programme.
 
-17 companies have joined the consortium, including AMETEK Programmable Power Inc, EPI Technology Venture Pte Ltd, IESVE Singapore Pte Ltd, Interwell Pte Ltd, Lite Unite Pte Ltd, Sembcorp Industries Ltd and TransferFi Pte Ltd. Read press release for the full list of companies.
+17 companies have joined the consortium, including AMETEK Programmable Power Inc, EPI Technology Venture Pte Ltd, IESVE Singapore Pte Ltd, Interwell Pte Ltd, Lite Unite Pte Ltd, Sembcorp Industries Ltd and TransferFi Pte Ltd. Read the [Official Press Release](/files/press-release---two-new-energy-consortia.pdf) for the full list of companies.
+
