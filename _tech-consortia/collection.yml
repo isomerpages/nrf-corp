@@ -2,6 +2,7 @@ collections:
   tech-consortia:
     output: true
     order:
+      - Singapore Battery Consortium.md
       - Health Technologies Consortium.md
       - Singapore National Biofilm Consortium.md
       - Cooling Energy Science and Technology Singapore.md
