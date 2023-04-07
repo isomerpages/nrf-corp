@@ -2,6 +2,7 @@ collections:
   tech-consortia:
     output: true
     order:
+      - Smart Grid and Power Electronics Consortium Singapore.md
       - Singapore Membrane Consortium.md
       - Singapore Data Science Consortium.md
       - Singapore Consortium for Synthetic Biology.md
