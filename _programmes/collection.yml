@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - Technology Consortia.md
       - CREATE.md
