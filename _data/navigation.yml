@@ -1,7 +1,5 @@
 logo: /images/NRF Logo (high-res).jpg
 links:
-  - title: About
-    collection: about-nrf-singapore
   - title: RIE Ecosystem
     url: /RIE2025/
     sublinks:
