@@ -7,7 +7,7 @@ description: ""
 
 ## Campus for Research Excellence and Technological Enterprise (CREATE) ##
 
-An international collaboratory, the **Campus for Research Excellence and Technological Enterprise (CREATE)** houses research centres set up by top universities. Its modern laboratory design has also won CREATE a Laboratory of the Year award.
+An international collaboratory, the **Campus for Research Excellence and Technological Enterprise (CREATE)** houses research centres set up by top universities. Its sustainable and modern laboratory design has received the 'Laboratory of the Year' award.
 
 At CREATE, researchers from diverse disciplines and backgrounds work closely together to perform cutting-edge research in strategic areas of interest, for translation into practical applications that can lead to positive economic and societal outcomes for Singapore.
 
