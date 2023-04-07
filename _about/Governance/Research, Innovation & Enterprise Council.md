@@ -32,4 +32,4 @@ This high-level council underscores the political commitment to and importance p
 |**Ms Goh Swee Chen**<br>Chairman, Nanyang Technological University |**Mr Hsieh Fu Hua**<br>Chairman, National University of Singapore |**Ms Jenny Lee**<br>Managing Partner, GGV Capital
 |**Mr Koh Boon Hwee**<br>Chairman, Altara Ventures
 
-*Click here to understand the rationale for the RIEC logo.*
+*Click [here](https://www.nrf.gov.sg/rieclogo/) to understand the rationale for the RIEC logo.*
