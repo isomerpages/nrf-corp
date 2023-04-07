@@ -2,6 +2,7 @@ collections:
   tech-consortia:
     output: true
     order:
+      - Cooling Energy Science and Technology Singapore.md
       - Smart Grid and Power Electronics Consortium Singapore.md
       - Singapore Membrane Consortium.md
       - Singapore Data Science Consortium.md
