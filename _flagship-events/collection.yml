@@ -1,7 +1,0 @@
-collections:
-  flagship-events:
-    output: true
-    order:
-      - PSTA/Nominate.md
-      - PSTA/.keep
-      - GYSS/.keep
