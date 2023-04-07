@@ -3,7 +3,8 @@ title: The RIE Ecosystem
 permalink: /rie-ecosystem/ecosystem/
 description: ""
 ---
-### Importance of Science & Technology ###
+![](/images/RIE%20Ecosystem/rie%20cover.jpg)
+### Science & Technology ###
 
 Science and technology (S&T) is instrumental to Singapore’s survival and success, and has helped us to overcome the constraints of our small size and limited resources.
 
@@ -33,11 +34,6 @@ Hence, the RIE2025 plan emphasises three strategic focus areas to build on the p
 2. Enrich our scientific base
 3. Scale up platforms to drive technology translation and strengthen the innovation capabilities of our enterprises
 
-Please download the following materials for deeper information on the RIE 2025 plan:
-
-* [RIE 2025 Handbook](https://go.gov.sg/rie-2025-handbook)
-* [RIE 2025 Press Release](https://go.gov.sg/rie-2025-pressrelease)
-
 ### RIE2025 at a Glance ###
 
 Our RIE2025 efforts will be organised along four strategic domains, supported by three cross-cutting horizontals.
@@ -47,3 +43,9 @@ Our RIE2025 efforts will be organised along four strategic domains, supported by
 The Singapore government will sustain investments in research, innovation and enterprise at about 1% of Singapore's GDP over 2021-2025 for RIE2025. This is about $25B, and reflects the Singapore government’s sustained, long-term commitment to R&D through economic cycles.
 
 ![](/images/RIE%20Ecosystem/rie2025%20budget.png)
+
+
+Please download the following materials for deeper information on the RIE 2025 plan:
+
+* [RIE 2025 Handbook](https://go.gov.sg/rie-2025-handbook)
+* [RIE 2025 Press Release](https://go.gov.sg/rie-2025-pressrelease)
