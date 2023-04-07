@@ -12,3 +12,8 @@ For Singapore to have a thriving research, innovation and enterprise (RIE) ecosy
 
 ## Mission ##
 The NRF, a department under the Prime Minister’s Office, aims to build a thriving RIE ecosystem that fosters an innovation-driven economy and addresses our national imperatives, for the benefit of Singapore and society. We aim to achieve this through good stewardship of national resources and in close partnership with stakeholders.
+
+<br><hr>
+<br>
+
+This website is an official Singapore government agency website. It is owned and operated by NRF Singapore and it reserves the right to update or modify this Website from time to time.
