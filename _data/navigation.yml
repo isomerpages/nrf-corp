@@ -1,2 +1,14 @@
 logo: /images/NRF Logo (high-res).jpg
-links: []
+links:
+  - title: About
+    collection: about
+  - title: RIE Ecosystem
+    collection: rie-ecosystem
+  - title: Programmes
+    collection: programmes
+  - title: Grants
+    collection: about
+  - title: Flagship Events
+    collection: flagship-events
+  - title: Media & Publications
+    collection: media-and-publications
