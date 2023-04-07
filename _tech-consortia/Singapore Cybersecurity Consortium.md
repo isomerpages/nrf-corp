@@ -5,6 +5,8 @@ description: ""
 ---
 ## Singapore Cybersecurity Consortium ##
 
+![](/images/Programmes/Tech%20Consortias/cyber-security.jpg)
+
 The [Singapore Cybersecurity Consortium (SGCSC)](http://sgcsc.sg/) is anchored at the National University of Singapore (NUS) and supported by the National Research Foundation (NRF) Singapore. The consortium seeks to encourage use-inspired research, technology translation, manpower training, and technology awareness in the area of security, by actively promoting research discussions across academia, industry and government agencies.
 
 NRF has funded S$42 million in the form of seven large research projects to universities and research institutes under the National Cybersecurity R&amp;D Programme. The consortium will leverage and build on the research work being conducted in these projects, and will seek to look for translation opportunities. The consortium will also leverage the National Cybersecurity Lab infrastructure funded by NRF and housed at NUS, for imparting skills and experience in cybersecurity experimentation to industry personnel.
