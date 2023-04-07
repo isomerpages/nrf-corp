@@ -1,6 +1,0 @@
-collections:
-  psta:
-    output: true
-    order:
-      - Homepage.md
-      - About the President Science and Technology Awards.md
