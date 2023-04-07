@@ -4,6 +4,7 @@ permalink: /tech-consortia/snbc/
 description: ""
 ---
 ## Singapore National Biofilm Consortium ##
+![](/images/Programmes/Tech%20Consortias/laboratory-microscope.jpg)
 
 Building on Singapore’s strong foundation in biofilm research, the Singapore National Biofilm Consortium (SNBC) is set up to promote research, partnership and commercialisation involving biofilm products and technologies. Led by the Singapore Centre for Environmental Life Sciences Engineering (SCELSE), the SNBC will provide a seamless platform to connect researchers and companies for translating biofilm and microbiome research into innovative solutions that would meet industry’s needs.  
 
