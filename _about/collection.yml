@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About NRF Singapore.md
-      - Governance/NRF Singapore Board.md
-      - Governance/Scientific Advisory Board (SAB.md
-      - Governance/Research, Innovation & Enterprise Council.md
       - Governance/.keep
+      - Governance/Research, Innovation & Enterprise Council.md
+      - Governance/Scientific Advisory Board (SAB.md
+      - Governance/NRF Singapore Board.md
