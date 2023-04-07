@@ -32,6 +32,7 @@ sections:
         - title: Media & Announcements
           description: What's new from the Ecosystem
           url: https://gmail.com
+      background: /images/hexagon-pattern-background-modern-technology-and-2022-12-16-11-03-58-utc22.jpg
   - infopic:
       title: The NRF Fellowship
       subtitle: Funding & Grants
