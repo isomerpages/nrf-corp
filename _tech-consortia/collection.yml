@@ -1,4 +1,5 @@
 collections:
   tech-consortia:
     output: true
-    order: []
+    order:
+      - Singapore Spintronics Consortium.md
