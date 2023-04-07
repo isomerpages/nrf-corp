@@ -35,6 +35,8 @@ To date, NRF has supported the setup of the following technology consortia:
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Singapore National Biofilm Consortium](/images/Programmes/snbc-logo.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-national-biofilm-consortium)<br> Singapore National Biofilm Consortium | [![Health Technologies Consortium](/images/Programmes/healthtec-logo-medium.png)](https://www.nrf.gov.sg/programmes/technology-consortia/health-technologies-consortium)<br>Health Technologies Consortium
+|[![Singapore National Biofilm Consortium](/images/Programmes/snbc-logo.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-national-biofilm-consortium)<br> Singapore National Biofilm Consortium | [![Health Technologies Consortium](/images/Programmes/healthtec-logo-medium-3.png)](https://www.nrf.gov.sg/programmes/technology-consortia/health-technologies-consortium)<br>Health Technologies Consortium
 
-<img src="/images/Programmes/sbc_logo_landscape_colour.jpg" style="width:400px"><br> [Singapore Battery Consortium](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-battery-consortium)
+|  |  |  |
+| -------- | -------- | -------- |
+|[![Singapore Battery Consortium](/images/Programmes/sbc_logo_landscape_colour.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-battery-consortium)<br>Singapore Battery Consortium
