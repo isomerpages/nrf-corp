@@ -4,6 +4,7 @@ permalink: /tech-consortia/sinergy/
 description: ""
 ---
 ## Singapore Consortium for Synthetic Biology ##
+![](/images/Programmes/Tech%20Consortias/close-up-of-hands-of-a-scientist-working.jpg)
 
 The [Singapore Consortium for Synthetic Biology (SINERGY)](https://www.sinergy.sg/), which is anchored by key partners; namely, the National University of Singapore (NUS), Nanyang Technological University (NTU), Agency for Science, Technology and Research (ASTAR) and Temasek Life Sciences Laboratory, is supported by the National Research Foundation, Singapore (NRF). The consortium seeks to encourage use-inspired research, technology translation, manpower training, and technology awareness in the area of synthetic biology, by actively promoting research discussions across academia, industry and government agencies.
 
