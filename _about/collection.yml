@@ -2,4 +2,5 @@ collections:
   about:
     output: true
     order:
+      - About NRF Singapore.md
       - Governance/.keep
