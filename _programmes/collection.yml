@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - National Research Infrastructure.md
       - Technology Consortia.md
       - CREATE.md
