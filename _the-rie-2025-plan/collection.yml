@@ -1,6 +1,0 @@
-collections:
-  the-rie-2025-plan:
-    output: true
-    order:
-      - RIE 2025 Plan.md
-      - Focus Area 1.md
