@@ -31,12 +31,10 @@ To date, NRF has supported the setup of the following technology consortia:
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Smart Grid and Power Electronics Consortium Singapore](/images/Programmes/specsconsortium.png)](https://www.nrf.gov.sg/programmes/technology-consortia/smart-grid-and-power-electronics-consortium-singapore)<br>Smart Grid and Power Electronics Consortium Singapore | [![Cooling Energy Science and Technology Singapore](/images/Programmes/coolestsg-logov2.png)](https://www.nrf.gov.sg/programmes/technology-consortia/cooling-energy-science-and-technology-singapore)<br> Cooling Energy Science and Technology Singapore
+|[![Smart Grid and Power Electronics Consortium Singapore](/images/Programmes/specsconsortium.png)](https://www.nrf.gov.sg/programmes/technology-consortia/smart-grid-and-power-electronics-consortium-singapore)<br>Smart Grid and Power Electronics Consortium Singapore | [![Cooling Energy Science and Technology Singapore](/images/Programmes/coolestsg-logov1.png)](https://www.nrf.gov.sg/programmes/technology-consortia/cooling-energy-science-and-technology-singapore)<br> Cooling Energy Science and Technology Singapore
 
 |  |  |  |
 | -------- | -------- | -------- |
 |[![Singapore National Biofilm Consortium](/images/Programmes/snbc-logo.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-national-biofilm-consortium)<br> Singapore National Biofilm Consortium | [![Health Technologies Consortium](/images/Programmes/healthtec-logo-medium.png)](https://www.nrf.gov.sg/programmes/technology-consortia/health-technologies-consortium)<br>Health Technologies Consortium
 
-|  |  |  |
-| -------- | -------- | -------- |
-|[![Singapore Battery Consortium](/images/Programmes/sbc_logo_landscape_colour.jpg)](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-battery-consortium)<br>Singapore Battery Consortium
+<img src="/images/Programmes/sbc_logo_landscape_colour.jpg" style="width:400px"><br> [Singapore Battery Consortium](https://www.nrf.gov.sg/programmes/technology-consortia/singapore-battery-consortium)
