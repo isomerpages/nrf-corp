@@ -1,4 +1,5 @@
 collections:
   rie-ecosystem:
     output: true
-    order: []
+    order:
+      - The RIE Ecosystem.md
