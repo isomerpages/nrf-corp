@@ -2,6 +2,7 @@ collections:
   grants:
     output: true
     order:
+      - Competitive Research Programme.md
       - Returning Singaporean Scientists Scheme.md
       - NRF Investigatorship.md
       - NRF Fellowship.md
