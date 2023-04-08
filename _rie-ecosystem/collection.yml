@@ -2,4 +2,5 @@ collections:
   rie-ecosystem:
     output: true
     order:
+      - RIE2025 Handbook.md
       - The RIE Ecosystem.md
