@@ -14,3 +14,8 @@ links:
     collection: media-and-publications
   - title: FAQ
     url: /permalink
+  - title: RIE Ecosystem
+    url: /rie-ecosystem/ecosystem/
+    sublinks:
+      - title: RIE2025 Handbook
+        url: /permalink
