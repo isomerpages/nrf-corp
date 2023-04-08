@@ -198,10 +198,10 @@ A Standing Oversight Committee will evaluate proposals with inputs from subject 
 
 For further clarifications, please contact your IEO.
 
-[For Central Gap Application Guidelines, please click here.](https://www.nrf.gov.sg/docs/default-source/default-document-library/central-gap-fund-application-guidelines_rie2025.pdf?sfvrsn=2c1da713_2 "For Central Gap Application Guidelines, please click here.")
+For Central Gap Application Guidelines, please click [here](https://go.gov.sg/cgf-application-guidelines-rie2025)
 
-[For frequently asked questions on Central Gap, please click here.](https://www.nrf.gov.sg/docs/default-source/default-document-library/central-gap-fund-faq-4-0.pdf?sfvrsn=7a343a4c_2 "For frequently asked questions on Central Gap, please click here. ")
+For frequently asked questions on Central Gap, please click [here](https://go.gov.sg/cgf-faq-4-0).
 
-[For the list of awarded NRF Central Gap Fund projects, please click here.](https://www.nrf.gov.sg/docs/default-source/default-document-library/central-gap-fund-awarded-projects-(centrally).pdf?sfvrsn=daf62689_2 "For the list of awarded NRF Central Gap Fund projects, please click here. ")
+For the list of awarded NRF Central Gap Fund projects, please click [here](https://go.gov.sg/cgf-awarded-centrally).
 
-[For the list of awarded NRF COVID-19 Challenge projects, please click here.](https://www.nrf.gov.sg/docs/default-source/default-document-library/central-gap-fund-awarded-projects-(covid-19).pdf?sfvrsn=398bd757_2 "For the list of awarded NRF COVID-19 Challenge projects, please click here. ")
+For the list of awarded NRF COVID-19 Challenge projects, please click [here](https://go.gov.sg/cgf-awarded-covid19).
