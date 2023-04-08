@@ -15,20 +15,14 @@ sections:
       title: The RIE Ecosystem
       subtitle: Singapore's vibrant Research, Innovation and Enterprise (RIE) Ecosystem
       button: Find out more
-      url: /RIE2025plan/
+      url: /rie-ecosystem/ecosystem/
       key_highlights:
         - title: IGMS
           description: Search for Research Grants
-          url: https://google.com
+          url: https://www.nrf.gov.sg/grants/igms/
         - title: Funding Initiatives (FI)
           description: Ecosystem-wide FIs
           url: https://staging.d32jhm5ckwofyc.amplifyapp.com/
-        - title: PSTA 2023
-          description: Call for nominations open now!
-          url: ""
-        - title: Media & Announcements
-          description: What's new from the Ecosystem
-          url: https://gmail.com
       background: /images/hexagon-pattern-background-modern-technology-and-2022-12-16-11-03-58-utc22.jpg
   - infopic:
       title: The NRF Fellowship
@@ -36,8 +30,8 @@ sections:
       description: The Singapore NRF Fellowship provides opportunities for early
         career researchers to carry out independent research in Singapore, over
         a five-year period.
-      button: Find out more
-      url: /NRFF/
+      button: Learn more
+      url: /grants/nrff/
       image: /images/concentrated-asian-scientist-staring-at-blood-drop-2021-09-03-15-40-19-utc.jpg
       alt: Image alt text
   - infopic:
@@ -46,8 +40,8 @@ sections:
       description: The CRP funding scheme seeks to foster the formation of
         multidisciplinary teams to conduct research that are of relevance to
         Singapore society.
-      button: Find out more
-      url: /CRP/
+      button: Learn more
+      url: /grants/crp/
       alt: Image alt text
       image: /images/pharmaceutical-research-scientist-preparing-a-sam-2022-03-07-23-55-55-utc.jpg
   - infopic:
@@ -56,8 +50,8 @@ sections:
       description: The CGF aims to support the translation of research outcomes into
         products, processes and/or services that generate benefits for
         Singapore.
-      button: Find out more
-      url: \CGF\
+      button: Learn more
+      url: /grants/cgf/
       alt: Image alt text
       image: /images/creative-idea-or-innovation-concept-2021-08-30-05-58-22-utc.jpg
   - resources:
