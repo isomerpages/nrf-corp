@@ -32,7 +32,7 @@ sections:
         a five-year period.
       button: Learn more
       url: /grants/nrff/
-      image: /images/concentrated-asian-scientist-staring-at-blood-drop-2021-09-03-15-40-19-utc.jpg
+      image: /images/researcher-holding-blue-pill-for-health-care-in-la-2022-11-09-15-08-47-utc.jpg
       alt: Image alt text
   - infopic:
       title: Competitive Research Programme (CRP)
