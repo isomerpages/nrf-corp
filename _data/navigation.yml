@@ -11,13 +11,6 @@ links:
   - title: Flagship Events
     collection: flagship-events
   - title: Media & Publications
-    collection: media-and-publications
+    resource_room: true
   - title: FAQ
     url: /permalink
-  - title: RIE Ecosystem
-    url: /rie-ecosystem/ecosystem/
-    sublinks:
-      - title: The RIE Ecosystem
-        url: /rie-ecosystem/ecosystem/
-      - title: RIE2025 Handbook
-        url: /rie-ecosystem/rie2025handbook
