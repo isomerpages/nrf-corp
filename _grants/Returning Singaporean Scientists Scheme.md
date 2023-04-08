@@ -3,9 +3,7 @@ title: Returning Singaporean Scientists Scheme
 permalink: /grants/rsss/
 description: ""
 ---
-### Scheme Objective
-
-The Returning Singaporean Scientists Scheme seeks to attract outstanding overseas-based Singaporean research leaders back to Singapore to take up leadership positions in Singapore’s autonomous universities and publicly funded research institutes.
+The **Returning Singaporean Scientists Scheme** seeks to attract outstanding overseas-based Singaporean research leaders back to Singapore to take up leadership positions in Singapore’s autonomous universities and publicly funded research institutes.
 
 NRF works closely with the senior leaders of the autonomous universities and research institutes to identify potential leaders.
 <br>
