@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
-      - Whistle blowing.md
       - About NRF Singapore.md
       - Governance/.keep
       - Governance/Research, Innovation & Enterprise Council.md
       - Governance/Scientific Advisory Board (SAB.md
       - Governance/NRF Singapore Board.md
+      - Whistle blowing.md
