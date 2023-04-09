@@ -17,12 +17,15 @@ sections:
       button: Find out more
       url: /rie-ecosystem/ecosystem/
       key_highlights:
-        - title: IGMS
-          description: Search for Research Grants
+        - title: Integrated Grant Management System
+          description: Search for research grants
           url: https://www.nrf.gov.sg/grants/igms/
-        - title: Funding Initiatives (FI)
-          description: Ecosystem-wide FIs
+        - title: Ecosystem-wide funding initiatives (FI)
+          description: Links to FIs outside NRF
           url: /rie-ecosystem/ecosystem-wide-fis/
+        - title: President's Science & Technology Awards (PSTA)
+          description: Singapore's brightest minds
+          url: https://www.psta.gov.sg
       background: /images/background-16.jpg
   - infopic:
       title: The NRF Fellowship
