@@ -2,5 +2,6 @@ collections:
   rie-ecosystem:
     output: true
     order:
+      - Other FIs by domain/.keep
       - The RIE Ecosystem.md
       - RIE2025 Handbook.md
