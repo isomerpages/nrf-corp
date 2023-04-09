@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: National Research Foundation Singapore
+title: National Research Foundation Singapore (NRF)
 description: The National Research Foundation, Singapore (NRF), set up on 1
   January 2006, is a department within the Prime Minister's Office. The NRF sets
   the national direction for research and development (R&D) by developing
