@@ -2,6 +2,7 @@ collections:
   rie-ecosystem:
     output: true
     order:
+      - Other FIs by domain/Innovation & Enterprise.md
       - Other FIs by domain/Urban Solutions and Sustainability.md
       - Other FIs by domain/.keep
       - The RIE Ecosystem.md
