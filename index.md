@@ -12,8 +12,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: The RIE Ecosystem
-      subtitle: Singapore's vibrant Research, Innovation and Enterprise (RIE) ecosystem
+      title: Research, Innovation & Enterprise
+      subtitle: Cornerstone of Singapore’s development into a knowledge-based,
+        innovation-driven economy and society.
       button: Find out more
       url: /rie-ecosystem/ecosystem/
       key_highlights:
