@@ -101,7 +101,7 @@ The S$84 million HP-NTU Digital Manufacturing Corporate Lab will drive innovatio
   
 [Read the press release here.](https://go.gov.sg/corp-lab-hp-ntu)
 
-#### Applied Materials-NUS Advanced Materials Corporate Laboratory&nbsp;####
+#### Applied Materials-NUS Advanced Materials Corporate Laboratory ####
 
 The S$70 million Applied Materials-NUS Advanced Materials Corporate Laboratory aims to accelerate the discovery and commercialisation of new materials for manufacturing next-generation semiconductors. New materials R&amp;D and processing techniques with a focus on deposition and etching have been identified as two key research areas that will help pioneer innovative semiconductor structures and devices.  
   
