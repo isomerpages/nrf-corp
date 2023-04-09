@@ -10,16 +10,18 @@ Every day, issues arise to which there are no ready solutions. At NRF, we see th
 
 Through our policies and programmes, we set the national R&D direction to develop Singapore's future capabilities, support growth and meet new challenges.
 
-
+![](/images/About/mar5-outline-07.jpg)
 
 We aim to establish Singapore as a knowledge-intensive, innovative and entrepreneurial economy with R&D as one of the significant contributors.
 
 ### **Be part of our team**
 We are on a constant lookout for capable, creative, committed and energetic individuals.
 
+![](/images/About/team%20working.jpg)
 After all, people is what drives us. Our people are our most precious resource and we place great emphasis on every officer's growth and development from the moment they become part of our NRF family.
 
 ### **Join us in creating possibilities**
 We are looking for individuals with a strong interest in R&D and passion to transform Singapore into a vibrant science and technology hub. Join our team in formulating policies and managing the various programmes in areas ranging from the physical sciences to energy and the environment.
 
 ### **At NRF, the possibilities are endless**
+![](/images/About/is-76greenfuture.jpg)
