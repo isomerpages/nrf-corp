@@ -13,7 +13,7 @@ notification: ""
 sections:
   - hero:
       title: The RIE Ecosystem
-      subtitle: Singapore's vibrant Research, Innovation and Enterprise (RIE) Ecosystem
+      subtitle: Singapore's vibrant Research, Innovation and Enterprise (RIE) ecosystem
       button: Find out more
       url: /rie-ecosystem/ecosystem/
       key_highlights:
@@ -27,6 +27,12 @@ sections:
           description: Singapore's brightest minds
           url: https://www.psta.gov.sg
       background: /images/background-16.jpg
+  - infobar:
+      title: Research, Innovation and Enterprise 2025 Handbook
+      description: Cornerstone of Singapore’s development into a knowledge-based,
+        innovation-driven economy and society.
+      button: Download here
+      url: /rie-ecosystem/rie2025handbook/
   - infopic:
       title: The NRF Fellowship
       subtitle: Funding & Grants
