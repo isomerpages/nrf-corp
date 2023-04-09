@@ -7,11 +7,15 @@ description: ""
 
 ![](/images/Programmes/graphene-center.jpg)
 
-NRF encourages public-private R&D partnerships between universities and companies through the establishment of corporate laboratories in our universities.    
-  
-Industry partners can tap scientific and technological capabilities built up in our universities to develop new products and services, while universities achieve impact by developing cutting edge solutions for problems faced by industry. Research areas are geared towards supporting business growth for companies, generating economic benefits for Singapore, and creating good jobs for Singaporeans.  
-  
+NRF encourages public-private R&amp;D partnerships between universities research performers and companies through the establishment of corporate laboratories in our universities or research institutes.  
+
+Industry partners can tap scientific and technological capabilities built up in our universities and research institutes to develop new products and services, while universities and research institutes achieve impact by developing cutting edge solutions for problems faced by industry. Research areas are geared towards supporting business growth for companies, generating economic benefits for Singapore, and creating good jobs for Singaporeans.
+
 Corporate laboratories enable faculty, researchers, PhD and Master’s students to work alongside companies on research that has direct relevance for the industry. Students gain industry experience, preparing them for employment in high value-add sectors.
+
+Click [here](https://go.gov.sg/corp-labs-2023) to view the latest corporate laboratories/joint laboratories. Other and past corporate laboratories are below.
+<br>
+<br>
 
 ---
 
@@ -27,7 +31,7 @@ The Corp Lab has successfully completed its first five years of research partner
 
 #### Keppel-NUS Corporate Laboratory ####
 
-The S$75 million Keppel-NUS Corporate Laboratory taps the practical expertise of KOMtech (the R&D subsidiary of Keppel Offshore & Marine) as well as faculty, key laboratories and computational facilities of National University of Singapore, to forge a strong partnership for innovation.  
+The S$75 million Keppel-NUS Corporate Laboratory taps the practical expertise of KOMtech (the R&amp;D subsidiary of Keppel Offshore &amp; Marine) as well as faculty, key laboratories and computational facilities of National University of Singapore, to forge a strong partnership for innovation.  
   
 [Read the press release here](https://go.gov.sg/corp-lab-keppel).
 
@@ -37,25 +41,25 @@ This corporate lab supports the $54 million Urban Computing and Engineering Cent
   
 [Read the press release here.](https://go.gov.sg/corp-lab-sustainable-urban)  
 
-#### ST Engineering-NTU Corporate Laboratory ####
+#### ST Engineering-NTU Corporate Laboratory&nbsp;####
 
-The S$53 million ST Engineering-NTU Corporate Laboratory focuses on developing advanced robotics and autonomous systems. The two main research areas are in airport precision and airside technology (such as baggage transfer systems, aerobridges and aircraft tow trucks) and in enhancing intelligence support for crisis management. This partnership will generate new products and services through the development of new technologies, increase employment opportunities for researchers and scientists, and provide greater exposure for students in industrial R&D.  
+The S$53 million ST Engineering-NTU Corporate Laboratory focuses on developing advanced robotics and autonomous systems. The two main research areas are in airport precision and airside technology (such as baggage transfer systems, aerobridges and aircraft tow trucks) and in enhancing intelligence support for crisis management. This partnership will generate new products and services through the development of new technologies, increase employment opportunities for researchers and scientists, and provide greater exposure for students in industrial R&amp;D.  
   
 [Read the press release here](https://go.gov.sg/corp-lab-steng-ntu).
 
 #### Sembcorp-NUS Corporate Laboratory ####
 
-The S$60 million Sembcorp-NUS Corporate Laboratory aims to develop new, competitive and sustainable solutions in the areas of energy, water and waste-to-resource. Research activities include solutions to optimise power generation while reducing emissions and waste residue, enhance industrial water and wastewater treatment systems, as well as transform waste into useful and high-value products such as ultra-light composites for modular construction. It will also provide an important platform for NUS students and researchers to gain experience in industrial R&D and promote interaction and exchange of ideas with engineers from Sembcorp.  
+The S$60 million Sembcorp-NUS Corporate Laboratory aims to develop new, competitive and sustainable solutions in the areas of energy, water and waste-to-resource. Research activities include solutions to optimise power generation while reducing emissions and waste residue, enhance industrial water and wastewater treatment systems, as well as transform waste into useful and high-value products such as ultra-light composites for modular construction. It will also provide an important platform for NUS students and researchers to gain experience in industrial R&amp;D and promote interaction and exchange of ideas with engineers from Sembcorp.  
   
 [Read the press release here.](https://go.gov.sg/corp-lab-sembcorp-nus)
 
-#### ST Electronics-SUTD Cyber Security Laboratory ####
+#### ST Electronics-SUTD Cyber Security Laboratory&nbsp;####
 
 The S$44.3 million ST Electronics-SUTD Cyber Security Laboratory focuses on advancing and translating the frontiers of cybersecurity research and technology, with an emphasis on commercialisation solutions that are relevant to the emerging cybersecurity needs in the market. This collaboration also aims to grow and nurture cybersecurity manpower to support Singapore’s Smart Nation initiative.  
   
 [Read the press release here.](https://go.gov.sg/corp-lab-steng-sutd)
 
-#### SMRT-NTU Smart Urban Rail Corporate Laboratory ####
+#### SMRT-NTU Smart Urban Rail Corporate Laboratory&nbsp;####
 
 The S$60 million SMRT-NTU Smart Urban Rail Corporate Laboratory aims to develop solutions to enhance rail reliability and develop a more resilient urban rail system in Singapore. Two complementary research tracks will lead the development of innovative urban rail solutions. The first track focuses on developing better detection methods and monitoring systems so that potential issues can be addressed quickly and accurately. The second track aims to enhance the reliability of existing rail assets by optimising maintenance and servicing processes, through prediction methodologies and analytic tools.  
   
@@ -81,7 +85,7 @@ The S$42.4 million Singtel Cognitive and Artificial Intelligence Lab for Enterpr
   
 #### WIL@NUS Corporate Laboratory ####
 
-The S$110 million WIL@NUS Corporate Laboratory aims to address the challenges of lifestyle-related diseases and sustainable production of industrial chemicals. Research activities will focus on two key thrusts: firstly, to address major public health issues through the development of healthier foods and ingredients; and secondly, to design cost-effective and sustainable methods of producing chemical compounds using natural sources. 
+The S$110 million WIL@NUS Corporate Laboratory aims to address the challenges of lifestyle-related diseases and sustainable production of industrial chemicals. Research activities will focus on two key thrusts: firstly, to address major public health issues through the development of healthier foods and ingredients; and secondly, to design cost-effective and sustainable methods of producing chemical compounds using natural sources.&nbsp;
 
 [Read the press release here.](https://go.gov.sg/corp-lab-wilma-nus)  
   
@@ -97,8 +101,8 @@ The S$84 million HP-NTU Digital Manufacturing Corporate Lab will drive innovatio
   
 [Read the press release here.](https://go.gov.sg/corp-lab-hp-ntu)
 
-#### Applied Materials-NUS Advanced Materials Corporate Laboratory ####
+#### Applied Materials-NUS Advanced Materials Corporate Laboratory&nbsp;####
 
-The S$70 million Applied Materials-NUS Advanced Materials Corporate Laboratory aims to accelerate the discovery and commercialisation of new materials for manufacturing next-generation semiconductors. New materials R&D and processing techniques with a focus on deposition and etching have been identified as two key research areas that will help pioneer innovative semiconductor structures and devices.  
+The S$70 million Applied Materials-NUS Advanced Materials Corporate Laboratory aims to accelerate the discovery and commercialisation of new materials for manufacturing next-generation semiconductors. New materials R&amp;D and processing techniques with a focus on deposition and etching have been identified as two key research areas that will help pioneer innovative semiconductor structures and devices.  
   
 [Read the press release here.](https://go.gov.sg/corp-lab-nus-applied-mats)
