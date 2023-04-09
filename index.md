@@ -22,7 +22,7 @@ sections:
           url: https://www.nrf.gov.sg/grants/igms/
         - title: Funding Initiatives (FI)
           description: Ecosystem-wide FIs
-          url: https://staging.d32jhm5ckwofyc.amplifyapp.com/
+          url: /rie-ecosystem/ecosystem-wide-fis/
       background: /images/hexagon-pattern-background-modern-technology-and-2022-12-16-11-03-58-utc22.jpg
   - infopic:
       title: The NRF Fellowship
