@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - Corporate Laboratories.md
+      - Corporate Laboratories in Universities and Research Institutes.md
       - CREATE.md
       - National Research Infrastructure.md
       - Technology Consortia.md
