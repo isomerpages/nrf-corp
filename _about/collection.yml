@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - About NRF Singapore/About NRF Singapore.md
       - About NRF Singapore/.keep
       - Career Opportunities.md
       - Governance/.keep
