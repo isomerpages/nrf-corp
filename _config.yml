@@ -3,7 +3,7 @@ url: https://www.nrf.gov.sg
 favicon: /images/Tiy.jpg
 colors:
   primary-color: "#c47c69"
-  secondary-color: "#9f3a48"
+  secondary-color: "#a23234"
   media-colors:
     - title: media-color-one
       color: "#f6e7cb"
