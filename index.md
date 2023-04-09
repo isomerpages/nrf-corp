@@ -23,7 +23,7 @@ sections:
         - title: Funding Initiatives (FI)
           description: Ecosystem-wide FIs
           url: /rie-ecosystem/ecosystem-wide-fis/
-      background: /images/hexagon-pattern-background-modern-technology-and-2022-12-16-11-03-58-utc22.jpg
+      background: /images/background-09.jpg
   - infopic:
       title: The NRF Fellowship
       subtitle: Funding & Grants
