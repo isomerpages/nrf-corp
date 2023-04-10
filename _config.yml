@@ -55,8 +55,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nrf-test-staging.netlify.app
-prod: https://nrf-test-prod.netlify.app
+staging: https://nrf-corp-staging.netlify.app
+prod: https://nrf-corp-prod.netlify.app
 shareicon: /images/isomer-logo.svg
 is_government: true
 facebook-pixel: ""
