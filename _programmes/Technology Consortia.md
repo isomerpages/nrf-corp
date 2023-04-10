@@ -3,6 +3,7 @@ title: Technology Consortia
 permalink: /programmes/techconsortia/
 description: ""
 ---
+![](/images/Programmes/cnc-laser-cutting-of-metal-modern-industrial-tech-2021-08-26-23-00-35-utc.jpg)
 ## Technology Consortia ##
 
 NRF has supported research projects through grants including the Competitive Research Programme, NRF Fellowship, and other thematic competitive grant calls in the areas of cybersecurity and synthetic biology. 
