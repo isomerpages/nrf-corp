@@ -12,7 +12,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Research, Innovation & Enterprise
+      title: Research, Innovation & Enterprise (RIE)
       subtitle: Cornerstone of Singapore’s development into a knowledge-based,
         innovation-driven economy and society.
       button: Find out more
@@ -28,6 +28,11 @@ sections:
           description: Singapore's brightest minds
           url: https://www.psta.gov.sg
       background: /images/background-16.jpg
+  - infobar:
+      title: National Research Foundation, Singapore
+      description: Custodian of Singapore's RIE Ecosystem, NRF sets the national
+        direction for R&D, funds strategic initiatives and nurtures research
+        talent.
   - infopic:
       title: The NRF Fellowship
       subtitle: Funding & Grants
