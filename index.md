@@ -44,7 +44,7 @@ sections:
       image: /images/researcher-holding-blue-pill-for-health-care-in-la-2022-11-09-15-08-47-utc.jpg
       alt: Image alt text
   - infopic:
-      title: Competitive Research Programme (CRP)
+      title: Competitive Research Programme
       subtitle: Grants
       description: The CRP funding scheme seeks to foster the formation of
         multidisciplinary teams to conduct research that are of relevance to
@@ -54,7 +54,7 @@ sections:
       alt: Image alt text
       image: /images/pharmaceutical-research-scientist-preparing-a-sam-2022-03-07-23-55-55-utc.jpg
   - infopic:
-      title: Central Gap Fund (CGF)
+      title: Central Gap Fund
       subtitle: Grants
       description: The CGF aims to support the translation of research outcomes into
         products, processes and/or services that generate benefits for
