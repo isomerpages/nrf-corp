@@ -20,4 +20,4 @@ The NRF, a department under the Prime Minister’s Office, aims to build a thriv
 
 <br>
 
-*This website is an official Singapore government agency website. It is owned and operated by NRF Singapore and it reserves the right to update or modify this Website from time to time.*
+*This website is an official Singapore government agency website. It is owned and operated by NRF Singapore and it reserves the right to update or modify this website from time to time.*
