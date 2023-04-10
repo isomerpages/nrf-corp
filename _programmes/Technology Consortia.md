@@ -35,8 +35,8 @@ To date, NRF has supported the setup of the following technology consortia:
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Singapore National Biofilm Consortium](/images/Programmes/snbc-logo.jpg)](https://www.nrf.gov.sg/tech-consortia/snbc/)<br> Singapore National Biofilm Consortium | [![Health Technologies Consortium](/images/Programmes/healthtec-logo-medium.png)](https://www.nrf.gov.sg/tech-consortia/healthtec)<br>Health Technologies Consortium
+|[![Singapore National Biofilm Consortium](/images/Programmes/snbc-logo.jpg)](https://www.nrf.gov.sg/tech-consortia/snbc/)<br> Singapore National Biofilm Consortium | [![Health Technologies Consortium](/images/Programmes/healthtec-logo2.jpg)](https://www.nrf.gov.sg/tech-consortia/healthtec)<br>Health Technologies Consortium
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Singapore Battery Consortium](/images/Programmes/sbc_logo_landscape_colour.jpg)](https://www.nrf.gov.sg/tech-consortia/sgbatt/)<br>Singapore Battery Consortium
+|[![Singapore Battery Consortium](/images/Programmes/sbc_logo_landscape_colour.jpg)](https://www.nrf.gov.sg/tech-consortia/sgbatt/)<br>Singapore Battery Consortium | ![Singapore Battery Consortium](/images/Programmes/white-bg.jpg)<br>
