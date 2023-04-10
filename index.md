@@ -35,7 +35,7 @@ sections:
         talent.
   - infopic:
       title: The NRF Fellowship
-      subtitle: Funding & Grants
+      subtitle: Grants
       description: The Singapore NRF Fellowship provides opportunities for early
         career researchers to carry out independent research in Singapore, over
         a five-year period.
@@ -45,7 +45,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Competitive Research Programme (CRP)
-      subtitle: Funding & Grants
+      subtitle: Grants
       description: The CRP funding scheme seeks to foster the formation of
         multidisciplinary teams to conduct research that are of relevance to
         Singapore society.
@@ -55,7 +55,7 @@ sections:
       image: /images/pharmaceutical-research-scientist-preparing-a-sam-2022-03-07-23-55-55-utc.jpg
   - infopic:
       title: Central Gap Fund (CGF)
-      subtitle: Funding & Grants
+      subtitle: Grants
       description: The CGF aims to support the translation of research outcomes into
         products, processes and/or services that generate benefits for
         Singapore.
