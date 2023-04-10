@@ -2,8 +2,8 @@ collections:
   rie-ecosystem:
     output: true
     order:
-      - The RIE Ecosystem.md
-      - RIE2025 Handbook.md
       - Ecosystem Wide FIs/.keep
       - Ecosystem Wide FIs/Innovation and Enterprise.md
       - Ecosystem Wide FIs/Urban Solutions and Sustainability.md
+      - The RIE Ecosystem.md
+      - RIE2025 Handbook.md
