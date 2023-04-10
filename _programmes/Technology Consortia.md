@@ -39,4 +39,4 @@ To date, NRF has supported the setup of the following technology consortia:
 
 |  |  |  |
 | -------- | -------- | -------- |
-|[![Singapore Battery Consortium](/images/Programmes/sbc_logo_landscape_colour.jpg)](https://www.nrf.gov.sg/tech-consortia/sgbatt)<br>Singapore Battery Consortium
+|[![Singapore Battery Consortium](/images/Programmes/sbc_logo_landscape_colour.jpg)](https://www.nrf.gov.sg/tech-consortia/sgbatt/)<br>Singapore Battery Consortium
