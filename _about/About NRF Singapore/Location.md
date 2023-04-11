@@ -9,7 +9,7 @@ third_nav_title: About NRF Singapore
 ## NRF Headquarters
 ----------------
 
-The National Research FoundationSingapore (NRF) is located within the Campus for Research Excellence and Technological Enterprise ([CREATE](https://www.nrf.gov.sg/about-nrf/nrf-headquarters#create)), which is situated at the University Town Civic Plaza, National University of Singapore.
+The National Research Foundation, Singapore (NRF) is located within the Campus for Research Excellence and Technological Enterprise ([CREATE](https://www.nrf.gov.sg/about-nrf/nrf-headquarters#create)), which is situated at the University Town Civic Plaza, National University of Singapore.
 
 **Address**  
 1 CREATE Way #12-02  
