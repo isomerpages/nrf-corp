@@ -4,7 +4,8 @@ permalink: /about/about-nrf-singapore/location/
 description: ""
 third_nav_title: About NRF Singapore
 ---
-![](/images/creates.jpg)
+<img src="/images/creates.jpg" alt="CREATE Tower" style="width:350px">
+
 ## NRF Headquarters
 ----------------
 
@@ -16,11 +17,11 @@ CREATE Tower
 Singapore 138602
 
 **Directory Assistance**  
-For directions to CREATE or to make general enquiries, please contact our Reception Desk at   
+For directions to CREATE or to make general enquiries, please contact our Reception Desk at&nbsp;  
 Tel: (+65) 6684 2900
 
 **Operating Hours**  
 Monday to Friday: 8.30am - 5.30pm  
-Closed on Saturday, Sunday and Public Holidays
+Closed on Saturday, Sunday and&nbsp;Public Holidays
 
 Click **[here](https://go.gov.sg/directions-to-create-tower)** to download a  location guide to NRF Headquarters.
