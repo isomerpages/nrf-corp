@@ -46,7 +46,7 @@ sections:
   - infopic:
       title: Competitive Research Programme
       subtitle: Grants
-      description: The CRP funding scheme seeks to foster the formation of
+      description: This funding scheme seeks to foster the formation of
         multidisciplinary teams to conduct research that are of relevance to
         Singapore society.
       button: Learn more
@@ -56,15 +56,15 @@ sections:
   - infopic:
       title: Central Gap Fund
       subtitle: Grants
-      description: The CGF aims to support the translation of research outcomes into
-        products, processes and/or services that generate benefits for
-        Singapore.
+      description: This funding scheme aims to support the translation of research
+        outcomes into products, processes and/or services that generate benefits
+        for Singapore.
       button: Learn more
       url: /grants/cgf/
       alt: Image alt text
       image: /images/creative-idea-or-innovation-concept-2021-08-30-05-58-22-utc.jpg
   - resources:
-      title: News Releases & Speeches
-      subtitle: Media
+      title: News Releases, Speeches, and more
+      subtitle: Media & Publications
       button: View More
 ---
