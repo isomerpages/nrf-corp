@@ -4,7 +4,7 @@ permalink: /about/governance/riec/
 description: ""
 third_nav_title: Governance
 ---
-<img src="/images/riec-logo.png" alt="President’s Science and Technology Awards Logo" style="width:250px"><br>
+<img src="/images/riec-logo.png" alt="RIEC" style="width:250px"><br>
 The NRF supports the Research Innovation and Enterprise Council (RIEC).
 
 The RIEC is chaired by the Prime Minister of Singapore, who appoints members to three-year terms. The RIEC comprises Cabinet Ministers and distinguished local and foreign members from the business, science and technology communities.
