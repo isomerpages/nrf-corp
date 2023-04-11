@@ -66,5 +66,5 @@ sections:
   - resources:
       title: News Releases, Speeches, and more
       subtitle: Media & Publications
-      button: Browse entire repository
+      button: Browse repository
 ---
