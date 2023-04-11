@@ -24,7 +24,7 @@ We encourage whistle-blowers to leave their names to the allegations and a means
   
 To the extent feasible and permissible under the law, NRF will make every effort not to reveal the identity of the whistle-blower.  
   
-NRF’s Whistleblowing email address is&nbsp;[**whistleblow@nrf.gov.sg**](mailto:whistleblow@nrf.gov.sg).
+NRF’s Whistleblowing email address is  **[whistleblow@nrf.gov.sg](mailto:whistleblow@nrf.gov.sg)**.
 <br>
 <br>
 ----
