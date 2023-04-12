@@ -27,7 +27,6 @@ sections:
         - title: President's Science & Technology Awards (PSTA)
           description: Singapore's brightest minds
           url: https://www.psta.gov.sg
-      background: /images/background-16.jpg
   - infobar:
       title: National Research Foundation, Singapore (NRF)
       description: Custodian of Singapore's RIE Ecosystem, NRF sets the national
