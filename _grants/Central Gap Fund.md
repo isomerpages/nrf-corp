@@ -3,7 +3,8 @@ title: Central Gap Fund
 permalink: /grants/cgf/
 description: ""
 ---
-![](/images/Grants/teamwork.jpg)
+![](/images/digital%20strategy%20and%20planing.jpg)
+
 The National Research Foundation (NRF) Central Gap Fund (“Central Gap”) aims to support the translation of research outcomes into products, processes and/or services that generate economic and societal benefits for Singapore. 
 
 The scheme provides a national-level platform to resource impactful projects and encourage collaboration across public research performers and/or industry.
