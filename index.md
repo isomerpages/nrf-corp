@@ -27,6 +27,7 @@ sections:
         - title: President's Science & Technology Awards (PSTA)
           description: Singapore's brightest minds
           url: https://www.psta.gov.sg
+      background: /images/researcher-holding-blue-pill-for-health-care-in-la-2022-11-09-15-08-47-utc.jpg
   - infobar:
       title: National Research Foundation, Singapore (NRF)
       description: Custodian of Singapore's RIE Ecosystem, NRF sets the national
