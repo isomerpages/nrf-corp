@@ -3,7 +3,7 @@ title: The Global Young Scientists Summit
 permalink: /flagship-events/gyss/
 description: ""
 ---
-![](/images/Events/gyss-logo-full-col.jpg)
+<img src="/images/Events/gyss-logo-full-col.jpg" alt="GYSS" style="width:300px"><br>
 
 The **Global Young Scientists Summit** in Singapore brings together bright young researchers and top scientific minds from around the world to discuss science and technology trends, future game changers and how research could address major global challenges. 
 
