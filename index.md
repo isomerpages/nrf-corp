@@ -41,7 +41,7 @@ sections:
         a five-year period.
       button: Learn more
       url: /grants/nrff/
-      image: /images/researcher-holding-blue-pill-for-health-care-in-la-2022-11-09-15-08-47-utc.jpg
+      image: /images/developing-programmer-development-website-design-a-2023-02-02-23-50-47-utc.JPG
       alt: Image alt text
   - infopic:
       title: Competitive Research Programme
@@ -62,7 +62,7 @@ sections:
       button: Learn more
       url: /grants/cgf/
       alt: Image alt text
-      image: /images/creative-idea-or-innovation-concept-2021-08-30-05-58-22-utc.jpg
+      image: /images/robotic-arm-2021-08-26-22-59-26-utc.jpg
   - resources:
       title: News Releases, Speeches, and more
       subtitle: Media & Publications
