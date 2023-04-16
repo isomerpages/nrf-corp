@@ -3,7 +3,7 @@ url: https://www.nrf.gov.sg
 favicon: /images/favicon-32x32.png
 colors:
   primary-color: "#d27f82"
-  secondary-color: "#a23234"
+  secondary-color: "#a62729"
   media-colors:
     - title: media-color-one
       color: "#f6e7cb"
