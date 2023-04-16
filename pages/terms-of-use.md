@@ -28,4 +28,4 @@ Where appropriate, we use available technology to protect the security of commun
 
 We are not responsible or liable for the availability or content of any other third-party Internet site (not provided by us) linked to or from The Website. Access to any other third-party Internet sites is at your own risk. If you create a link or frame to The Website, you do so at your own risk. We reserve the right to object or disable any link or frame to or from The Website.
 
-The inclusion of any hyperlink does not imply endorsement by NRF of such websites. In no circumstances shall NRF be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which The Website is hyperlinked.
+The inclusion of any hyperlink does not imply endorsement by the National Research Foundation Singapore (NRF) of such websites. In no circumstances shall NRF be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which The Website is hyperlinked.
