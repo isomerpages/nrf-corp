@@ -7,9 +7,7 @@ description: ""
 
 **What are the job or internship opportunities available at the National Research Foundation (NRF)?** 
 
-Please visit [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=national%20research%20foundation&job-mail-subscribe-privacy=agree) for a listing of job and internship opportunities at NRF.
-
-Follow our [LinkedIn page](https://sg.linkedin.com/company/nrfsg) for updates on job and internship opportunities.
+Please visit [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=national%20research%20foundation&job-mail-subscribe-privacy=agree) for a listing of job and internship opportunities at NRF and follow our [LinkedIn page](https://sg.linkedin.com/company/nrfsg) for updates as well.
   
 **I would like to book facilities at CREATE. Who should I contact?**
 
