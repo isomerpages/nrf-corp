@@ -7,7 +7,7 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   policies, plans and strategies for research, innovation and enterprise. It
   also funds strategic initiatives and develops R&D capabilities by nurturing
   research talent.
-image: /images/isomer-logo.svg
+image: /images/nrf logo fa-monogram.jpg
 permalink: /
 notification: ""
 sections:
