@@ -1,6 +1,6 @@
 title: National Research Foundation, Singapore (NRF)
 url: https://www.nrf.gov.sg
-favicon: /images/Tiy.jpg
+favicon: /images/favicon-32x32.png
 colors:
   primary-color: "#d27f82"
   secondary-color: "#a23234"
@@ -57,8 +57,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d36lkpin3fx3c6.amplifyapp.com/
 prod: https://master.d36lkpin3fx3c6.amplifyapp.com/
-shareicon: /images/isomer-logo.svg
+shareicon: /images/nrf logo fa-monogram.jpg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
