@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: NRF Singapore
 locations:
   - address:
-      - "1 CREATE Way #12-02"
       - CREATE Tower
+      - "1 CREATE Way #12-02"
       - Singapore 138602
     operating_hours:
       - days: Mon - Fri
