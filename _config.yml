@@ -57,7 +57,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d36lkpin3fx3c6.amplifyapp.com/
 prod: https://master.d36lkpin3fx3c6.amplifyapp.com/
-shareicon: /images/nrf logo fa-monogram.jpg
+shareicon: /images/researcher-holding-blue-pill-for-health-care-in-la-2022-11-09-15-08-47-utc.jpg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
