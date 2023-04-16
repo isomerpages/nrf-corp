@@ -7,7 +7,9 @@ description: ""
 
 **What are the job or internship opportunities available at the National Research Foundation (NRF)?** 
 
-Please visit [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=national%20research%20foundation&job-mail-subscribe-privacy=agree) for a listing of job and internship opportunities at NRF.   
+Please visit [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=national%20research%20foundation&job-mail-subscribe-privacy=agree) for a listing of job and internship opportunities at NRF.
+
+Follow our [LinkedIn page](https://sg.linkedin.com/company/nrfsg) for updates on job and internship opportunities.
   
 **I would like to book facilities at CREATE. Who should I contact?**
 
@@ -27,15 +29,9 @@ Information on research and innovation grants, as well as international grant ca
 
 The [NRF Fellowship](https://www.nrf.gov.sg/grants/nrff/) provides opportunities for early career researchers to carry out independent research in Singapore. NRF invites applications once a year. It is open to all areas of science and technology, and researchers of all nationalities are welcome to apply.
   
-**I am interested in the AI.SG programme. Who should I contact if I have more enquiries, or for collaboration opportunities?**
-
-Please email [enquiries@aisingapore.org](mailto:enquiries@aisingapore.org) with your enquiries.   
-  
 **Who should I contact regarding the Research, Innovation and Technology Administration (RITA) system?**
 
 Please email [helpdesk@researchgrant.gov.sg](mailto:) with your enquiries.
-
-  
 
 ### Start-up Funding & Grants
 
