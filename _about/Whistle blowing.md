@@ -27,7 +27,9 @@ To the extent feasible and permissible under the law, NRF will make every effort
 NRF’s Whistleblowing email address is  **[whistleblow@nrf.gov.sg](mailto:whistleblow@nrf.gov.sg)**.
 <br>
 <br>
-----
+
+---
+
 #### Types of Improprieties
 
 Possible improprieties include but are not limited to the following:  
