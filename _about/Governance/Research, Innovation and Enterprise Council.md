@@ -4,8 +4,7 @@ permalink: /about/governance/riec/
 description: ""
 third_nav_title: Governance
 ---
-<img src="/images/riec-logo%20big.png" alt="RIEC" style="width:250px"><br>
-The NRF supports the Research Innovation and Enterprise Council (RIEC).
+The NRF supports the **Research Innovation and Enterprise Council (RIEC)**.
 
 The RIEC is chaired by the Prime Minister of Singapore, who appoints members to three-year terms. The RIEC comprises Cabinet Ministers and distinguished local and foreign members from the business, science and technology communities.
 
@@ -31,5 +30,3 @@ This high-level council underscores the political commitment to and importance p
 |**Mr Sudipta Bhattacharya** <br> CEO, Adani Group – North America | **Mr Dilhan Pillay Sandrasegara**<br>Executive Director and CEO, Temasek Holdings | **Mr Forrest Li**<br>Founder, Chairman and Group CEO of Sea Ltd
 |**Ms Goh Swee Chen**<br>Chairman, Nanyang Technological University |**Mr Hsieh Fu Hua**<br>Chairman, National University of Singapore |**Ms Jenny Lee**<br>Managing Partner, GGV Capital
 |**Mr Koh Boon Hwee**<br>Chairman, Altara Ventures
-
-*Click [here](https://www.nrf.gov.sg/rieclogo/) to understand the rationale for the RIEC logo.*
