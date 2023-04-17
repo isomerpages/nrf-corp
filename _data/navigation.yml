@@ -12,5 +12,7 @@ links:
     collection: flagship-events
   - title: Media & Publications
     resource_room: true
+  - title: Contact
+    url: /contact-us/
   - title: FAQ
     url: /faq/
