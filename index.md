@@ -34,7 +34,7 @@ sections:
         direction for R&D, funds strategic initiatives and nurtures research
         talent.
   - infopic:
-      title: The NRF Fellowship
+      title: NRF Fellowship
       subtitle: Grants
       description: The Singapore NRF Fellowship provides opportunities for early
         career researchers to carry out independent research in Singapore, over
