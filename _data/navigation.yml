@@ -14,10 +14,8 @@ links:
     resource_room: true
   - title: Contact
     url: /contact-us/
-  - title: FAQ
-    url: /faq/
-  - title: Contact
-    url: /contact-us/
     sublinks:
       - title: Whistle blowing
         url: /whistleblowing/
+  - title: FAQ
+    url: /faq/
