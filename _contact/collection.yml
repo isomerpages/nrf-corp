@@ -2,4 +2,5 @@ collections:
   contact:
     output: true
     order:
+      - Location.md
       - Whistle blowing.md
