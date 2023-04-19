@@ -25,9 +25,4 @@ contacts:
       - email: helpdesk@researchgrant.gov.sg
       - other: ""
     title: Enquiries on IGMS
-  - content:
-      - phone: ""
-      - email: whistleblow@nrf.gov.sg
-      - other: https://www.nrf.gov.sg/contact/whistleblowing/
-    title: Whistleblowing
 ---
