@@ -5,7 +5,7 @@ description: ""
 ---
 ## NRF's Whistle-blowing Framework
 
-In an effort to strengthen grant governance processes and practices, National Research Foundation, Singapore (NRF) has adopted a Whistle-Blowing Framework that provides a platform for you to raise any concerns you may have on possible improprieties that involve NRF’s employees, Implementing Agencies and/or Grantees funded directly by NRF.  
+In an effort to strengthen grant governance processes and practices, National Research Foundation, Singapore (NRF) has adopted a **Whistle-Blowing Framework** that provides a platform for you to raise any concerns you may have on possible improprieties that involve NRF’s employees, Implementing Agencies and/or Grantees funded directly by NRF.  
   
 To enable NRF to effectively investigate your concerns, the following information should be provided, where possible:  
   
