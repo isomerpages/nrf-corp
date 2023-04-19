@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/Programmes/graphene-center.jpg)
 
-NRF encourages public-private R&amp;D partnerships between research performers and companies through the establishment of Corporate Laboratories (Corp Labs) in our universities or research institutes.  
+NRF encourages public-private R&amp;D partnerships between research performers and companies through the establishment of Corporate Laboratories (Corp Labs) in our universities or research institutes.
 
 Industry partners can tap scientific and technological capabilities built up in our universities and research institutes to develop new products and services, while universities and research institutes achieve impact by developing cutting edge solutions for problems faced by industry. Research areas are geared towards supporting business growth for companies, generating economic benefits for Singapore, and creating good jobs for Singaporeans.
 
@@ -33,7 +33,7 @@ The S$45 million SIA-NUS Digital Aviation Corporate Laboratory aims to develop c
 
 #### Lab-in-Fab (2020) ####
 
-Lab-in-Fab is a collaboration between STMicroelectronics, A*STAR’s Institute of Microelectronics (IME), and ULVAC, a leading Japanese manufacturing-tool vendor. The aim is to jointly set up and operate an 8-inch (200mm) R&D line focused on piezoelectric microelectromechanical (Piezo MEMS) technology within STMicroelectronics’ existing manufacturing facility in Singapore. This Lab-in-Fab R&D line brings together three partners with leading-edge and complementary competencies in Piezo materials, Piezo MEMS technologies, and wafer fab tools to boost innovation and accelerate development of new materials, process technologies, and ultimately, products for industry customers.
+Lab-in-Fab is a collaboration between STMicroelectronics, ASTAR’s Institute of Microelectronics (IME), and ULVAC, a leading Japanese manufacturing-tool vendor. The aim is to jointly set up and operate an 8-inch (200mm) R&D line focused on piezoelectric microelectromechanical (Piezo MEMS) technology within STMicroelectronics’ existing manufacturing facility in Singapore. This Lab-in-Fab R&D line brings together three partners with leading-edge and complementary competencies in Piezo materials, Piezo MEMS technologies, and wafer fab tools to boost innovation and accelerate development of new materials, process technologies, and ultimately, products for industry customers.
 
 [Read the press release here.](https://www.a-star.edu.sg/docs/librariesprovider18/default-document-library/stmicroelectronics-establishes-world-s-first-lab-in-fab-to-advance-adoption-of-piezoelectric-mems-in-singapore-in-partnership-with-astar-and-ulvac.pdf)
 
@@ -45,10 +45,10 @@ The S$50 million Continental – NTU Corporate Laboratory aims to accelerate inn
 
 #### Rolls-Royce@NTU Corporate Laboratory (Phase II, 2013 and 2019) ####
 
-The S$75 million Rolls-Royce@NTU Corporate Laboratory focuses on three areas of research: electrical power and control systems, manufacturing and repair technologies, and computational engineering. The industry research laboratory is located within the Nanyang Technological University (NTU) campus. Rolls-Royce co-funds the laboratory and provides industry mentorship to NTU researchers participating in the programme.  
-  
+The S$75 million Rolls-Royce@NTU Corporate Laboratory focuses on three areas of research: electrical power and control systems, manufacturing and repair technologies, and computational engineering. The industry research laboratory is located within the Nanyang Technological University (NTU) campus. Rolls-Royce co-funds the laboratory and provides industry mentorship to NTU researchers participating in the programme.
+
 [Read the press release here.](https://go.gov.sg/corp-lab-scheme)
-  
+
 The Corp Lab has successfully completed its first five years of research partnership and has moved into its next phase with a joint investment of $88 million. Research outcomes from the first phase are now being used to help design and develop future power and propulsion systems and improve manufacturing operations in Singapore and in other global sites of Rolls-Royce. In the second phase, the Corp Lab will work on 29 projects that make use of Industry 4.0 technologies – connecting computers, machines and engines, generating valuable data that will enhance design, manufacturing, maintenance, services, and operations.
 
 [Read the press release here.](https://go.gov.sg/corp-lab-rr-ntu)
