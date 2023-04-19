@@ -2,9 +2,9 @@ collections:
   about:
     output: true
     order:
-      - About/.keep
-      - About/About NRF Singapore.md
-      - About/Career Opportunities.md
+      - About NRF Singapore/.keep
+      - About NRF Singapore/About NRF Singapore.md
+      - About NRF Singapore/Career Opportunities.md
       - Governance/.keep
       - Governance/Research, Innovation and Enterprise Council.md
       - Governance/Scientific Advisory Board.md
