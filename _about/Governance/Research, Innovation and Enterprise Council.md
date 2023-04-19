@@ -19,7 +19,7 @@ This high-level council underscores the political commitment to and importance p
 
 | | |  |
 | -------- | -------- | -------- |
-| **Mr Lee Hsien Loong** <br>Prime Minister and&nbsp;Chairman, RIEC | **Mr Lawrence Wong** <br>Deputy Prime Minister and Minister for Finance | **Mr Heng Swee Keat** <br>Deputy Prime Minister,&nbsp;Minister for Finance, Coordinating Minister for Economic Policies, and&nbsp;Chairman of NRF |
+| **Mr Lee Hsien Loong** <br>Prime Minister and&nbsp;Chairman, RIEC | **Mr Lawrence Wong** <br>Deputy Prime Minister and Minister for Finance | **Mr Heng Swee Keat** <br>Deputy Prime Minister,&nbsp; Coordinating Minister for Economic Policies, and&nbsp;Chairman of NRF |
 | **Mr Teo Chee Hean** <br>Senior Minister,&nbsp;Coordinating Minister for&nbsp;National Security, and&nbsp;Special Advisor to NRF | **Dr Ng Eng Hen** <br>Minister for Defence | **Dr&nbsp;Vivian Balakrishnan**<br>Minister for Foreign Affairs
 | **Mr Gan Kim Yong**<br>Minister for Trade and Industry | **Mr&nbsp;S Iswaran**<br>Minister for Transport and Minister-in-charge of Trade Relations | **Ms Grace Fu**<br>Minister for Sustainability and the Environment
 |**Mr Chan Chun Sing**<br>Minister for Education | **Mr Masagos Zulkifli**<br> Minister for Social and Family Development and Second Minister for Health | **Mr Ong Ye Kung**<br>Minister for Health
