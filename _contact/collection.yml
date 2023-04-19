@@ -1,0 +1,4 @@
+collections:
+  contact:
+    output: true
+    order: []
