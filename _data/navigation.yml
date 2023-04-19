@@ -16,3 +16,8 @@ links:
     url: /contact-us/
   - title: FAQ
     url: /faq/
+  - title: Contact
+    url: /contact-us/
+    sublinks:
+      - title: Whistle blowing
+        url: /permalink
