@@ -28,6 +28,6 @@ contacts:
   - content:
       - phone: ""
       - email: whistleblow@nrf.gov.sg
-      - other: https://www.nrf.gov.sg/whistleblowing/
+      - other: https://www.nrf.gov.sg/contact/whistleblowing/
     title: Whistleblowing
 ---
