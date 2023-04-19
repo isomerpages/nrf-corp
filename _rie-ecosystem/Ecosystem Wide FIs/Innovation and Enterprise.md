@@ -4,7 +4,9 @@ permalink: /rie-ecosystem/ecosystem-wide-fis/ie-fis/
 description: ""
 third_nav_title: Ecosystem Wide FIs
 ---
-**Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The Innovation and Enterprise (I&amp;E) FIs below are managed by various **Implementing Agencies (IAs)** across Singapore:<br>
+**Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
+
+Here is a list of Innovation and Enterprise (I&amp;E) FIs:<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agency for Science, Technology and Research (A\*STAR)](https://www.a-star.edu.sg/)<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Economic Development Board (EDB)](https://www.edb.gov.sg/)<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enterprise Singapore (ESG)](https://www.enterprisesg.gov.sg/)<br>
