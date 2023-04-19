@@ -4,7 +4,7 @@ permalink: /about/governance/sab/
 description: ""
 third_nav_title: Governance
 ---
-The Scientific Advisory Board (SAB) is a multi-disciplinary international board with expertise in broad areas of technology. SAB convenes annually in Singapore to advise on NRF’s policies and programmes.
+The Scientific Advisory Board (SAB) is a multi-disciplinary international board with expertise in broad areas of technology. The SAB convenes annually in Singapore to advise on NRF’s policies and programmes.
 
 The SAB’s role is to:
 * Highlight critical issues and emerging global trends in basic and investigator-led research where Singapore could fill a gap or meet a need;
@@ -12,7 +12,7 @@ The SAB’s role is to:
 * Review and advise on the proposals and plans prepared by the NRF; and
 * Assist and advise the NRF on the management of R&amp;D, including the allocation of funding and the assessment of research outcomes.
 
-SAB members are appointed by the Chairman of the NRF Board. The SAB is chaired by Sir Richard Friend, Cavendish Professor of Physics, University of Cambridge.
+SAB members are appointed by the Chairman of the [NRF Board](/about/governance/nrfb/). The SAB is chaired by Sir Richard Friend, Cavendish Professor of Physics, University of Cambridge.
 
 ## SAB Members ##
 
