@@ -55,14 +55,14 @@ The Corp Lab has successfully completed its first five years of research partner
 
 #### Local Ecosystem Development for Aircraft Cabin Interior Components (2019) ####
 
-The S$33.16 million SIA-SIAEC-SIMTech (A*STAR) Joint Laboratory aims to help local LLEs and SMEs upgrade their technical skills and capabilities, gearing Singapore up to be the R&D Centre of Excellence for cabin interior components design and manufacturing. To help upgrade the industry, the joint lab will develop manufacturing capabilities and the local manufacturing ecosystem to improve product performance, reduce the cost and lead time, and encourage SMEs to venture into high value-added business. It will also nurture talents to increase the manpower to support the local aerospace manufacturing and other relevant industries.
+The S$33.16 million SIA-SIAEC-SIMTech (ASTAR) Joint Laboratory aims to help local LLEs and SMEs upgrade their technical skills and capabilities, gearing Singapore up to be the R&D Centre of Excellence for cabin interior components design and manufacturing. To help upgrade the industry, the joint lab will develop manufacturing capabilities and the local manufacturing ecosystem to improve product performance, reduce the cost and lead time, and encourage SMEs to venture into high value-added business. It will also nurture talents to increase the manpower to support the local aerospace manufacturing and other relevant industries.
 
 [Read the press release here.](https://www.a-star.edu.sg/simtech/news-events/SIMTech-Manufacturing-Matters/MM/features/pe-matters-sia-siaec-simtech-joint-lab)
 
 #### Applied Materials-NUS Advanced Materials Corporate Laboratory (2018) ####
 
-The S$70 million Applied Materials-NUS Advanced Materials Corporate Laboratory aims to accelerate the discovery and commercialisation of new materials for manufacturing next-generation semiconductors. New materials R&amp;D and processing techniques with a focus on deposition and etching have been identified as two key research areas that will help pioneer innovative semiconductor structures and devices.  
-  
+The S$70 million Applied Materials-NUS Advanced Materials Corporate Laboratory aims to accelerate the discovery and commercialisation of new materials for manufacturing next-generation semiconductors. New materials R&amp;D and processing techniques with a focus on deposition and etching have been identified as two key research areas that will help pioneer innovative semiconductor structures and devices.
+
 [Read the press release here.](https://go.gov.sg/corp-lab-nus-applied-mats)
 
 #### Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU) (2017) ####
@@ -73,6 +73,6 @@ The S$42.4 million Singtel Cognitive and Artificial Intelligence Lab for Enterpr
 
 #### WIL@NUS Corporate Laboratory (2017) ####
 
-The S$110 million WIL@NUS Corporate Laboratory aims to address the challenges of lifestyle-related diseases and sustainable production of industrial chemicals. Research activities will focus on two key thrusts: firstly, to address major public health issues through the development of healthier foods and ingredients; and secondly, to design cost-effective and sustainable methods of producing chemical compounds using natural sources.&nbsp;
+The S$110 million WIL@NUS Corporate Laboratory aims to address the challenges of lifestyle-related diseases and sustainable production of industrial chemicals. Research activities will focus on two key thrusts: firstly, to address major public health issues through the development of healthier foods and ingredients; and secondly, to design cost-effective and sustainable methods of producing chemical compounds using natural sources.
 
 [Read the press release here.](https://go.gov.sg/corp-lab-wilma-nus)
