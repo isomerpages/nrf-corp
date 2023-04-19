@@ -4,24 +4,21 @@ permalink: /rie-ecosystem/ecosystem-wide-fis/ie-fis/
 description: ""
 third_nav_title: Ecosystem Wide FIs
 ---
-**Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The Innovation and Enterprise (I&amp;E) FIs below are managed by various Implementing Agencies (IAs) across Singapore:
-
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agency for Science, Technology and Research (A\*STAR)](https://www.a-star.edu.sg/)
-
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Economic Development Board (EDB)](https://www.edb.gov.sg/)
-
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enterprise Singapore (ESG)](https://www.enterprisesg.gov.sg/)
+**Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The Innovation and Enterprise (I&amp;E) FIs below are managed by various Implementing Agencies (IAs) across Singapore:<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agency for Science, Technology and Research (A\*STAR)](https://www.a-star.edu.sg/)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Economic Development Board (EDB)](https://www.edb.gov.sg/)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Enterprise Singapore (ESG)](https://www.enterprisesg.gov.sg/)<br>
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="708" style="width:531.1pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:5.4pt"><td width="264" colspan="2" style="width:197.95pt;border:solid #606160 1.0pt;
   background:#D5DCE4;mso-background-themecolor:text2;mso-background-themetint:
-  51;padding:2.25pt .45pt 0cm .45pt;height:5.4pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">FIs/initiative</span></b></p></td><td width="444" style="width:333.15pt;border:solid #606160 1.0pt;border-left:
+  51;padding:2.25pt .45pt 0cm .45pt;height:5.4pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">FIs and respective IAs</span></b></p></td><td width="444" style="width:333.15pt;border:solid #606160 1.0pt;border-left:
   none;mso-border-left-alt:solid #606160 1.0pt;background:#D5DCE4;mso-background-themecolor:
   text2;mso-background-themetint:51;padding:2.25pt .45pt 0cm .45pt;height:5.4pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Description</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:11.9pt"><td width="708" colspan="3" valign="top" style="width:531.1pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
   padding:4.05pt 8.1pt 4.05pt 8.1pt;height:11.9pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Large Corporates</span></b></p></td></tr><tr style="mso-yfti-irow:2;height:19.65pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#EBEBEB;
-  padding:2.25pt .45pt 0cm .45pt;height:19.65pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html"><b>Research and Innovation Scheme for Companies (RISI)</b></a></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
+  padding:2.25pt .45pt 0cm .45pt;height:19.65pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes.html"><b>Research and Innovation Scheme for Companies (RIS(C))</b></a></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
   border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#EBEBEB;padding:2.25pt .45pt 0cm .45pt;height:19.65pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">EDB</span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
