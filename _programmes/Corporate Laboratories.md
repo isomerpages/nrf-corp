@@ -43,7 +43,7 @@ The S$50 million Continental – NTU Corporate Laboratory aims to accelerate inn
 
 [Read the press release here.](https://www.ntu.edu.sg/docs/default-source/corporate-ntu/hub-news/ntu-singapore-and-continental-launch-sgd50-million-joint-lab-to-develop-next-generation-urban-mobility-solutions-ff354294-ea20-4d9e-bddf-c2d2cd9064c4.pdf?sfvrsn=b0a5cd3f_3)
 
-#### Rolls-Royce@NTU Corporate Laboratory (Phase II, 2013 and 2019) ####
+#### Rolls-Royce@NTU Corporate Laboratory (2019) ####
 
 The S$75 million Rolls-Royce@NTU Corporate Laboratory focuses on three areas of research: electrical power and control systems, manufacturing and repair technologies, and computational engineering. The industry research laboratory is located within the Nanyang Technological University (NTU) campus. Rolls-Royce co-funds the laboratory and provides industry mentorship to NTU researchers participating in the programme.
 
