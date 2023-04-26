@@ -7,16 +7,12 @@ third_nav_title: Ecosystem Wide FIs
 **Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
 
 Here is a list of Urban Solutions and Sustainability (USS) FIs outside NRF that are managed by these IAs:<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agency for Science, Technology and Research (A\*STAR)](https://www.a-star.edu.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Building and Construction Authority (BCA)](https://www1.bca.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Energy Market Authority (EMA)](https://www.ema.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ministry of National Development (MND)](https://www.mnd.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [National Environment Agency (NEA)](https://www.nea.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [National Parks Board (NParks)](https://www.nparks.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [NUS Singapore Nuclear Research and Safety Initiative](https://snrsi.nus.edu.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Public Utilities Board (PUB)](https://www.pub.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singapore ETH Centre (SEC)](https://sec.ethz.ch/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ministry of Health (MOH)](https://www.moh.gov.sg/)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ministry of Education (MOE)](https://www.moe.gov.sg/)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [National Precision Medicine (NPM)](https://www.npm.sg/)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREPARE](https://www.moh.gov.sg/prepare/about-us)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singapore Translational Cancer Consortium (STCC)](https://www.stcc.sg/)<br>
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cardiovascular Disease National Collaborative Enterprise (CADENCE)](https://cris.sg/our-programmes/cadence/)<br>
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="708" style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
  1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.45pt"><td width="264" colspan="2" style="width:197.95pt;border:solid #606160 1.0pt;
@@ -67,14 +63,16 @@ Here is a list of Urban Solutions and Sustainability (USS) FIs outside NRF that 
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
   217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">CADENCE was established to synergise cardiovascular disease (CVD) research across Singapore, overcome common system barriers to research and drive commercialisation. The long-term vision of CADENCE is to position Singapore as the leading Asian hub for cardiovascular data science research; high-impact multi-site early phase mechanistic cardiovascular clinical trials; and to develop state-of-the art behavioural interventions for primary prevention of CVD.</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:27.45pt"><td width="186" valign="top" style="width:139.35pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Human Potential Programme</span></b></p></td><td width="78" valign="top" style="width:58.6pt;border-top:none;border-left:none;
+  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Human Potential (HP) Programme</span></b></p></td><td width="78" valign="top" style="width:58.6pt;border-top:none;border-left:none;
   border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><i><span style="color:black;mso-color-alt:windowtext">Three agencies</span></i></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The HP programme is newly established in RIE2025 to drive R&amp;D and research translation activities that support improvements in health and well-being, productivity and learning capacity across the life course of Singaporeans. This is especially pertinent for a small country like Singapore, which relies greatly on human capital as one of our most valuable resources. Singapore is also increasingly facing challenges such as a low birth rate, rapidly ageing population and rising healthcare demands.</span></p><p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-US" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-US">The HP programme comprises 3 strategic focus areas as follow:</span><span lang="EN-US" style="mso-ansi-language:EN-US"></span></p><p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;color:#7030A0"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:#7030A0"><a href="https://www.a-star.edu.sg/Research/funding-opportunities/prenatal-ech">Early Life – A*STAR</a></span></p><p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;color:#7030A0;mso-color-alt:windowtext;mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Science of Learning - MOE (visit <a href="https://researchgrant.gov.sg/pages/index.aspx">IGMS</a> for grant call details)</span><b><span style="color:#7030A0"></span></b></p><p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol;color:#7030A0"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="color:#7030A0"><a href="https://www.nmrc.gov.sg/grants/competitive-research-grants/healthy-longevity-global-grand-challenge"><span style="font-weight:normal">Healthy and Meaningful Longevity - MOH</span></a></span></b><span style="color:#7030A0"></span></p><p class="MsoNormal"><span style="color:#7030A0">&nbsp;</span></p></td></tr></tbody></table>
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The HP programme is newly established in RIE2025 to drive R&amp;D and research translation activities that support improvements in health and well-being, productivity and learning capacity across the life course of Singaporeans. This is especially pertinent for a small country like Singapore, which relies greatly on human capital as one of our most valuable resources. Singapore is also increasingly facing challenges such as a low birth rate, rapidly ageing population and rising healthcare demands.
+	
+The HP programme comprises 3 strategic focus areas as follow:
+
+* [Early Life - A*STAR](https://www.a-star.edu.sg/Research/funding-opportunities/prenatal-ech)
+* Science of Learning - MOE (visit [IGMS](https://researchgrant.gov.sg/pages/index.aspx) for grant call details)
+* [Healthy and Meaningful Longevity - MOH](https://www.nmrc.gov.sg/grants/competitive-research-grants/healthy-longevity-global-grand-challenge) </span></p></td></tr></tbody></table>
