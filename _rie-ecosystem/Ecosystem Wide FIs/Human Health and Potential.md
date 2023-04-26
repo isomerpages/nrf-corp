@@ -69,11 +69,11 @@ Here is a list of major Human Health and Potential (HHP) FIs outside NRF that ar
   background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><i><span style="color:black;mso-color-alt:windowtext">Three agencies</span></i></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The HP programme is newly established in RIE2025 to drive R&amp;D and research translation activities that support improvements in health and well-being, productivity and learning capacity across the life course of Singaporeans. This is especially pertinent for a small country like Singapore, which relies greatly on human capital as one of our most valuable resources. Singapore is also increasingly facing challenges such as a low birth rate, rapidly ageing population and rising healthcare demands.</span>
-<br>
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The HP programme is newly established in RIE2025 to drive R&amp;D and research translation activities that support improvements in health and well-being, productivity and learning capacity across the life course of Singaporeans. This is especially pertinent for a small country like Singapore, which relies greatly on human capital as one of our most valuable resources. Singapore is also increasingly facing challenges such as a low birth rate, rapidly ageing population and rising healthcare demands.<br>
 
 The HP programme comprises 3 strategic focus areas as follow:
 
 * [Early Life - A*STAR](https://www.a-star.edu.sg/Research/funding-opportunities/prenatal-ech)
 * Science of Learning - MOE (visit [IGMS](https://researchgrant.gov.sg/pages/index.aspx) for grant call details)
-* [Healthy and Meaningful Longevity - MOH](https://www.nmrc.gov.sg/grants/competitive-research-grants/healthy-longevity-global-grand-challenge) </p></td></tr></tbody></table>
+* [Healthy and Meaningful Longevity - MOH](https://www.nmrc.gov.sg/grants/competitive-research-grants/healthy-longevity-global-grand-challenge)
+</span></p></td></tr></tbody></table>
