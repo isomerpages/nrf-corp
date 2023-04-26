@@ -7,13 +7,13 @@ description: ""
 
 ![](/images/Programmes/graphene-center.jpg)
 
-NRF encourages public-private R&amp;D partnerships between research performers and companies through the establishment of Corporate Laboratories (Corp Labs) in our universities or research institutes.
+NRF encourages public-private R&amp;D partnerships between research performers and companies through the establishment of Corporate Laboratories (Corp Labs) in our universities or research institutes. Research performers are institutions who undertake publicly-funded R&D activities in Singapore.
 
 Industry partners can tap scientific and technological capabilities built up in our universities and research institutes to develop new products and services, while universities and research institutes achieve impact by developing cutting edge solutions for problems faced by industry. Research areas are geared towards supporting business growth for companies, generating economic benefits for Singapore, and creating good jobs for Singaporeans.
 
 Corp Labs enable faculty, researchers, PhD and Master’s students to work alongside companies on research that has direct relevance for the industry. Students gain industry experience, preparing them for employment in high value-add sectors.
 
-Here is the list of Corp Labs across Singapore:
+Here is a list of Corp Labs across Singapore:
 
 #### Cisco-NUS Accelerated Digital Economy Corporate Laboratory (2021) ####
 
