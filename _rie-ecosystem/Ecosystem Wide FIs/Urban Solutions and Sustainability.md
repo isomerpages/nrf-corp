@@ -6,7 +6,7 @@ third_nav_title: Ecosystem Wide FIs
 ---
 **Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
 
-Here is a list of Urban Solutions and Sustainability (USS) FIs:<br>
+Here is a list of major Urban Solutions and Sustainability (USS) FIs outside NRF that are managed by these IAs:<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agency for Science, Technology and Research (A\*STAR)](https://www.a-star.edu.sg/)<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Building and Construction Authority (BCA)](https://www1.bca.gov.sg/)<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Energy Market Authority (EMA)](https://www.ema.gov.sg/)<br>
