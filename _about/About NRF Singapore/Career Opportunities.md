@@ -24,6 +24,4 @@ We are looking for individuals with a strong interest in R&D and passion to tran
 
 ### **At NRF, the possibilities are endless**
 
-For a complete listing of job opportunities, please visit:
-  *  [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html)
-  *  [LinkedIn](https://www.linkedin.com/company/nrfsg/)
+For a complete listing of job opportunities, please visit the [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html) portal.
