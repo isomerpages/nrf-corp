@@ -55,7 +55,7 @@ The Corp Lab has successfully completed its first five years of research partner
 
 #### Local Ecosystem Development for Aircraft Cabin Interior Components (2019) ####
 
-The S$33.16 million SIA-SIAEC-SIMTech (ASTAR) Joint Laboratory aims to help local LLEs and SMEs upgrade their technical skills and capabilities, gearing Singapore up to be the R&D Centre of Excellence for cabin interior components design and manufacturing. To help upgrade the industry, the joint lab will develop manufacturing capabilities and the local manufacturing ecosystem to improve product performance, reduce the cost and lead time, and encourage SMEs to venture into high value-added business. It will also nurture talents to increase the manpower to support the local aerospace manufacturing and other relevant industries.
+The S$33.16 million SIA-SIAEC-SIMTech (ASTAR) Joint Lab aims to help local LLEs and SMEs upgrade their technical skills and capabilities, gearing Singapore up to be the R&D Centre of Excellence for the design and manufacturing of cabin interior components.To help upgrade the industry, the joint lab will develop manufacturing capabilities and the local manufacturing ecosystem to improve product performance, reduce costs and lead times, and encourage SMEs to venture into high value-added businesses. It will also nurture talents to grow the human capital to support the local aerospace manufacturing and other relevant industries.
 
 [Read the press release here.](https://www.a-star.edu.sg/simtech/news-events/SIMTech-Manufacturing-Matters/MM/features/pe-matters-sia-siaec-simtech-joint-lab)
 
