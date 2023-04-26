@@ -17,3 +17,64 @@ Here is a list of Urban Solutions and Sustainability (USS) FIs outside NRF that 
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Public Utilities Board (PUB)](https://www.pub.gov.sg/)<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singapore ETH Centre (SEC)](https://sec.ethz.ch/)<br>
 \-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/)<br>
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="708" style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.45pt"><td width="264" colspan="2" style="width:197.95pt;border:solid #606160 1.0pt;
+  background:#D5DCE4;mso-background-themecolor:text2;mso-background-themetint:
+  51;padding:2.25pt .45pt 0cm .45pt;height:13.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">FIs/initiative</span></b></p></td><td width="444" style="width:333.15pt;border:solid #606160 1.0pt;border-left:
+  none;mso-border-left-alt:solid #606160 1.0pt;background:#D5DCE4;mso-background-themecolor:
+  text2;mso-background-themetint:51;padding:2.25pt .45pt 0cm .45pt;height:13.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Description</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.45pt"><td width="186" valign="top" style="width:139.35pt;border:solid #606160 1.0pt;
+  border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
+  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.npm.sg/"><b>National Precision Medicine (NPM)</b></a></span><b><span style="color:#7030A0"></span></b></p></td><td width="78" valign="top" style="width:58.6pt;border-top:none;border-left:none;
+  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">MOH</span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">This FI supports Phase 2 of Singapore’s 10-year NPM strategy which is centrally coordinated by Precision Health Research, Singapore (PRECISE). The aim of NPM is to transform healthcare in Singapore and improve patient outcomes through new insights into the Asian genome and data-driven healthcare solutions.</span></p></td></tr><tr style="mso-yfti-irow:2;height:27.45pt"><td width="186" valign="top" style="width:139.35pt;border:solid #606160 1.0pt;
+  border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#D9D9D9;
+  mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:#7030A0"><a href="https://www.moh.gov.sg/prepare/about-us">PREPARE</a></span></b></p></td><td width="78" valign="top" style="width:58.6pt;border-top:none;border-left:none;
+  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;
+  color:black;mso-color-alt:windowtext">MOH</span><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:#7030A0"></span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" style="text-autospace:none"><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin;color:black">The Programme for Research in Epidemic Preparedness and REsponse (PREPARE) is a national programme set up by MOH to support and strengthen Singapore's key essential research capabilities, translational platforms, and expertise to develop tools, methods and products that can be tapped on to detect, respond to, and contain future infectious disease threats.</span><span style="mso-bidi-font-family:
+  Calibri;mso-bidi-theme-font:minor-latin"></span></p></td></tr><tr style="mso-yfti-irow:3;height:27.45pt"><td width="186" valign="top" style="width:139.35pt;border:solid #606160 1.0pt;
+  border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
+  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.stcc.sg/"><b>Singapore Translational Cancer Consortium (STCC)</b></a></span><b><span style="color:#7030A0"></span></b></p></td><td width="78" valign="top" style="width:58.6pt;border-top:none;border-left:none;
+  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">MOH</span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The STCC was established as a nationally coordinated entity to synergise cancer research and translational capabilities across Singapore to enhance local research translation and innovation in cancer detection, treatment, and care delivery. STCC aims raise Singapore’s overall prominence, competitiveness, and healthcare impact regionally and globally in selected cancers.</span></p></td></tr><tr style="mso-yfti-irow:4;height:27.45pt"><td width="186" valign="top" style="width:139.35pt;border:solid #606160 1.0pt;
+  border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#D9D9D9;
+  mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:#7030A0"><a href="https://cris.sg/our-programmes/cadence/">Cardiovascular Disease National Collaborative Enterprise (CADENCE)</a></span></b></p></td><td width="78" valign="top" style="width:58.6pt;border-top:none;border-left:none;
+  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">MOH</span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">CADENCE was established to synergise cardiovascular disease (CVD) research across Singapore, overcome common system barriers to research and drive commercialisation. The long-term vision of CADENCE is to position Singapore as the leading Asian hub for cardiovascular data science research; high-impact multi-site early phase mechanistic cardiovascular clinical trials; and to develop state-of-the art behavioural interventions for primary prevention of CVD.</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:27.45pt"><td width="186" valign="top" style="width:139.35pt;border:solid #606160 1.0pt;
+  border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
+  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Human Potential Programme</span></b></p></td><td width="78" valign="top" style="width:58.6pt;border-top:none;border-left:none;
+  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><i><span style="color:black;mso-color-alt:windowtext">Three agencies</span></i></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The HP programme is newly established in RIE2025 to drive R&amp;D and research translation activities that support improvements in health and well-being, productivity and learning capacity across the life course of Singaporeans. This is especially pertinent for a small country like Singapore, which relies greatly on human capital as one of our most valuable resources. Singapore is also increasingly facing challenges such as a low birth rate, rapidly ageing population and rising healthcare demands.</span></p><p class="MsoNormal"><span lang="EN-US" style="mso-ansi-language:EN-US">&nbsp;</span></p><p class="MsoNormal"><span lang="EN-US" style="color:black;mso-color-alt:windowtext;
+  mso-ansi-language:EN-US">The HP programme comprises 3 strategic focus areas as follow:</span><span lang="EN-US" style="mso-ansi-language:EN-US"></span></p><p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;color:#7030A0"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:#7030A0"><a href="https://www.a-star.edu.sg/Research/funding-opportunities/prenatal-ech">Early Life – A*STAR</a></span></p><p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;color:#7030A0;mso-color-alt:windowtext;mso-bidi-font-weight:bold"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="color:black;mso-color-alt:windowtext">Science of Learning - MOE (visit <a href="https://researchgrant.gov.sg/pages/index.aspx">IGMS</a> for grant call details)</span><b><span style="color:#7030A0"></span></b></p><p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;color:#7030A0"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="color:#7030A0"><a href="https://www.nmrc.gov.sg/grants/competitive-research-grants/healthy-longevity-global-grand-challenge"><span style="font-weight:normal">Healthy and Meaningful Longevity - MOH</span></a></span></b><span style="color:#7030A0"></span></p><p class="MsoNormal"><span style="color:#7030A0">&nbsp;</span></p></td></tr></tbody></table>
