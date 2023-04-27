@@ -15,7 +15,7 @@ We aim to establish Singapore as a knowledge-intensive, innovative and entrepren
 ### **Be part of our team**
 We are on a constant lookout for capable, creative, committed and energetic individuals.
 
-After all, people is what drives us. Our people are our most precious resource and we place great emphasis on every officer's growth and development from the moment they become part of our NRF family.
+After all, **people** is what drives us. Our people are our most precious resource and we place great emphasis on every officer's growth and development from the moment they become part of our NRF family.
 
 ![](/images/About/mar5-outline-07.jpg)
 
@@ -24,4 +24,4 @@ We are looking for individuals with a strong interest in R&D and passion to tran
 
 ### **At NRF, the possibilities are endless**
 
-For a complete listing of job opportunities, please visit the [Careers@Gov](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html) portal.
+For a complete listing of job opportunities, please visit the [Careers@Gov](https://go.gov.sg/nrf-careers/) portal.
