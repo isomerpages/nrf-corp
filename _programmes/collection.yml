@@ -1,0 +1,9 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Corporate Laboratories.md
+      - CREATE.md
+      - National Research Infrastructure.md
+      - Technology Consortia.md
+      - Translational Platforms.md

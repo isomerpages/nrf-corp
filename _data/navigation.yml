@@ -1,17 +1,21 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/nrf logo fa-monogram.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Pages
-    url: /example-pages/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
+  - title: About
+    collection: about
+  - title: RIE Ecosystem
+    collection: rie-ecosystem
+  - title: Programmes
+    collection: programmes
+  - title: Grants
+    collection: grants
+  - title: Flagship Events
+    collection: flagship-events
+  - title: Media & Publications
     resource_room: true
+  - title: Contact
+    url: /contact-us/
+    sublinks:
+      - title: Location
+        url: /contact/location/
+  - title: FAQ
+    url: /faq/

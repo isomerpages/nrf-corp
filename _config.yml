@@ -1,41 +1,51 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: National Research Foundation, Singapore (NRF)
+url: https://www.nrf.gov.sg
+favicon: /images/favicon-32x32.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#d27f82"
+  secondary-color: "#a62729"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#f6e7cb"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#afd3df"
     - title: media-color-three
-      color: '#00838f'
+      color: "#b9a3d0"
     - title: media-color-four
-      color: '#00838f'
+      color: "#92d4c9"
     - title: media-color-five
-      color: '#00838f'
+      color: "#819dd1"
 resources_name: Resources
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+description: The National Research Foundation, Singapore (NRF), set up on 1
+  January 2006, is a department within the Prime Minister's Office. The NRF sets
+  the national direction for research and development (R&D) by developing
+  policies, plans and strategies for research, innovation and enterprise. It
+  also funds strategic initiatives and develops R&D capabilities by nurturing
+  research talent.
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -45,5 +55,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nrf-test-staging.netlify.app
-prod: https://nrf-test-prod.netlify.app
+staging: https://staging.d36lkpin3fx3c6.amplifyapp.com/
+prod: https://master.d36lkpin3fx3c6.amplifyapp.com/
+shareicon: /images/researcher-holding-blue-pill-v2.jpg
+is_government: true
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+google_analytics_ga4: ""

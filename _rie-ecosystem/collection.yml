@@ -1,0 +1,12 @@
+collections:
+  rie-ecosystem:
+    output: true
+    order:
+      - RIE Ecosystem.md
+      - RIE2025 Handbook.md
+      - Ecosystem Wide FIs/.keep
+      - Ecosystem Wide FIs/Manufacturing, Trade and Connectivity.md
+      - Ecosystem Wide FIs/Human Health and Potential.md
+      - Ecosystem Wide FIs/Urban Solutions and Sustainability.md
+      - Ecosystem Wide FIs/Smart Nation and Digital Economy.md
+      - Ecosystem Wide FIs/Innovation and Enterprise.md
