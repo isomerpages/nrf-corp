@@ -6,13 +6,7 @@ third_nav_title: Ecosystem Wide FIs
 ---
 **Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
 
-Here is a list of major Human Health and Potential (HHP) FIs outside NRF that are managed by these IAs:<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ministry of Health (MOH)](https://www.moh.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ministry of Education (MOE)](https://www.moe.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [National Precision Medicine (NPM)](https://www.npm.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [PREPARE](https://www.moh.gov.sg/prepare/about-us)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Singapore Translational Cancer Consortium (STCC)](https://www.stcc.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cardiovascular Disease National Collaborative Enterprise (CADENCE)](https://cris.sg/our-programmes/cadence/)<br>
+Here is a list of major Human Health and Potential (HHP) FIs outside NRF:
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="708" style="width:531.1pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:5.4pt"><td width="264" colspan="3" style="width:197.95pt;border:solid #606160 1.0pt;

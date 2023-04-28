@@ -13,4 +13,4 @@ The Summit is a multi-disciplinary summit that covers topics including chemistry
 
 Promising young scientists will exchange ideas and knowledge with the speakers and their peers over four days under this theme. At the Summit, participants will take part in lectures, plenary sessions and panel discussions. They will have the opportunity to interact with and be mentored by speakers in informal small group sessions.
 
-Click [here](https://www.nrf.gov.sg/gyss) to find out more.
+Click [here](https://gyss.nrf.gov.sg/) to find out more.

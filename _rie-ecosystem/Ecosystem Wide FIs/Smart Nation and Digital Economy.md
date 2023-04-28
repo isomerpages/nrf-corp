@@ -6,12 +6,7 @@ third_nav_title: Ecosystem Wide FIs
 ---
 **Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
 
-Here is a list of major Smart Nation and Digital Economy (SNDE) FIs outside NRF that are managed by these IAs:<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ministry of Communications and Information (MCI)](https://www.mci.gov.sg/about-us)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AI Singapore](https://aisingapore.org/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Cyber Security Agency of Singapore](https://www.csa.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Infocomm Media Development Authority(IMDA)](https://www.imda.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Smart Nation and Digital Government Office (SNDGO)](https://www.smartnation.gov.sg/)<br>
+Here is a list of major Smart Nation and Digital Economy (SNDE) FIs outside NRF:
 
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="708" style="width:531.1pt;border-collapse:collapse;mso-yfti-tbllook:1184;
