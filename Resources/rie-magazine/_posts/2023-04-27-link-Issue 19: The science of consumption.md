@@ -4,5 +4,5 @@ date: 2023-04-27
 layout: link
 description: ""
 image: ""
-external: https://https://go.gov.sg/nrf-riemag-april-2023
+external: https://go.gov.sg/nrf-riemag-april-2023
 ---

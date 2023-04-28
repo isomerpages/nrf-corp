@@ -1,5 +1,5 @@
 ---
-title: "Issue 16: Rising Stars"
+title: "Issue 16: Rising stars"
 date: 2022-02-01
 layout: link
 description: ""
