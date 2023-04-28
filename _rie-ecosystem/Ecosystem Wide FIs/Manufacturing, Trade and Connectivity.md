@@ -9,209 +9,84 @@ third_nav_title: Ecosystem Wide FIs
 Here is a list of major Manufacturing, Trade and Connectivity (MTC) FIs outside NRF:
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="708" style="width:531.1pt;border-collapse:collapse;mso-yfti-tbllook:1184;
- mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.45pt"><td width="264" colspan="2" style="width:197.95pt;border:solid #606160 1.0pt;
+ mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:5.4pt"><td width="285" colspan="2" style="width:213.55pt;border:solid #606160 1.0pt;
   background:#D5DCE4;mso-background-themecolor:text2;mso-background-themetint:
-  51;padding:2.25pt .45pt 0cm .45pt;height:13.45pt"><p class="MsoNormal"><b><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">FIs/initiative</span></b><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></p></td><td width="444" style="width:333.15pt;border:solid #606160 1.0pt;border-left:
+  51;padding:2.25pt .45pt 0cm .45pt;height:5.4pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">FIs/initiative</span></b></p></td><td width="423" style="width:317.55pt;border:solid #606160 1.0pt;border-left:
   none;mso-border-left-alt:solid #606160 1.0pt;background:#D5DCE4;mso-background-themecolor:
-  text2;mso-background-themetint:51;padding:2.25pt .45pt 0cm .45pt;height:13.45pt"><p class="MsoNormal"><b><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">Description</span></b><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></p></td></tr><tr style="mso-yfti-irow:1;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
+  text2;mso-background-themetint:51;padding:2.25pt .45pt 0cm .45pt;height:5.4pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Description</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext"><a href="https://www.a-star.edu.sg/Research/funding-opportunities/iaf-pp"><b>MTC/HHP Industry Alignment Fund – Pre-positioning (IAF-PP) Funding Initiative</b></a></span><b><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></b></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-color-alt:windowtext">A*STAR</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.imda.gov.sg/ai-and-data"><b>AI Singapore (AISG)</b></a></span><b></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="Default"><span style="font-size:11.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin">The IAF-PP FI aims to develop industry-ready capabilities to deepen alignment of public sector research, as well as multidisciplinary and integrated programmes with early industry involvement. Programmes are expected to lead to industry participation within 3-5 years. This encompasses new programmes, as well as existing programmes that have demonstrated strong track record of success and industry potential. Programmes supported should be aligned with HHP or MTC domain themes and strategies. The maximum duration of IAF-PP projects should not exceed 5 years (60 months).</span><span style="font-size:11.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:
-  major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;
-  color:windowtext;mso-color-alt:windowtext"></span></p></td></tr><tr style="mso-yfti-irow:2;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">Infocomm Media Development Authority (IMDA)/National AI Office (NAIO)</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">AI Singapore (AISG) is Singapore’s national programme in AI that seeks to catalyse, synergise and boost Singapore’s AI capabilities. Since its launch in 2017, it has contributed towards driving Singapore’s scientific excellence in AI research, growing local AI talent, and supporting the translation of AI technology. AISG was established through strong partnership involving the National Research Foundation (NRF), the Smart Nation and Digital Government Office (SNDGO), and the Infocomm Media Development Authority (IMDA).</span></p></td></tr><tr style="mso-yfti-irow:2;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#D9D9D9;
   mso-background-themecolor:background1;mso-background-themeshade:217;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext"><a href="https://www.a-star.edu.sg/Research/funding-opportunities/ame-programmatic-funds"><b>MTC Programmatic Funding Initiative</b></a></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-color-alt:windowtext">A*STAR</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.imda.gov.sg/how-we-can-help/future-communications-research-and-development-programme"><b>National Cybersecurity R&amp;D Programme (NCRP)</b></a></span><b></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">The MTC Programmatic FI supports long term, capability-building projects that have the potential to deliver significant impact to Singapore, typically beyond a five-year timeframe. These projects typically correspond to low Technological Readiness Levels (TRL) of 2-4.</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td></tr><tr style="mso-yfti-irow:3;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
-  border-top:none;mso-border-top-alt:solid #606160 1.0pt;padding:.75pt 5.4pt 0cm 5.4pt;
-  height:27.45pt"><p class="MsoNormal"><span class="MsoHyperlink"><b><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin">MTC Individual Research Grants (IRG) / Young Investigator Research Grant (YIRG)</span></b></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin">A*STAR</span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
-  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin">The MTC Individual Research Grants (IRG) aims to support novel and fresh R&amp;D investigator-led ideas. The MTC Young Individual Research Grants (YIRG) is a sub-category of grants aims at grooming young researchers in conducting independent research.</span></p></td></tr><tr style="mso-yfti-irow:4;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
-  border-top:none;mso-border-top-alt:solid #606160 1.0pt;padding:.75pt 5.4pt 0cm 5.4pt;
-  height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"><a href="https://namic.sg/"><b>National Additive Manufacturing Innovation Cluster (NAMIC)</b></a><span class="MsoHyperlink"><b></b></span></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin">A*STAR</span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
-  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin">The National Additive Manufacturing Innovation Cluster (NAMIC) is a national platform led by the Agency for Science, Technology and Research (A*STAR), supported by the National Research Foundation under the Prime Minister’s Office and the Ministry of Trade and Industry, together with Enterprise Singapore and the Singapore Economic Development Board. NAMIC aims to accelerate the adoption of hybrid and digital additive manufacturing technologies under Singapore’s Manufacturing and Economy 2030 Vision, helping industries transform towards innovation and high value-added manufacturing using sustainably sourced, nature-based designs and cradle-to-cradle on-demand manufacturing. NAMIC achieves this by focusing on value capture and creation through an industry sectorial engagement approach, leveraging on public-private partnerships and R&amp;D investments, supporting translational research, and accelerating industry test-bedding towards commercial scale-up. NAMIC continues to grow its international outreach, identifying and supporting deep-tech companies incorporating AM technologies seeking capital injection either through project joint-funding or its investor networks.</span></p></td></tr><tr style="mso-yfti-irow:5;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
-  border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#D9D9D9;
-  mso-background-themecolor:background1;mso-background-themeshade:217;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext"><a href="https://www.nrp.gov.sg/"><b>National Robotics Programme</b></a><a href="https://www.nrp.gov.sg/"><b> (NRP)</b></a></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-color-alt:windowtext">A*STAR</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">Cyber Security Agency (CSA)</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="Default"><span style="font-size:11.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin">The National Robotics Programme (NRP) was established to develop a vibrant and innovative robotics ecosystem capable of providing solutions to fuel the Smart Nation initiative and to establish Singapore as a global centre of excellence for the study, research, development, making and applications of robotics solutions.</span></p></td></tr><tr style="mso-yfti-irow:6;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The National Cybersecurity R&amp;D Programme seeks to develop R&amp;D expertise and capabilities in cybersecurity for Singapore. It aims to improve the trustworthiness of cyber infrastructures with an emphasis on security, reliability, resiliency and usability.</span></p></td></tr><tr style="mso-yfti-irow:3;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext"><a href="https://www.tcoms.sg/"><b>Technology Centre for Offshore and Marine, Singapore</b></a></span><span class="MsoHyperlink"><b><span style="font-family:
-  &quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;mso-hansi-theme-font:
-  major-latin;mso-bidi-theme-font:major-latin"> (TCOMS)</span></b></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-color-alt:windowtext">A*STAR</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Future Communications R&amp;D Programme</span></b></p><p class="MsoNormal"><b>&nbsp;</b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="Default"><span style="font-size:11.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin">The&nbsp;Technology Centre for Offshore and Marine, Singapore (TCOMS)&nbsp;is a national R&amp;D centre dedicated to the Marine &amp; Offshore and Maritime sectors. We integrate research and industry expertise to co-create innovative concepts and solutions to address real world challenges. A core feature of TCOMS is the next-generation Deepwater Ocean Basin research facility which is equipped with advanced wave and current generation systems to simulate challenging ocean environments that marine platforms and ships operate in.</span><span style="font-size:11.0pt;
-  font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:windowtext;
-  mso-color-alt:windowtext"></span></p></td></tr><tr style="mso-yfti-irow:7;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">IMDA</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">IMDA and the National Research Foundation (NRF) have invested close to S$70 million to set up Singapore’s first national Future Communications Research and Development Programme (FCP). This programme aims to jumpstart cutting-edge communications and connectivity research in Singapore, which help to grow relevant local capabilities, with potential to translate into innovative products, services and even companies.</span></p></td></tr><tr style="mso-yfti-irow:4;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#D9D9D9;
   mso-background-themecolor:background1;mso-background-themeshade:217;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext"><a href="https://www.mpa.gov.sg/maritime-singapore/innovation-and-r-d/maritime-innovation-ecosystem/maritime-transformation-programme"><b>Maritime</b> <b>Transformation</b> <b>Programme (MTP)</b></a></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-color-alt:windowtext">MPA</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Digital Trust Centre</span></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">The Maritime Transformation Programme (MTP) is a key vehicle to implement the Sea Transport ITM Innovation thrust. To sharpen Singapore’s competitive edge, capitalise on new opportunities for greater value creation and capture, and safeguard our strategic interests, MPA has outlined 5 Strategic Research Thrusts for the MTP, aligned with the Singapore Maritime R&amp;D Roadmap.</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></p></td></tr><tr style="mso-yfti-irow:8;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">IMDA</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The Digital Trust Centre (DTC) was first launched at the AsiaTechX (ATx) Singapore on 1 June 2022, with the aim to lead Singapore’s research and development efforts for trust technologies and to support talent development in this space. Funded by IMDA and the NRF under the Research, Innovation and Enterprise 2025 (RIE 2025), the national centre is hosted at the Nanyang Technological University, focusing on key areas of Trust Technologies, such as Privacy Enhancing Technologies (PETs) for data sharing and solutions to evaluate the trustworthiness of AI systems.</span></p></td></tr><tr style="mso-yfti-irow:5;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><b><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">Aviation Transformation Programme (ATP)</span></b><b><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></b></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-color-alt:windowtext">CAAS</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://qepsg.org/"><b>Quantum Engineering Programme</b></a></span><b></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">In RIE2020, CAAS secured $100M under the Aviation Transformation Programme (ATP) 1.0 Funding Initiative to seed new technological competencies that seek to enhance Singapore’s strategic air traffic management and achieve more seamless regional operations in the long term.</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td></tr><tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">National Quantum Office/A*STAR</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">Singapore’s Quantum Engineering Programme (QEP) aims to realise the benefits of quantum technologies for society. Launched in 2018, it supports translational research focused on industry challenges and initiatives to nurture a quantum ecosystem. Coordinated nationally across various research organisations, the QEP is hosted by the National University of Singapore (NUS), and supported by the National Research Foundation and the Agency for Science, Technology and Research (A*STAR).</span></p></td></tr><tr style="mso-yfti-irow:6;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#D9D9D9;
   mso-background-themecolor:background1;mso-background-themeshade:217;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext"><a href="https://www.space.gov.sg/resources/stdp/">Space Technology Development Programme (STDP)</a></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
-  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
-  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-color-alt:windowtext">EDB</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin;color:black;
-  mso-color-alt:windowtext"><a href="https://www.space.gov.sg/"><span style="color:black;mso-color-alt:windowtext;text-decoration:none;text-underline:
-  none">Office for Space Technology &amp; Industry</span></a> (OSTin)</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.quantumlah.org/what-we-do/"><b>Centre for Quantum Technologies</b></a></span><b></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
-  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">OSTIn’s S$150M flagship Space Technology Development Programme (STDP) seeks to develop space capabilities to support domains such as aviation, maritime and sustainability, which are critical to Singapore and many other countries, as well as disruptive space technologies that can improve the country’s space industry’s competitiveness.</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p><p class="MsoNormal"><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">Projects supported by the STDP include:</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p><p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">Very Low Earth Orbit (VLEO) satellite technologies that would allow satellites to operate in orbits closer to earth and deliver differentiated capabilities.</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;mso-ascii-theme-font:major-latin;
-  mso-hansi-theme-font:major-latin;mso-bidi-theme-font:major-latin"></span></p><p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">Quantum Key Distribution (QKD) satellite solutions that would enable quantum-safe transmission of secure information.</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p><p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;mso-list:l0 level1 lfo1"><span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-  Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin;color:black;mso-color-alt:windowtext">Use of satellite data for applications such as carbon Measurement, Reporting and Verification (MRV), agriculture, pollution monitoring.</span><span style="font-family:&quot;Calibri Light&quot;,sans-serif;
-  mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-theme-font:
-  major-latin"></span></p></td></tr></tbody></table>
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">National Quantum Office/A*STAR</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The Centre for Quantum Technologies (CQT) is Singapore’s flagship research and development centre for quantum science and technology. CQT drives cutting-edge research in the areas of quantum computing, communication and sensing. It also supports Singapore’s various national quantum platforms and plays a pivotal role in building Singapore’s quantum ecosystem.</span></p></td></tr><tr style="mso-yfti-irow:7;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
+  border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Combatting the Weaponisation of the Internet (CWI)</span></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">Ministry of Communications and Information – Technology Office (MCI-TO)</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The CWI Research Programme seeks to build technological capabilities and competencies amongst Singapore’s Institutes of Higher Learning (IHLs) and Research Institutes (RIs) to combat online harms. This is to counter the rapidly evolving and increasing online harms in the Internet ranging from mis- and dis-information, hate speech to scams.</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
+  border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#D9D9D9;
+  mso-background-themecolor:background1;mso-background-themeshade:217;
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Translational R&amp;D for Digital Government</span></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">Smart Nation and Digital Government Office (SNDGO)</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
+  none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
+  mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
+  background:#D9D9D9;mso-background-themecolor:background1;mso-background-themeshade:
+  217;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext">The Translational Research and Development for Application to Smart Nation (TRANS) Grant funds translational R&amp;D and technology or process innovations in areas that are aligned to the emerging and focused tech areas. This initiative taps on research institutes’ capabilities to solve public sector challenges, demonstrates feasibility of new ideas and encourages agencies to experiment and deploy innovative solutions.</span></p></td></tr></tbody></table>
