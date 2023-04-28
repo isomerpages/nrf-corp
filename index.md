@@ -23,7 +23,7 @@ sections:
           description: Search for research grants
           url: https://www.nrf.gov.sg/grants/igms/
         - title: Ecosystem-wide funding initiatives (FI)
-          description: FIs across the ecosystem
+          description: FIs across the RIEcosystem
           url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem-wide-fis/mtc-fis/
         - title: President's Science & Technology Awards (PSTA)
           description: Singapore's brightest minds
