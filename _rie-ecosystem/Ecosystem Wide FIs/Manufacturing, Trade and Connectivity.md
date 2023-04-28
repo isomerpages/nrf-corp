@@ -6,11 +6,7 @@ third_nav_title: Ecosystem Wide FIs
 ---
 **Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
 
-Here is a list of major Manufacturing, Trade and Connectivity (MTC) FIs outside NRF that are managed by these IAs:<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Agency for Science, Technology and Research (A\*STAR)](https://www.a-star.edu.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Maritime and Port Authority of Singapore (MPA)](https://www.mpa.gov.sg/home)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Civil Aviation Authority of Singapore (CAAS)](https://www.caas.gov.sg/)<br>
-\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Office for Space Technology &amp; Industry (OSTin), Economic Development Board](https://www.space.gov.sg/)<br>
+Here is a list of major Manufacturing, Trade and Connectivity (MTC) FIs outside NRF:
 
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="708" style="width:531.1pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.45pt"><td width="264" colspan="2" style="width:197.95pt;border:solid #606160 1.0pt;
