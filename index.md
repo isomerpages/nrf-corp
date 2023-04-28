@@ -9,7 +9,8 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   research talent.
 image: /images/researcher-holding-blue-pill-v2.jpg
 permalink: /
-notification: ""
+notification: "The April 2023 issue of the RIE magazine is out! Learn more about
+  the science of consumption in our latest issue. "
 sections:
   - hero:
       title: Research, Innovation & Enterprise
@@ -27,6 +28,9 @@ sections:
         - title: President's Science & Technology Awards (PSTA)
           description: Singapore's brightest minds
           url: https://www.psta.gov.sg
+        - title: RIE Magazine (April '23)
+          description: The Science of Consumption
+          url: https://go.gov.sg/nrf-riemag-april-2023
       background: /images/researcher-holding-blue-pill-v2.jpg
   - infobar:
       title: National Research Foundation, Singapore (NRF)
