@@ -1,5 +1,6 @@
 ---
-title: DPM Heng Swee Keat at the Debate on the Motion of Thanks to the President 2023
+title: Speech by DPM Heng Swee Keat at the Debate on the Motion of Thanks to the
+  President 2023
 date: 2023-04-21
 layout: file
 description: ""
