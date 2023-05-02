@@ -20,19 +20,12 @@ To date, NRF has supported the setup of the following technology consortia:
 
 |  |  |  |
 | -------- | -------- | -------- |
-| [![Singapore Spintronics Consortium](/images/Programmes/sgspin.jpg)](https://www.nrf.gov.sg/tech-consortia/spintronics)<br>Singapore Spintronics Consortium | [![LUX Photonics Consortium](/images/Programmes/luxconsortium.jpg)](https://www.nrf.gov.sg/tech-consortia/lux-consortium)<br>LUX Photonics Consortium
-
-|  |  |  |
-| -------- | -------- | -------- |
-|[![Singapore Cybersecurity Consortium](/images/Programmes/sgsconsortium.png)](https://www.nrf.gov.sg/tech-consortia/cybersecurity-consortium)<br> Singapore Cybersecurity Consortium | [![Singapore Membrane Consortium](/images/Programmes/sgmem-logo.jpg)](https://www.nrf.gov.sg/tech-consortia/sgmem)<br> Singapore Membrane Consortium
+| [![Singapore Membrane Consortium](/images/Programmes/sgmem-logo.jpg)](https://www.nrf.gov.sg/tech-consortia/sgmem)<br> Singapore Membrane Consortium | [![LUX Photonics Consortium](/images/Programmes/luxconsortium.jpg)](https://www.nrf.gov.sg/tech-consortia/lux-consortium)<br>LUX Photonics Consortium
 
 |  |  |  |
 | -------- | -------- | -------- |
 |[![Singapore Data Science Consortium](/images/Programmes/sdsconsortium.jpg)](https://www.nrf.gov.sg/tech-consortia/sdsc)<br> Singapore Data Science Consortium | [![Singapore Consortium for Synthetic Biology](/images/Programmes/sinergy.png)](https://www.nrf.gov.sg/tech-consortia/sinergy)<br> Singapore Consortium for Synthetic Biology
 
-|  |  |  |
-| -------- | -------- | -------- |
-|[![Smart Grid and Power Electronics Consortium Singapore](/images/Programmes/specsconsortium.png)](https://www.nrf.gov.sg/tech-consortia/specs)<br>Smart Grid and Power Electronics Consortium Singapore | [![Cooling Energy Science and Technology Singapore](/images/Programmes/coolestsg-logov1.png)](https://www.nrf.gov.sg/tech-consortia/coolestsg/)<br> Cooling Energy Science and Technology Singapore
 
 |  |  |  |
 | -------- | -------- | -------- |
