@@ -8,7 +8,7 @@ description: ""
 
 NRF has supported research projects through grants including the Competitive Research Programme, NRF Fellowship, and other thematic competitive grant calls in the areas of cybersecurity and synthetic biology. 
 
-Over time, individual pockets of research expertise and capabilities have developed, with emerging technology areas among the awarded projects. NRF worked with research performers (i.e. institutions who undertake publicly-funded R&amp;D activities in Singapore) to set up technology consortia, which build on these individual research projects to integrate research outcomes around a technology area.
+Over time, individual pockets of research expertise and capabilities have developed, with emerging technology areas among the awarded projects. NRF works with research performers (i.e. institutions who undertake publicly-funded R&amp;D activities in Singapore) to set up technology consortia, which build on these individual research projects to integrate research outcomes around a technology area.
 
 Each consortium raises visibility of emerging technology areas to industry by connecting the wider local and international community to bring about academia-industry collaborations. Companies can build on the knowledge discovery at the research performers to strengthen their technical competencies, attend technology seminars organised by the consortia to learn about the latest research, and hire researchers for their in-house R&amp;D efforts. Research performers are also more aligned with industry needs and requirements.
 
