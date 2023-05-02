@@ -9,10 +9,15 @@ third_nav_title: About NRF Singapore
 The National Research Foundation, Singapore (NRF), set up on 1 January 2006, is a department within the Prime Minister's Office. The NRF sets the national direction for research and development (R&amp;D) by developing policies, plans and strategies for research, innovation and enterprise. It also funds strategic initiatives and builds up R&amp;D capabilities by nurturing research talent.
 
 ## Vision ##
-For Singapore to have a thriving research, innovation and enterprise (RIE) ecosystem that creates value for Singapore and society.
+Singapore as a vibrant science and technology hub, with R&amp;D contributing significantly to a knowledge intensive, innovation and entrepreneurial economy.
 
 ## Mission ##
-The NRF, a department under the Prime Minister’s Office, aims to build a thriving RIE ecosystem that fosters an innovation-driven economy and addresses our national imperatives, for the benefit of Singapore and society. We aim to achieve this through good stewardship of national resources and in close partnership with stakeholders.
+The NRF sets the national direction for R&amp;D by:
+* Developing policies, plans and strategies for research, innovation and enterprise
+* Funding initiatives that strengthen research and scientific capabilities, and achieve economic and national impact
+* Building up R&amp;D capabilities and capacities through nurturing our people and attracting foreign researchers and scientists; and
+* Coordinating the research agenda of different agencies to transform Singapore into a knowledge intensive, innovative and entrepreneurial economy
+
 
 <br>
 
