@@ -25,4 +25,4 @@ The NRF sets the national direction for R&amp;D by:
 
 <br>
 
-*This website is an official Singapore government agency website. It is owned and operated by NRF Singapore and it reserves the right to update or modify this website from time to time.*
+*This website is an official Singapore government agency website. It is owned and operated by NRF and it reserves the right to update or modify this website from time to time.*
