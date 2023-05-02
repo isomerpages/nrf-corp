@@ -27,7 +27,7 @@ Information on research and innovation grants, as well as international grant ca
 
 The [NRF Fellowship](https://www.nrf.gov.sg/grants/nrff/) provides opportunities for early career researchers to carry out independent research in Singapore. NRF invites applications once a year. It is open to all areas of science and technology, and researchers of all nationalities are welcome to apply.
   
-**Who should I contact regarding the Research, Innovation and Technology Administration (RITA) system?**
+**Who should I contact regarding the Integrated Grant Management System (IGMS)?**
 
 Please email [helpdesk@researchgrant.gov.sg](mailto:) with your enquiries.
 
@@ -41,8 +41,4 @@ For schemes and initiatives targeted at SMEs and start-ups, please refer to Ente
   
 **I am from an overseas-based company/start-up that would like to expand into the Singapore market. What opportunities/support are there?**
 
-If you are a foreign entrepreneur keen on starting a business in Singapore, you may qualify for the EntrePass work visa issued by the Ministry of Manpower. For more information, please click [here](https://www.mom.gov.sg/passes-and-permits/entrepass).  
-  
-**How do I apply for the Early Stage Venture Fund scheme?**
-
-The Early Stage Venture Fund scheme is on a call-for-proposal basis. When the next call is launched, more information will be made available on the NRF [website](https://www.nrf.gov.sg/).
+If you are a foreign entrepreneur keen on starting a business in Singapore, you may qualify for the EntrePass work visa issued by the Ministry of Manpower. For more information, please click [here](https://www.mom.gov.sg/passes-and-permits/entrepass).
