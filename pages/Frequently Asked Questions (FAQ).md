@@ -3,7 +3,7 @@ title: Frequently Asked Questions (FAQ)
 permalink: /faq/
 description: ""
 ---
-### General
+### General ###
 
 **What are the job or internship opportunities available at the National Research Foundation (NRF)?** 
 
