@@ -1,5 +1,5 @@
 ---
-title: Integrated Grant Management System (IGM)
+title: Integrated Grant Management System (IGMS)
 permalink: /grants/igms/
 description: ""
 ---
