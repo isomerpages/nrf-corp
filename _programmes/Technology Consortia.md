@@ -6,9 +6,9 @@ description: ""
 ![](/images/Programmes/cnc-laser-cutting-of-metal-modern-industrial-tech-2021-08-26-23-00-35-utc.jpg)
 ## Technology Consortia ##
 
-NRF has supported research projects through grants including the Competitive Research Programme, NRF Fellowship, and other thematic competitive grant calls in the areas of cybersecurity and synthetic biology. 
+NRF has supported research projects through grants including the Competitive Research Programme, NRF Fellowship, and other thematic competitive grant calls in the areas of cybersecurity and synthetic biology. Over time, individual pockets of research expertise and capabilities have developed, with emerging technology areas among the awarded projects. 
 
-Over time, individual pockets of research expertise and capabilities have developed, with emerging technology areas among the awarded projects. NRF worked with research performers - institutions who undertake publicly-funded R&amp;D activities in Singapore - to set up technology consortia. Together, the organisations build on the various individual research projects to integrate research outcomes around a technology area.
+NRF works with research performers (i.e. institutions who undertake publicly-funded R&amp;D activities in Singapore) to set up technology consortia, which build on these individual research projects to integrate research outcomes around a technology area.
 
 Each consortium raises visibility of emerging technology areas to industry by connecting the wider local and international community to bring about academia-industry collaborations. Companies can build on the knowledge discovery at the research performers to strengthen their technical competencies, attend technology seminars organised by the consortia to learn about the latest research, and hire researchers for their in-house R&amp;D efforts. Research performers are also more aligned with industry needs and requirements.
 
@@ -16,23 +16,14 @@ Through the consortia, there are also opportunities for industry members to enga
 
 To date, NRF has supported the setup of the following technology consortia:
 
-
-
 |  |  |  |
 | -------- | -------- | -------- |
-| [![Singapore Spintronics Consortium](/images/Programmes/sgspin.jpg)](https://www.nrf.gov.sg/tech-consortia/spintronics)<br>Singapore Spintronics Consortium | [![LUX Photonics Consortium](/images/Programmes/luxconsortium.jpg)](https://www.nrf.gov.sg/tech-consortia/lux-consortium)<br>LUX Photonics Consortium
-
-|  |  |  |
-| -------- | -------- | -------- |
-|[![Singapore Cybersecurity Consortium](/images/Programmes/sgsconsortium.png)](https://www.nrf.gov.sg/tech-consortia/cybersecurity-consortium)<br> Singapore Cybersecurity Consortium | [![Singapore Membrane Consortium](/images/Programmes/sgmem-logo.jpg)](https://www.nrf.gov.sg/tech-consortia/sgmem)<br> Singapore Membrane Consortium
+| [![Singapore Membrane Consortium](/images/Programmes/sgmem-logo.jpg)](https://www.nrf.gov.sg/tech-consortia/sgmem)<br> Singapore Membrane Consortium | [![LUX Photonics Consortium](/images/Programmes/luxconsortium.jpg)](https://www.nrf.gov.sg/tech-consortia/lux-consortium)<br>LUX Photonics Consortium
 
 |  |  |  |
 | -------- | -------- | -------- |
 |[![Singapore Data Science Consortium](/images/Programmes/sdsconsortium.jpg)](https://www.nrf.gov.sg/tech-consortia/sdsc)<br> Singapore Data Science Consortium | [![Singapore Consortium for Synthetic Biology](/images/Programmes/sinergy.png)](https://www.nrf.gov.sg/tech-consortia/sinergy)<br> Singapore Consortium for Synthetic Biology
 
-|  |  |  |
-| -------- | -------- | -------- |
-|[![Smart Grid and Power Electronics Consortium Singapore](/images/Programmes/specsconsortium.png)](https://www.nrf.gov.sg/tech-consortia/specs)<br>Smart Grid and Power Electronics Consortium Singapore | [![Cooling Energy Science and Technology Singapore](/images/Programmes/coolestsg-logov1.png)](https://www.nrf.gov.sg/tech-consortia/coolestsg/)<br> Cooling Energy Science and Technology Singapore
 
 |  |  |  |
 | -------- | -------- | -------- |
