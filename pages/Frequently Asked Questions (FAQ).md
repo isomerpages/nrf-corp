@@ -3,7 +3,7 @@ title: Frequently Asked Questions (FAQ)
 permalink: /faq/
 description: ""
 ---
-### General ###
+### **General** ###
 
 **What are the job or internship opportunities available at the National Research Foundation (NRF)?** 
 
@@ -17,7 +17,7 @@ Please contact Mr Mohd Ikbar Ibrahim, Senior Executive, Infrastructure & Facilit
 
 Please email [secretariat@gyss-one-north.sg](mailto:secretariat@gyss-one-north.sg) if you have any enquiries, or wish to attend the next Global Young Scientists Summit.  
 
-### Research Funding and Grants ###
+### **Research Funding and Grants** ###
 
 **Where can I find information about research grants offered by NRF?**
 
@@ -31,7 +31,7 @@ The [NRF Fellowship](https://www.nrf.gov.sg/grants/nrff/) provides opportuniti
 
 Please email [helpdesk@researchgrant.gov.sg](mailto:) with your enquiries.
 
-### Start-up Funding and Grants ###
+### **Start-up Funding and Grants** ###
 
 **Where can I find more information on grants offered by NRF for my company/start-up?**
 
