@@ -3,11 +3,11 @@ title: Frequently Asked Questions (FAQ)
 permalink: /faq/
 description: ""
 ---
-### General
+### **General** ###
 
 **What are the job or internship opportunities available at the National Research Foundation (NRF)?** 
 
-Please visit [Careers@Gov](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=national%20research%20foundation&job-mail-subscribe-privacy=agree) for a listing of job and internship opportunities at NRF and follow our [LinkedIn page](https://sg.linkedin.com/company/nrfsg) for updates as well.
+Please visit [Careers@Gov](https://go.gov.sg/nrf-careers/) for a listing of job and internship opportunities at NRF and follow our [LinkedIn](https://sg.linkedin.com/company/nrfsg) page for updates as well.
   
 **I would like to book facilities at CREATE. Who should I contact?**
 
@@ -17,7 +17,7 @@ Please contact Mr Mohd Ikbar Ibrahim, Senior Executive, Infrastructure & Facilit
 
 Please email [secretariat@gyss-one-north.sg](mailto:secretariat@gyss-one-north.sg) if you have any enquiries, or wish to attend the next Global Young Scientists Summit.  
 
-### Research Funding & Grants
+### **Research Funding and Grants** ###
 
 **Where can I find information about research grants offered by NRF?**
 
@@ -27,11 +27,11 @@ Information on research and innovation grants, as well as international grant ca
 
 The [NRF Fellowship](https://www.nrf.gov.sg/grants/nrff/) provides opportunities for early career researchers to carry out independent research in Singapore. NRF invites applications once a year. It is open to all areas of science and technology, and researchers of all nationalities are welcome to apply.
   
-**Who should I contact regarding the Research, Innovation and Technology Administration (RITA) system?**
+**Who should I contact regarding the Integrated Grant Management System (IGMS)?**
 
 Please email [helpdesk@researchgrant.gov.sg](mailto:) with your enquiries.
 
-### Start-up Funding & Grants
+### **Start-up Funding and Grants** ###
 
 **Where can I find more information on grants offered by NRF for my company/start-up?**
 
@@ -41,8 +41,4 @@ For schemes and initiatives targeted at SMEs and start-ups, please refer to Ente
   
 **I am from an overseas-based company/start-up that would like to expand into the Singapore market. What opportunities/support are there?**
 
-If you are a foreign entrepreneur keen on starting a business in Singapore, you may qualify for the EntrePass work visa issued by the Ministry of Manpower. For more information, please click [here](https://www.mom.gov.sg/passes-and-permits/entrepass).  
-  
-**How do I apply for the Early Stage Venture Fund scheme?**
-
-The Early Stage Venture Fund scheme is on a call-for-proposal basis. When the next call is launched, more information will be made available on the NRF [website](https://www.nrf.gov.sg/).
+If you are a foreign entrepreneur keen on starting a business in Singapore, you may qualify for the EntrePass work visa issued by the Ministry of Manpower. For more information, please click [here](https://www.mom.gov.sg/passes-and-permits/entrepass).
