@@ -43,10 +43,10 @@ SIA will leverage NUS’s deep tech and multi-disciplinary research expertise ac
 
 [Read the press release here.](https://news.nus.edu.sg/new-sia-nus-corporate-laboratory-to-spur-digital-innovation-in-singapores-aviation-sector/)
 
-#### Lab-in-Fab (2020) ####
+#### ST Microelectronics, ASTAR-IME (Institute of Microelectronics) and Ulvac Partnership for Lab-in-Fab Phase 1 (2020) ####
 
 Lab-in-Fab is a collaboration between STMicroelectronics, ASTAR’s Institute of Microelectronics (IME), and ULVAC, a leading Japanese manufacturing-tool vendor. The aim is to jointly set up and operate an 8-inch (200mm) R&D line focused on piezoelectric microelectromechanical (Piezo MEMS) technology within STMicroelectronics’ existing manufacturing facility in Singapore. 
-
+ 
 This Lab-in-Fab R&D line brings together three partners with leading-edge and complementary competencies in Piezo materials, Piezo MEMS technologies, and wafer fab tools to boost innovation and accelerate development of new materials, process technologies, and ultimately, products for industry customers.
 
 [Read the press release here.](https://www.a-star.edu.sg/docs/librariesprovider18/default-document-library/stmicroelectronics-establishes-world-s-first-lab-in-fab-to-advance-adoption-of-piezoelectric-mems-in-singapore-in-partnership-with-astar-and-ulvac.pdf)
@@ -100,6 +100,12 @@ WIL@NUS will develop strong capabilities to study the role of lipids and protein
 WIL@NUS will focus on two main clusters of research: Clinical evaluation of functional food ingredients and food products; and Bio-production of industrial enzymes and biochemicals.
 
 [Read the press release here.](https://go.gov.sg/corp-lab-wilma-nus)
+
+#### Smart Manufacturing Joint Lab (2017) ####
+
+In 2017, Rolls-Royce, the Agency for Science, Technology and Research (ASTAR) and Singapore Aero Engine Services Private Limited (SAESL) established the Smart Manufacturing Joint Lab to push the boundaries of industrial, academic, and business partnership. The programme focuses on developing next-generation aerospace manufacturing, maintenance, repair, and overhaul (MRO) capabilities enabled by advanced processes, automation and digital technologies.
+
+[Read the press release here.](https://www.a-star.edu.sg/News/astarNews/news/press-releases/a-star-rolls-royce-and-saesl-launch-smart-manufacturing-joint-lab)
 
 #### Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU) (2017) ####
 
