@@ -47,7 +47,7 @@ This Lab-in-Fab R&D line brings together three partners with leading-edge and co
 
 [Read the press release here.](https://www.a-star.edu.sg/docs/librariesprovider18/default-document-library/stmicroelectronics-establishes-world-s-first-lab-in-fab-to-advance-adoption-of-piezoelectric-mems-in-singapore-in-partnership-with-astar-and-ulvac.pdf)
 
-#### Continental-NTU Corporate Laboratory (2019) ####
+#### Continental-NTU Corporate Lab: “Future-Oriented Continental's Urban Society (FOCUS) Lab” (2019) ####
 
 The S$50 million Continental – NTU Corporate Laboratory aims to accelerate innovation in Singapore’s automotive industry and translate research outcomes into practical and viable urban mobility solutions for the future. 
 
@@ -55,7 +55,7 @@ Researchers in the joint corporate laboratory will apply their expertise in area
 
 [Read the press release here.](https://www.ntu.edu.sg/docs/default-source/corporate-ntu/hub-news/ntu-singapore-and-continental-launch-sgd50-million-joint-lab-to-develop-next-generation-urban-mobility-solutions-ff354294-ea20-4d9e-bddf-c2d2cd9064c4.pdf?sfvrsn=b0a5cd3f_3)
 
-#### Rolls-Royce@NTU Corporate Laboratory (2019) ####
+#### Rolls-Royce@NTU Corporate Laboratory - Phase 1 (2019) ####
 
 The Rolls-Royce@NTU Corporate Laboratory focuses on three areas of research: electrical power and control systems, manufacturing and repair technologies, and computational engineering. The industry research laboratory is located within the Nanyang Technological University (NTU) campus. Rolls-Royce co-funds the laboratory and provides industry mentorship to NTU researchers participating in the programme. 
 
@@ -75,20 +75,26 @@ To help upgrade the industry, the joint lab will develop manufacturing capabilit
 
 #### Applied Materials-NUS Advanced Materials Corporate Laboratory (2018) ####
 
-The S$70 million Applied Materials-NUS Advanced Materials Corporate Laboratory aims to accelerate the discovery and commercialisation of new materials for manufacturing next-generation semiconductors. 
-
-New materials R&amp;D and processing techniques with a focus on deposition and etching have been identified as two key research areas that will help pioneer innovative semiconductor structures and devices.
+The Applied Materials-NUS Advanced Materials Corporate Lab combines Applied Materials’ leading expertise in materials engineering and semiconductor technologies with NUS’ world-class and multi-disciplinary R&D capabilities that span applied chemistry, materials science and microelectronics process engineering. The collaboration will focus on R&D in advanced materials engineering with the intent to create innovations that can be quickly transferred into commercial applications.
 
 [Read the press release here.](https://go.gov.sg/corp-lab-nus-applied-mats)
+
+#### HP-NTU Digital Manufacturing Corporate Lab ####
+
+The HP-NTU Digital Manufacturing Corporate Lab, which has commenced on 1 November 2018, is a collaboration between NRF, HP Inc. and NTU. The lab supports Singapore’s push toward industry transformation – in the areas of digital manufacturing and 3D printing technologies. Advanced Manufacturing and Engineering is one of four technology domains under the Research, Innovation and Enterprise (RIE) 2020 Plan, which is Singapore’s national strategy to develop a knowledge-based innovation-driven economy and society.
+
+[Read the press release here.](https://www.ntu.edu.sg/docs/default-source/ntu/media-hub/0289-hp-ntu-corporate-lab-showcases-r-d-innovations-announces-digital-manufacturing-skills-development-programme-for-the-fourth-industrial-revolution/media-release--hp-ntu-corporate-lab-showcases-r-d-innovations-announces-digital-manufacturing-skills-development-programme-for-the-fourth-industrial-revolution.pdf?sfvrsn=ff02856d_2)
+
+#### WIL@NUS Corporate Laboratory (2017) ####
+
+WIL@NUS will develop strong capabilities to study the role of lipids and proteins in body weight maintenance and on human physiology, understand the interplay between diet and diabetes; develop foods that will promote the health of and prevent sarcopenia (loss of muscle mass due to ageing) in the elderly; as well as study the influence of gut microbiome on body composition. WIL@NUS will also design novel enzymatic pathways in microbial hosts to produce enzymes and biochemicals at industrially relevant and sustainable ways.
+
+WIL@NUS will focus on two main clusters of research: Clinical evaluation of functional food ingredients and food products; and Bio-production of industrial enzymes and biochemicals.
+
+[Read the press release here.](https://go.gov.sg/corp-lab-wilma-nus)
 
 #### Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU) (2017) ####
 
 The S$42.4 million Singtel Cognitive and Artificial Intelligence Lab for Enterprises (SCALE@NTU) aims to develop applications for use in the areas of public safety, smart urban solutions, transportation, healthcare and manufacturing. The partners, through their collective expertise and resources, aim to accelerate innovation in the fields of AI, advanced data analytics, robotics and smart computing.
 
 [Read the press release here.](https://go.gov.sg/corp-lab-ntu-astar-singtel)
-
-#### WIL@NUS Corporate Laboratory (2017) ####
-
-The S$110 million WIL@NUS Corporate Laboratory aims to address the challenges of lifestyle-related diseases and sustainable production of industrial chemicals. Research activities will focus on two key thrusts: firstly, to address major public health issues through the development of healthier foods and ingredients; and secondly, to design cost-effective and sustainable methods of producing chemical compounds using natural sources.
-
-[Read the press release here.](https://go.gov.sg/corp-lab-wilma-nus)
