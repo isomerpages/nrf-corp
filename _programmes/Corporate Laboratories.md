@@ -15,6 +15,10 @@ Corp Labs enable faculty, researchers, PhD and Master’s students to work along
 
 Here is a list of Corp Labs across Singapore:
 
+#### NTU-Delta Corporate Laboratory - Phase 2 (2022) ####
+
+The Phase 2 partnership between NTU and Delta seeks to develop (i) smart gripping and manipulation technology for material handling and (ii) sensing, situation awareness, and real-time decision-making technology for material transportation in a highly dynamic environment.
+
 #### Cisco-NUS Accelerated Digital Economy Corporate Laboratory (2021) ####
 
 The S$54 million Cisco-NUS Accelerated Digital Economy Corporate Laboratory aims to accelerate Singapore’s Digital Economy transformation by developing solutions to automate and scale business operations; developing intelligent infrastructure for healthcare; building and operationalising secure and resilient next-generation infrastructure for Internet of Things and enterprise environments, and harnessing technology to augment and drive productivity of a future-ready professional workforce. 
@@ -23,7 +27,7 @@ The Corporate Laboratory will bring together talent from NUS and Cisco to boost 
 
 [Read the press release here.](https://news.nus.edu.sg/new-cisco-nus-corporate-lab-to-accelerate-singapores-digital-transformation/)
 
-#### Applied Materials– Institute of Microelectronics Centre of Excellence in Advanced Packaging in Singapore (2021) ####
+#### Applied Materials–ASTAR-IME (Institute of Microelectronics) Collaboration in Advanced Packaging Phase 3 in Singapore (2021) ####
 
 The USD$210 million Applied Materials–Institute of Microelectronics Centre of Excellence in Advanced Packaging in Singapore aims to accelerate breakthroughs in materials, equipment and process technologies for hybrid bonding and other emerging, 3D chip integration technologies. 
 
@@ -47,15 +51,21 @@ This Lab-in-Fab R&D line brings together three partners with leading-edge and co
 
 [Read the press release here.](https://www.a-star.edu.sg/docs/librariesprovider18/default-document-library/stmicroelectronics-establishes-world-s-first-lab-in-fab-to-advance-adoption-of-piezoelectric-mems-in-singapore-in-partnership-with-astar-and-ulvac.pdf)
 
+#### Local Ecosystem Development for Aircraft Cabin Interior Components (2019) ####
+
+The >S$30 million SIA-SIAEC-SIMTech (ASTAR) Joint Lab aims to help local LLEs and SMEs upgrade their technical skills and capabilities, gearing Singapore up to be the R&D Centre of Excellence for the design and manufacturing of cabin interior components.
+ 
+To help upgrade the industry, the Joint Lab will develop manufacturing capabilities and the local manufacturing ecosystem to improve product performance, reduce costs and lead times, and encourage SMEs to venture into high value-added businesses. It will also nurture talents to grow the human capital to support the local aerospace manufacturing and other relevant industries.
+
+[Read the press release here.](https://www.a-star.edu.sg/simtech/news-events/SIMTech-Manufacturing-Matters/MM/features/pe-matters-sia-siaec-simtech-joint-lab)
+
 #### Continental-NTU Corporate Lab: “Future-Oriented Continental's Urban Society (FOCUS) Lab” (2019) ####
 
-The S$50 million Continental – NTU Corporate Laboratory aims to accelerate innovation in Singapore’s automotive industry and translate research outcomes into practical and viable urban mobility solutions for the future. 
-
-Researchers in the joint corporate laboratory will apply their expertise in areas such as autonomous robotics, navigation, artificial intelligence (AI), cybersecurity, smart materials, sensing, communication, and cloud technologies to develop real-world applications. This is in line with Singapore’s Smart Nation initiatives to leverage data and digital technologies to enhance public and personal transportation, and to use sensors and data to run a smart, green, and liveable city.
+Continental-NTU Corporate Lab is a S$50 million joint corporate laboratory between NTU and Continental that focuses on developing technologically advanced solutions in the areas such as autonomous robotics, navigation, artificial intelligence (AI), cybersecurity, smart materials, sensing, communication, and cloud technologies for future urban mobility applications. Over the duration of the Corporate Lab, there are 16 industry-focused projects to be carried out to impact across the cross-disciplinary areas of: Smart Mobility & Delivery; Artificial Intelligence and Software Engineering; and Smart Materials and Communication Technologies.
 
 [Read the press release here.](https://www.ntu.edu.sg/docs/default-source/corporate-ntu/hub-news/ntu-singapore-and-continental-launch-sgd50-million-joint-lab-to-develop-next-generation-urban-mobility-solutions-ff354294-ea20-4d9e-bddf-c2d2cd9064c4.pdf?sfvrsn=b0a5cd3f_3)
 
-#### Rolls-Royce@NTU Corporate Laboratory - Phase 1 (2019) ####
+#### Rolls-Royce@NTU Corporate Laboratory - Phase 2 (2019) ####
 
 The Rolls-Royce@NTU Corporate Laboratory focuses on three areas of research: electrical power and control systems, manufacturing and repair technologies, and computational engineering. The industry research laboratory is located within the Nanyang Technological University (NTU) campus. Rolls-Royce co-funds the laboratory and provides industry mentorship to NTU researchers participating in the programme. 
 
@@ -65,13 +75,11 @@ In the second phase, the Corp Lab will work on 29 projects that make use of Indu
 
 [Read the press release here.](https://go.gov.sg/corp-lab-rr-ntu)
 
-#### Local Ecosystem Development for Aircraft Cabin Interior Components (2019) ####
+#### Advanced ReRAM Technology for Embedded Systems (2018) ####
 
-The S$33.16 million SIA-SIAEC-SIMTech (ASTAR) Joint Lab aims to help local LLEs and SMEs upgrade their technical skills and capabilities, gearing Singapore up to be the R&D Centre of Excellence for the design and manufacturing of cabin interior components.
+This collaboration between NTU and Globalfoundries seeks to establish a new class of mainstream non-volatile memory technology, ReRAM, that is used in on-chip microcontrollers or embedded systems. The ReRAM technology developed will be transferred to GlobalFoundries (GF) for further industry development into commercial prototypes of one-transistor-one-resistor array ReRAM chips, which will be used for ultra-low power and high endurance embedded system applications. The final product in this ICP, i.e. ReRAM chip, will be demonstrated as mainstream embedded memory in the next generation internet of things (IoTs), automobile and infotainment platforms of smart technology.
 
-To help upgrade the industry, the joint lab will develop manufacturing capabilities and the local manufacturing ecosystem to improve product performance, reduce costs and lead times, and encourage SMEs to venture into high value-added businesses. It will also nurture talents to grow the human capital to support the local aerospace manufacturing and other relevant industries.
-
-[Read the press release here.](https://www.a-star.edu.sg/simtech/news-events/SIMTech-Manufacturing-Matters/MM/features/pe-matters-sia-siaec-simtech-joint-lab)
+[Read the press release here.](https://www.ntu.edu.sg/docs/default-source/ntu/media-hub/0315-ntu-and-globalfoundries-in-s$120m-tie-up-on-reram-research/media-release---ntu-and-globalfoundries-in-s$120m-tie-up-on-reram-research.pdf?sfvrsn=e4a0bbe2_2)
 
 #### Applied Materials-NUS Advanced Materials Corporate Laboratory (2018) ####
 
@@ -79,7 +87,7 @@ The Applied Materials-NUS Advanced Materials Corporate Lab combines Applied Mate
 
 [Read the press release here.](https://go.gov.sg/corp-lab-nus-applied-mats)
 
-#### HP-NTU Digital Manufacturing Corporate Lab ####
+#### HP-NTU Digital Manufacturing Corporate Lab (2018) ####
 
 The HP-NTU Digital Manufacturing Corporate Lab, which has commenced on 1 November 2018, is a collaboration between NRF, HP Inc. and NTU. The lab supports Singapore’s push toward industry transformation – in the areas of digital manufacturing and 3D printing technologies. Advanced Manufacturing and Engineering is one of four technology domains under the Research, Innovation and Enterprise (RIE) 2020 Plan, which is Singapore’s national strategy to develop a knowledge-based innovation-driven economy and society.
 
