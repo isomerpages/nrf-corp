@@ -26,6 +26,8 @@ Information on research and innovation grants, as well as international grant ca
 **I am a researcher based overseas and I am interested to carry out my research in Singapore. What are the opportunities here?**
 
 The [NRF Fellowship](https://www.nrf.gov.sg/grants/nrff/) provides opportunities for early career researchers to carry out independent research in Singapore. NRF invites applications once a year. It is open to all areas of science and technology, and researchers of all nationalities are welcome to apply.
+
+The [NRF Investigatorship](https://www.nrf.gov.sg/grants/nrfi/) provides opportunities for scientists and researchers to pursue ground-breaking, high-risk research. It is designed to support a small number of excellent Principal Investigators who have a track record of research achievements that identify them as leaders in their respective field(s) of research.
   
 **Who should I contact regarding the Integrated Grant Management System (IGMS)?**
 
