@@ -15,6 +15,10 @@ Corp Labs enable faculty, researchers, PhD and Master’s students to work along
 
 Here is a list of Corp Labs across Singapore:
 
+#### REC@NUS Corporate R&D Laboratory for Next Generation Photovoltaics (2022) ####
+
+The project proposes to develop a Perovskite-on-Si tandem solar cell with an efficiency of 30% on an area of 244 cm2 with a stability of >90% under standard testing conditions. The technology is planned for subsequent IP commercialisation through the industry partner REC. Till date, the highest perovskite-on-Si tandem cell efficiency to date (~29.15%) was only achieved on a very small device area (1 cm2, i.e. ~200x smaller than commercial silicon solar cells).
+
 #### NTU-Delta Corporate Laboratory - Phase 2 (2022) ####
 
 The Phase 2 partnership between NTU and Delta seeks to develop (i) smart gripping and manipulation technology for material handling and (ii) sensing, situation awareness, and real-time decision-making technology for material transportation in a highly dynamic environment.
@@ -87,7 +91,7 @@ The Applied Materials-NUS Advanced Materials Corporate Lab combines Applied Mate
 
 [Read the press release here.](https://go.gov.sg/corp-lab-nus-applied-mats)
 
-#### HP-NTU Digital Manufacturing Corporate Lab (2018) ####
+#### HP-NTU Digital Manufacturing Corporate Laboratory (2018) ####
 
 The HP-NTU Digital Manufacturing Corporate Lab, which has commenced on 1 November 2018, is a collaboration between NRF, HP Inc. and NTU. The lab supports Singapore’s push toward industry transformation – in the areas of digital manufacturing and 3D printing technologies. Advanced Manufacturing and Engineering is one of four technology domains under the Research, Innovation and Enterprise (RIE) 2020 Plan, which is Singapore’s national strategy to develop a knowledge-based innovation-driven economy and society.
 
