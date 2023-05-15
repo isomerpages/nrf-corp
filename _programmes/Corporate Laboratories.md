@@ -55,14 +55,6 @@ This Lab-in-Fab R&D line brings together three partners with leading-edge and co
 
 [Read the press release here.](https://www.a-star.edu.sg/docs/librariesprovider18/default-document-library/stmicroelectronics-establishes-world-s-first-lab-in-fab-to-advance-adoption-of-piezoelectric-mems-in-singapore-in-partnership-with-astar-and-ulvac.pdf)
 
-#### Local Ecosystem Development for Aircraft Cabin Interior Components (2019) ####
-
-The >S$30 million SIA-SIAEC-SIMTech (ASTAR) Joint Lab aims to help local LLEs and SMEs upgrade their technical skills and capabilities, gearing Singapore up to be the R&D Centre of Excellence for the design and manufacturing of cabin interior components.
- 
-To help upgrade the industry, the Joint Lab will develop manufacturing capabilities and the local manufacturing ecosystem to improve product performance, reduce costs and lead times, and encourage SMEs to venture into high value-added businesses. It will also nurture talents to grow the human capital to support the local aerospace manufacturing and other relevant industries.
-
-[Read the press release here.](https://www.a-star.edu.sg/simtech/news-events/SIMTech-Manufacturing-Matters/MM/features/pe-matters-sia-siaec-simtech-joint-lab)
-
 #### Continental-NTU Corporate Lab: “Future-Oriented Continental's Urban Society (FOCUS) Lab” (2019) ####
 
 Continental-NTU Corporate Lab is a S$50 million joint corporate laboratory between NTU and Continental that focuses on developing technologically advanced solutions in the areas such as autonomous robotics, navigation, artificial intelligence (AI), cybersecurity, smart materials, sensing, communication, and cloud technologies for future urban mobility applications. Over the duration of the Corporate Lab, there are 16 industry-focused projects to be carried out to impact across the cross-disciplinary areas of: Smart Mobility & Delivery; Artificial Intelligence and Software Engineering; and Smart Materials and Communication Technologies.
