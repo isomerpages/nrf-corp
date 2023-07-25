@@ -9,8 +9,7 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   research talent.
 image: /images/researcher-holding-blue-pill-v2.jpg
 permalink: /
-notification: "The April 2023 issue of the RIE magazine is out! Learn more about
-  the science of consumption in our latest issue. "
+notification: ""
 sections:
   - hero:
       title: Research, Innovation & Enterprise
