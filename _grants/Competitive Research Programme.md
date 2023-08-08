@@ -5,15 +5,17 @@ description: ""
 ---
 ![](/images/Grants/team%20meeting%20isometric%20illustration.jpg)
 
-The National Research Foundation Competitive Research Programme funding scheme seeks to foster the formation of multi-disciplinary teams to conduct cutting-edge research projects that are of relevance to Singapore and the society.    
+The National Research Foundation Competitive Research Programme (CRP) funding scheme seeks to foster the formation of multi-disciplinary teams to conduct cutting-edge research projects that are of relevance to Singapore and the society.    
   
-The Competitive Research Programme funds use-inspired basic research projects that are selected  through a merit review process based on scientific excellence. The theme of the proposed research project must be motivated by an important need or problem to be solved.  
-  
+The CRP funds use-inspired basic research projects that are selected  through a merit review process based on scientific excellence. The theme of the proposed research project must be motivated by an important need or problem to be solved. 
+
 Past projects have made discoveries of potential significant impact to industry and society. Click [here](https://go.gov.sg/crp-awarded) to view these projects.
 
 ### Call Frequency and Grant Quantum
 
-The CRP scheme offers funding support for research programmes of varying sizes, up to a period of 5 years. Calls-for-proposals are launched twice yearly to solicit research ideas in all areas of science and technology. Research ideas at the intersection of multiple disciplines, including biological sciences, are considered.
+The CRP scheme offers funding support for research programmes of varying sizes, up to a period of 5 years. Calls-for-proposals are launched twice yearly to solicit research ideas in all areas of science and technology. Research ideas at the intersection of multiple disciplines, including biological sciences, are considered. 
+
+##### ***The 31st CRP grant call, which was originally scheduled for launch in September 2023, will be paused to accommodate to an ongoing CRP grant scheme mid-term review. The CRP grant calls will resume in 2024.***
 
 ### Eligibility Criteria
 
