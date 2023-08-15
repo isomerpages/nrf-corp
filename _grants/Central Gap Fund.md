@@ -204,6 +204,6 @@ For Central Gap Application Guidelines, please click [here](https://go.gov.sg/cg
 
 For frequently asked questions on Central Gap, please click [here](https://go.gov.sg/cgf-faq-4-0).
 
-For the list of awarded NRF Central Gap Fund projects, please click [here](https://go.gov.sg/cgf-awarded-centrally).
+For the list of awarded NRF Central Gap Fund projects, please click [here](https://go.gov.sg/cgf-awarded-centrally-v2).
 
 For the list of awarded NRF COVID-19 Challenge projects, please click [here](https://go.gov.sg/cgf-awarded-covid19).
