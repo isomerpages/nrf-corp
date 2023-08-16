@@ -24,7 +24,7 @@ The universities and institutions with research centres in CREATE that collabora
 * University of California, Berkeley
 * Shanghai Jiao Tong University
 * Cambridge University
-* University of Illinois at Urbana-Champaign
+* University of Illinois Urbana-Champaign
 * French National Centre for Scientific Research
 
 Visit the [CREATE website](https://www.create.edu.sg/) for latest news, events and updates.
