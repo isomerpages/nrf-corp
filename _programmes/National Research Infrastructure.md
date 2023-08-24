@@ -5,7 +5,6 @@ description: ""
 ---
 ## National Research Infrastructure ##
 ![](/images/Programmes/downtown-core-of-singapore.jpg)
-
 Singapore requires a wide range of research infrastructure to underpin its development of Research & Development (R&D) capabilities. To coordinate and maximise value from our research infrastructure investments, the National Research Foundation (NRF) introduced the National Research Infrastructure (NRI) framework in April 2015 to guide the development of selected research facilities that are to be operated as a national resource, open to all researchers in Singapore.  
   
 The NRI framework enables continued investment in infrastructure upgrades, so that we can continue to drive leading research and technology development in a cost-effective way. It ensures that researchers in Singapore have ready access to critical research infrastructure and services to conduct cutting-edge research, which in turn nurtures and sustains the R&D capabilities in Singapore.  
@@ -26,7 +25,9 @@ The key principles that guide the definition and operation of NRIs are:
     
 *   **Charging Model**: Users of NRIs are charged depending on the degree of use and type of services required. For non-proprietary research, the users are expected to publish research results in open literature, and charging rates can be lower to account for knowledge spillover. For proprietary research where results are not made public, the charging rate could be higher. The charges are used to cover operating costs of NRIs.
 
-#### Designation of St. John’s Island National Marine Laboratory as an NRI ####
+#### St. John’s Island National Marine Laboratory ####
+
+![](/images/Programmes/sjinml-logo-circle.png)
 
 The [St. John’s Island National Marine Laboratory](http://sjinml.nus.edu.sg/) (SJINML), operated by the National University of Singapore (NUS), is Singapore’s only offshore marine research facility. The laboratory’s close proximity to coral reefs and biodiversity around the Southern Islands allows marine scientists to conduct a wide range of in-depth research. Based on considerations of its strategic research value and potential user base, SJINML was designated an NRI in March 2016. NUS, as the host institution, will operate the SJINML NRI.  
   
@@ -53,7 +54,7 @@ In addition to subsidising its operation costs, NRF will support the upgrading o
     
 *   Purchase of core equipment: New core equipment will enhance existing capabilities and add new capabilities to support developments in marine science research. These include equipment to support new molecular approaches in biodiversity research and more tools for study of plankton and sediments in the marine environment.
 
-For more information, please visit: https://sjinml.nus.edu.sg/
+For more information, please click [here](https://sjinml.nus.edu.sg/).
 
 #### National Supercomputing Centre (NSCC) Singapore ####
 
@@ -67,4 +68,4 @@ With the support of our stakeholders, the Agency for Science Technology and Rese
 
 NSCC has been tasked to leverage HPC to advance Singapore’s strategic interests, boost national initiatives and facilitate industry transformation using HPC in areas like visualisation, modelling, simulation, big data analytics and artificial intelligence. As a national strategic technological platform, NSCC has the mandate to enhance industry competence, capacity and competitive advantage in the use of HPC in all relevant fields such as computational science, analytics, engineering, advanced manufacturing, genomics, biomedicine and healthcare, among many others. NSCC is thus keen to work with domain experts and coordinators in various Research & Development fields to achieve its aims. NSCC is committed to helping educational institutions train future generations of HPC-enabled workforce to help Singapore maintain its competitiveness. 
 
-For more information, please visit https://www.nscc.sg/
+For more information, please click [here](https://www.nscc.sg/).
