@@ -5,7 +5,6 @@ description: ""
 ---
 ## National Research Infrastructure ##
 ![](/images/Programmes/downtown-core-of-singapore.jpg)
-
 Singapore requires a wide range of research infrastructure to underpin its development of Research & Development (R&D) capabilities. To coordinate and maximise value from our research infrastructure investments, the National Research Foundation (NRF) introduced the National Research Infrastructure (NRI) framework in April 2015 to guide the development of selected research facilities that are to be operated as a national resource, open to all researchers in Singapore.  
   
 The NRI framework enables continued investment in infrastructure upgrades, so that we can continue to drive leading research and technology development in a cost-effective way. It ensures that researchers in Singapore have ready access to critical research infrastructure and services to conduct cutting-edge research, which in turn nurtures and sustains the R&D capabilities in Singapore.  
@@ -26,7 +25,9 @@ The key principles that guide the definition and operation of NRIs are:
     
 *   **Charging Model**: Users of NRIs are charged depending on the degree of use and type of services required. For non-proprietary research, the users are expected to publish research results in open literature, and charging rates can be lower to account for knowledge spillover. For proprietary research where results are not made public, the charging rate could be higher. The charges are used to cover operating costs of NRIs.
 
-#### Designation of St. John’s Island National Marine Laboratory as an NRI ####
+#### St. John’s Island National Marine Laboratory ####
+
+![](/images/Programmes/sjinml-logo-circle.png)
 
 The [St. John’s Island National Marine Laboratory](http://sjinml.nus.edu.sg/) (SJINML), operated by the National University of Singapore (NUS), is Singapore’s only offshore marine research facility. The laboratory’s close proximity to coral reefs and biodiversity around the Southern Islands allows marine scientists to conduct a wide range of in-depth research. Based on considerations of its strategic research value and potential user base, SJINML was designated an NRI in March 2016. NUS, as the host institution, will operate the SJINML NRI.  
   
