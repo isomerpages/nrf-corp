@@ -52,3 +52,19 @@ In addition to subsidising its operation costs, NRF will support the upgrading o
       
     
 *   Purchase of core equipment: New core equipment will enhance existing capabilities and add new capabilities to support developments in marine science research. These include equipment to support new molecular approaches in biodiversity research and more tools for study of plankton and sediments in the marine environment.
+
+For more information, please visit: https://sjinml.nus.edu.sg/
+
+#### National Supercomputing Centre (NSCC) Singapore ####
+
+![](/images/Programmes/nscc%20logo-colour.png)
+
+NSCC Singapore was established in 2015 and manages Singapore’s first national petascale facility with available high performance computing (HPC) resources. As a National Research Infrastructure funded by the National Research Foundation (NRF), the HPC resources that we provide helps support the research needs of the public and private sectors, including research institutes, institutes of higher learning, government agencies and companies. 
+
+With the support of our stakeholders, the Agency for Science Technology and Research (A*STAR), Nanyang Technological University (NTU), National University of Singapore (NUS), Singapore University of Technology and Design (SUTD), National Environment Agency (NEA), Technology Centre for Offshore and Marine, Singapore (TCOMS), Singapore-ETH Centre (SEC) and Precision Health Research, Singapore (PRECISE),  NSCC catalyses national research and development initiatives, attracts industrial research collaborations and enhances Singapore’s research capabilities.
+
+![](/images/Programmes/nscc%20aspire%202a.jpg)
+
+NSCC has been tasked to leverage HPC to advance Singapore’s strategic interests, boost national initiatives and facilitate industry transformation using HPC in areas like visualisation, modelling, simulation, big data analytics and artificial intelligence. As a national strategic technological platform, NSCC has the mandate to enhance industry competence, capacity and competitive advantage in the use of HPC in all relevant fields such as computational science, analytics, engineering, advanced manufacturing, genomics, biomedicine and healthcare, among many others. NSCC is thus keen to work with domain experts and coordinators in various Research & Development fields to achieve its aims. NSCC is committed to helping educational institutions train future generations of HPC-enabled workforce to help Singapore maintain its competitiveness. 
+
+For more information, please visit https://www.nscc.sg/
