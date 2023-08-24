@@ -53,7 +53,7 @@ In addition to subsidising its operation costs, NRF will support the upgrading o
     
 *   Purchase of core equipment: New core equipment will enhance existing capabilities and add new capabilities to support developments in marine science research. These include equipment to support new molecular approaches in biodiversity research and more tools for study of plankton and sediments in the marine environment.
 
-For more information, please visit: https://sjinml.nus.edu.sg/
+For more information, please click [here](https://sjinml.nus.edu.sg/).
 
 #### National Supercomputing Centre (NSCC) Singapore ####
 
@@ -67,4 +67,4 @@ With the support of our stakeholders, the Agency for Science Technology and Rese
 
 NSCC has been tasked to leverage HPC to advance Singapore’s strategic interests, boost national initiatives and facilitate industry transformation using HPC in areas like visualisation, modelling, simulation, big data analytics and artificial intelligence. As a national strategic technological platform, NSCC has the mandate to enhance industry competence, capacity and competitive advantage in the use of HPC in all relevant fields such as computational science, analytics, engineering, advanced manufacturing, genomics, biomedicine and healthcare, among many others. NSCC is thus keen to work with domain experts and coordinators in various Research & Development fields to achieve its aims. NSCC is committed to helping educational institutions train future generations of HPC-enabled workforce to help Singapore maintain its competitiveness. 
 
-For more information, please visit https://www.nscc.sg/
+For more information, please click [here](https://www.nscc.sg/).
