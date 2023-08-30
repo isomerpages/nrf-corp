@@ -28,8 +28,7 @@ This high-level council underscores the political commitment to and importance p
 |**Dr Tan See Leng**<br>Minister for Manpower and Second Minister for Trade and Industry
 ||***RIEC Non-Ministerial Members***|
 |**Mr Sudipta Bhattacharya**<br>Chief Technology Officer and Chief Executive Officer for North America, Adani Group | **Prof Robert Brown**<br>President, Boston University | **Dr Roland Busch**<br>President and CEO of Siemens
-| **Sir Jeremy Farrar**<br> Director, Wellcome Trust | **Sir Richard Friend** <br>Professor of Physics, University of Cambridge, and Chairman, NRF Scientific Advisory Board (SAB) | **Ms Goh Swee Chen**<br>Chairman, Nanyang Technological University
-| **Mr Avi Hasson**<br> CEO, Start-up Nation Central; Former Chief Scientist, Israel Ministry of Economy and Industry | **Mr Hsieh Fu Hua**<br>Chairman, National University of Singapore | **Mr Koh Boon Hwee**<br>Chairman, Altara Ventures
+| **Sir Richard Friend** <br>Professor of Physics, University of Cambridge, and Chairman, NRF Scientific Advisory Board (SAB) | **Ms Goh Swee Chen**<br>Chairman, Nanyang Technological University | **Mr Avi Hasson**<br> CEO, Start-up Nation Central; Former Chief Scientist, Israel Ministry of Economy and Industry | **Mr Hsieh Fu Hua**<br>Chairman, National University of Singapore | **Mr Koh Boon Hwee**<br>Chairman, Altara Ventures
 | **Mr Forrest Li**<br>Founder, Chairman and Group CEO of Sea Ltd | **Dr Li Ge** <br>Founder, Chairman and CEO of WuXi AppTec, Founder and Chairman of WuXi Biologics | **Ms Jenny Lee**<br>Managing Partner, GGV Capital
 | **Dr Chris Luebkeman**<br> Leader, Strategic Foresight Hub, ETH Zurich | **Mr Dilhan Pillay Sandrasegara**<br>Executive Director and Chief Executive Officer Temasek Holdings (Private) Limited, Temasek International Pte. Ltd. | **Prof Daniela Rus** <br> Director, Computer Science and Artificial Intelligence Laboratory, MIT
 | **Sir Andrew Witty**<br>CEO, UnitedHealth Group
