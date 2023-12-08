@@ -2,6 +2,7 @@
 title: NRF Fellowship
 permalink: /grants/nrff/
 description: ""
+variant: markdown
 ---
 ![](/images/Grants/research-isometric.jpg)
 
@@ -19,7 +20,7 @@ NRF invites applications once a year, as well as taps on local research organisa
   
 There is a three-step selection process, comprising a longlisting process by prospective host institutions in Singapore, a shortlisting process and a final selection. Shortlisted candidates will be invited to Singapore for a final interview by the NRF Fellowship Evaluation Panel.  
   
-Interested applicants should refer to the detailed NRF guidelines outlined in the **[Integrated Grant Management System (IGMS)](https://researchgrant.gov.sg/)** website. 
+Interested applicants should refer to the detailed NRF guidelines outlined in the **[Integrated Grant Management System (IGMS)](https://www.researchgrant.gov.sg/)** website. 
 
 #### NRF Fellowship Institutions
 
