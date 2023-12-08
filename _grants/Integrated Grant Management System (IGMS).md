@@ -2,6 +2,7 @@
 title: Integrated Grant Management System (IGMS)
 permalink: /grants/igms/
 description: ""
+variant: markdown
 ---
 ![](/images/Grants/jan4-outlined-02.jpg)
 
@@ -10,7 +11,7 @@ Welcome to the Integrated **Grant Management System (IGMS)**.
 The system is designated for researchers and grant managers who are involved in National Research Foundation, Singapore (NRF), Ministry of Health (MOH), Ministry of Education (MOE), and Agency for Science, Technology and Research (A*STAR) grants.
 
 
-##### ****Click [here](https://researchgrant.gov.sg/Pages/About-Us.aspx) to access the IGMS.****
+##### ****Click [here](https://www.researchgrant.gov.sg/) to access the IGMS.****
 <br>
 
 ---
