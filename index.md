@@ -9,7 +9,7 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   research talent.
 image: /images/researcher-holding-blue-pill-v2.jpg
 permalink: /
-notification: ""
+notification: "UPDATE: New link for the Integrated Grant Management System (IGMS)."
 sections:
   - hero:
       title: Research, Innovation & Enterprise
@@ -24,12 +24,12 @@ sections:
         - title: Ecosystem-wide funding initiatives (FI)
           description: FIs across the RIEcosystem
           url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem-wide-fis/mtc-fis/
+        - title: Global Young Scientists Summit 2024
+          description: Happening in January 2024
+          url: https://gyss.nrf.gov.sg/
         - title: President's Science & Technology Awards (PSTA)
           description: Singapore's brightest minds
           url: https://www.psta.gov.sg
-        - title: RIE Magazine (April '23)
-          description: The Science of Consumption
-          url: https://go.gov.sg/nrf-riemag-april-2023
       background: /images/researcher-holding-blue-pill-v2.jpg
   - infobar:
       title: National Research Foundation, Singapore (NRF)

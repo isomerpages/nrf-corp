@@ -3,6 +3,7 @@ title: Innovation and Enterprise
 permalink: /rie-ecosystem/ecosystem-wide-fis/ie-fis/
 description: ""
 third_nav_title: Ecosystem Wide FIs
+variant: markdown
 ---
 **Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
 
@@ -35,7 +36,7 @@ Here is a list of major Innovation and Enterprise (I&amp;E) FIs outside NRF:
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#EBEBEB;
   padding:4.05pt 8.1pt 4.05pt 8.1pt;height:11.9pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Local Enterprises</span></b></p></td></tr><tr style="mso-yfti-irow:5;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
-  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.edb.gov.sg/en/how-we-help/corporate-venture-launchpad-programme.html"><b>Centres of Innovation</b></a></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.enterprisesg.gov.sg/grow-your-business/innovate-with-us/innovation-capabilities/centres-of-innovation"><b>Centres of Innovation</b></a></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
   border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">ESG</span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:

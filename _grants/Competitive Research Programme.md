@@ -2,6 +2,7 @@
 title: Competitive Research Programme
 permalink: /grants/crp/
 description: ""
+variant: markdown
 ---
 ![](/images/Grants/team%20meeting%20isometric%20illustration.jpg)
 
@@ -49,4 +50,4 @@ NRF Expert Panels will shortlist promising ideas to be developed into Full Propo
 
 *   Potential impact / Relevance to Singapore
 
-Visit the **[Integrated Grant Management System (IGMS)](https://researchgrant.gov.sg/pages/index.aspx)** website to find out more about the next CRP grant call.
+Visit the **[Integrated Grant Management System (IGMS)](https://www.researchgrant.gov.sg/)** website to find out more about the next CRP grant call.

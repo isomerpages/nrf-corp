@@ -2,6 +2,7 @@
 title: Central Gap Fund
 permalink: /grants/cgf/
 description: ""
+variant: markdown
 ---
 ![](/images/digital%20strategy%20and%20planing.jpg)
 
@@ -44,7 +45,7 @@ Projects that had previously received translation funding from the Host Institut
 *  For projects with approved qualifying costs less than or equal to S$500K: The IEO/HI and Central Gap will equally co-fund the qualifying costs.
 *  For projects with approved qualifying costs greater than S$500K: The IEO/HI will co-fund S$250K, and Central Gap will support the remaining qualifying costs.
 
-Proposals can be submitted throughout the year and will be processed on a needs basis. To apply for Central Gap, proposals must be lodged electronically via the Integrated Grants Management System (IGMS) ([https://researchgrant.gov.sg](http://researchgrant.gov.sg/)).  
+Proposals can be submitted throughout the year and will be processed on a needs basis. To apply for Central Gap, proposals must be lodged electronically via the Integrated Grants Management System (IGMS) ([https://www.researchgrant.gov.sg/](http://www.researchgrant.gov.sg/)).  
 
 **Application process**
 

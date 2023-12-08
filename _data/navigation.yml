@@ -8,9 +8,9 @@ links:
     collection: programmes
   - title: Grants
     collection: grants
-  - title: Flagship Events
+  - title: Events
     collection: flagship-events
-  - title: Media & Publications
+  - title: Media
     resource_room: true
   - title: Contact
     url: /contact-us/
