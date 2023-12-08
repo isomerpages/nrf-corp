@@ -9,8 +9,7 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   research talent.
 image: /images/researcher-holding-blue-pill-v2.jpg
 permalink: /
-notification: "UPDATE: The link to the Integrated Grant Management System (IGMS)
-  has been updated."
+notification: "UPDATE: New link for the Integrated Grant Management System (IGMS)."
 sections:
   - hero:
       title: Research, Innovation & Enterprise
