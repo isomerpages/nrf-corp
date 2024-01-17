@@ -3,6 +3,7 @@ title: NRF Board
 permalink: /about/governance/nrfb/
 description: ""
 third_nav_title: Governance
+variant: markdown
 ---
 The National Research Foundation, Singapore (NRF) was formed in 2006 under the Prime Minister's Office, Singapore, to support the [Research, Innovation and Enterprise Council (RIEC)](/about/governance/riec/) in its work through the development and coordination of national policies to grow Singapore's research capability, support economic growth and meet Singapore's future national challenges.
 
@@ -24,4 +25,4 @@ Deputy Prime Minister and Coordinating Minister for Economic Policies, **Mr Heng
 | **Mr Joseph Leong**<br>Permanent Secretary (Communications and Information), Permanent Secretary (Cybersecurity) and Permanent Secretary (Smart Nation and Digital Government Group) | **Mr Stanley Loh**<br>Permanent Secretary (Sustainability and the Environment) | **Mr Loh Ngai Seng**<br>Permanent Secretary&nbsp;(Transport)
 | **Mrs Ow Foong Pheng**<br>Permanent Secretary (National&nbsp;Development) | **Mr Png Cheong Boon**<br>Chairman, Economic Development Board | **Professor Bertil Andersson**<br>NRF Scientific Advisory Board Member and Advisor to NRF | **Mr&nbsp;Kay Chai (KC) Ang**<br>Senior Vice President, GlobalFoundries and Board Advisor, Singapore Semiconductor Industry Association | **Mr Piyush Gupta**<br>Chief Executive Officer and Director of DBS Group
 | **Professor Ho Teck Hua**<br>President, Nanyang Technological University, Singapore | **Mr Peter Ho**<br>Chairman, Urban Redevelopment Authority and Senior Advisor, Centre for Strategic Futures and Senior Fellow, Civil Service College | **Mr Lim Chow Kiat**<br>Chief Executive Officer, GIC Pte Ltd 
-| **Mr Dilhan Pillay Sandrasegara**<br>Chief Executive Officer, Temasek International | **Professor&nbsp;Tan Eng Chye**<br>President, National University of Singapore | **Mr Wong Kim Yin**<br>Group President and Chief Executive Officer, Sembcorp Industries and Chairman, SkillsFuture Singapore
+| **Mr Dilhan Pillay Sandrasegara**<br>Executive Director and Chief Executive Officer, Temasek Holdings | **Professor&nbsp;Tan Eng Chye**<br>President, National University of Singapore | **Mr Wong Kim Yin**<br>Group President and Chief Executive Officer, Sembcorp Industries Limited
