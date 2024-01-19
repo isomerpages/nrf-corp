@@ -3,6 +3,7 @@ title: Research, Innovation and Enterprise Council
 permalink: /about/governance/riec/
 description: ""
 third_nav_title: Governance
+variant: markdown
 ---
 The NRF supports the **Research Innovation and Enterprise Council (RIEC)**.
 
@@ -22,10 +23,9 @@ This high-level council underscores the political commitment to and importance p
 ||***RIEC Ministerial Members***
 | **Mr Lee Hsien Loong** <br>Prime Minister and&nbsp;Chairman, RIEC | **Mr Lawrence Wong** <br>Deputy Prime Minister and Minister for Finance | **Mr Heng Swee Keat** <br>Deputy Prime Minister,&nbsp; Coordinating Minister for Economic Policies, and&nbsp;Chairman of NRF |
 | **Mr Teo Chee Hean** <br>Senior Minister,&nbsp;Coordinating Minister for&nbsp;National Security, and&nbsp;Special Advisor to NRF | **Dr Ng Eng Hen** <br>Minister for Defence | **Dr&nbsp;Vivian Balakrishnan**<br>Minister for Foreign Affairs
-| **Mr Gan Kim Yong**<br>Minister for Trade and Industry | **Mr&nbsp;S Iswaran**<br>Minister for Transport and Minister-in-charge of Trade Relations | **Ms Grace Fu**<br>Minister for Sustainability and the Environment
-|**Mr Chan Chun Sing**<br>Minister for Education | **Mr Masagos Zulkifli**<br> Minister for Social and Family Development and Second Minister for Health | **Mr Ong Ye Kung**<br>Minister for Health
-| **Mr Desmond Lee**<br>Minister for National Development and Minister-in-charge of Social Services Integration | **Mrs Josephine Teo** <br>Minister for Communications &amp; Information and Minister-in-charge of Smart Nation and Cybersecurity | **Ms Indranee Thurai Rajah** <br>Minister, Prime Minister's Office, Second Minister for Finance and Second Minister for National Development
-|**Dr Tan See Leng**<br>Minister for Manpower and Second Minister for Trade and Industry
+| **Mr Gan Kim Yong**<br>Minister for Trade and Industry | **Ms Grace Fu**<br>Minister for Sustainability and the Environment |**Mr Chan Chun Sing**<br>Minister for Education
+| **Mr Masagos Zulkifli**<br> Minister for Social and Family Development and Second Minister for Health | **Mr Ong Ye Kung**<br>Minister for Health | **Mr Desmond Lee**<br>Minister for National Development and Minister-in-charge of Social Services Integration
+| **Mrs Josephine Teo** <br>Minister for Communications &amp; Information and Minister-in-charge of Smart Nation and Cybersecurity | **Ms Indranee Thurai Rajah** <br>Minister, Prime Minister's Office, Second Minister for Finance and Second Minister for National Development |**Dr Tan See Leng**<br>Minister for Manpower and Second Minister for Trade and Industry
 ||***RIEC Non-Ministerial Members***|
 |**Mr Sudipta Bhattacharya**<br>Chief Technology Officer and Chief Executive Officer for North America, Adani Group | **Prof Robert Brown**<br>President, Boston University | **Dr Roland Busch**<br>President and CEO of Siemens
 | **Sir Richard Friend** <br>Professor of Physics, University of Cambridge, and Chairman, NRF Scientific Advisory Board (SAB) | **Ms Goh Swee Chen**<br>Chairman, Nanyang Technological University | **Mr Avi Hasson**<br> CEO, Start-up Nation Central; Former Chief Scientist, Israel Ministry of Economy and Industry | **Mr Hsieh Fu Hua**<br>Chairman, National University of Singapore | **Mr Koh Boon Hwee**<br>Chairman, Altara Ventures
