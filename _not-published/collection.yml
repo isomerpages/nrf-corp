@@ -1,4 +1,5 @@
 collections:
   not-published:
     output: true
-    order: []
+    order:
+      - Research, Innovation and Enterprise Council.md
