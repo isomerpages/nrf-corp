@@ -1,0 +1,7 @@
+collections:
+  not-published:
+    output: true
+    order:
+      - NRF Board.md
+      - Scientific Advisory Board.md
+      - Research, Innovation and Enterprise Council.md

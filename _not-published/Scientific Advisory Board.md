@@ -2,7 +2,6 @@
 title: Scientific Advisory Board
 permalink: /about/governance/sab/
 description: ""
-third_nav_title: Governance
 variant: markdown
 ---
 The Scientific Advisory Board (SAB) is a multi-disciplinary international board with expertise in broad areas of technology. The SAB convenes annually in Singapore to advise on NRF’s policies and programmes.
