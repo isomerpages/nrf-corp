@@ -1,0 +1,4 @@
+collections:
+  not-published:
+    output: true
+    order: []
