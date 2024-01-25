@@ -1,0 +1,6 @@
+collections:
+  flagship-events:
+    output: true
+    order:
+      - Global Young Scientists Summit.md
+      - President’s Science and Technology Awards.md

@@ -1,0 +1,10 @@
+collections:
+  grants:
+    output: true
+    order:
+      - Central Gap Fund.md
+      - Competitive Research Programme.md
+      - Integrated Grant Management System (IGMS).md
+      - NRF Fellowship.md
+      - NRF Investigatorship.md
+      - Returning Singaporean Scientists Scheme.md
