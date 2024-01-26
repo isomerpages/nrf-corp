@@ -12,7 +12,7 @@ The Singapore NRF Fellowship provides opportunities for early career researchers
 
 Each Fellow is provided with a research grant to support projects that exhibit high likelihood of a research breakthrough. The research grant can be used to cover personnel, equipment and consumables costs.  
   
-View list of the latest awarded NRF Fellows [here](https://go.gov.sg/nrff-dec2022).
+View list of the latest awarded NRF Fellows [here](https://go.gov.sg/nrff-jan-2024).
 
 #### Selection Process and Guidelines
 
