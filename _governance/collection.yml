@@ -2,5 +2,4 @@ collections:
   governance:
     output: true
     order:
-      - Scientific Advisory Board.md
       - Research, Innovation and Enterprise Council.md
