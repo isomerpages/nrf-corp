@@ -1,5 +1,5 @@
 collections:
-  not-published:
+  governance:
     output: true
     order:
       - NRF Board.md
