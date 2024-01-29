@@ -1,5 +1,4 @@
 collections:
   governance:
     output: true
-    order:
-      - Research, Innovation and Enterprise Council.md
+    order: []
