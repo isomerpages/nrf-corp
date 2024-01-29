@@ -2,6 +2,5 @@ collections:
   governance:
     output: true
     order:
-      - NRF Board.md
       - Scientific Advisory Board.md
       - Research, Innovation and Enterprise Council.md
