@@ -1,0 +1,4 @@
+collections:
+  governance:
+    output: true
+    order: []
