@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Governance/Research, Innovation and Enterprise Council.md
       - Governance/Scientific Advisory Board.md
       - Governance/NRF Board.md
       - Governance/.keep
