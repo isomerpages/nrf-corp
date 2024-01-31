@@ -26,7 +26,7 @@ sections:
           description: FIs across the RIEcosystem
           url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem-wide-fis/mtc-fis/
         - title: Global Young Scientists Summit 2024
-          description: Happening in January 2024
+          description: International luminaries in SG
           url: https://gyss.nrf.gov.sg/
         - title: President's Science & Technology Awards (PSTA)
           description: Singapore's brightest minds
