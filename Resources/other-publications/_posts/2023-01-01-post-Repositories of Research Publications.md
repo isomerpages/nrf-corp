@@ -5,6 +5,7 @@ date: 2023-01-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/mar9-outline-13.jpg)
 
@@ -17,7 +18,7 @@ Below is a listing of links to the respective institutional repositories that ho
 
 **Nanyang Technological University**
 <br>[Digital Repository](https://dr.ntu.edu.sg/](https://dr.ntu.edu.sg/)
-<br>[National Institute of Education Digital Repository](https://repository.nie.edu.sg/)
+<br>[National Institute of Education Digital Repository](https://repository.nie.edu.sg/home)
 
 **Singapore Management University**
 <br>[Institutional Knowledge (InK) @ SMU](https://ink.library.smu.edu.sg/)
