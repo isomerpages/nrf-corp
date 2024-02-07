@@ -3,6 +3,7 @@ title: Urban Solutions and Sustainability
 permalink: /rie-ecosystem/ecosystem-wide-fis/uss-fi/
 description: ""
 third_nav_title: Ecosystem Wide FIs
+variant: markdown
 ---
 **Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
 
@@ -23,7 +24,7 @@ Here is a list of major Urban Solutions and Sustainability (USS) FIs outside NRF
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span lang="EN-US" style="color:black;mso-color-alt:windowtext;
-  mso-ansi-language:EN-US">The FI provides core fundings to the <a href="https://seris.nus.edu.sg/">Solar Energy Research Institute of Singapore</a> and <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a>, which support the four supply switches for <a href="https://www.ema.gov.sg/ourenergystory">Power Sector Decarbonisation</a> (viz. Solar, Regional Power Grids, Low-Carbon Alternatives, and Natural Gas).</span></p></td></tr><tr style="mso-yfti-irow:2;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
+  mso-ansi-language:EN-US">The FI provides core fundings to the <a href="https://www.seris.nus.edu.sg/">Solar Energy Research Institute of Singapore</a> and <a href="https://www.ntu.edu.sg/erian">Energy Research Institute @ NTU</a>, which support the four supply switches for <a href="https://www.ema.gov.sg/ourenergystory">Power Sector Decarbonisation</a> (viz. Solar, Regional Power Grids, Low-Carbon Alternatives, and Natural Gas).</span></p></td></tr><tr style="mso-yfti-irow:2;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#E5E5E5;
   padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.a-star.edu.sg/Research/funding-opportunities/lcer-fi-grant"><b>LCER FI (RIE2020)</b></a></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
   border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
@@ -52,7 +53,7 @@ Here is a list of major Urban Solutions and Sustainability (USS) FIs outside NRF
   background:#E5E5E5;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><span lang="EN-US" style="color:black;mso-color-alt:windowtext;
   mso-ansi-language:EN-US">The Built Environment Technology Alliance, or BETA in short, is a collaborative Built Environment (BE) research and innovation platform that brings together stakeholders across the BE value chain to catalyse industry-led projects, co-create ideas and translate the results into economic value. Its aim is to draw in committed stakeholders who recognise the value of, and who are willing to invest in research and innovation to build new capabilities.</span></p></td></tr><tr style="mso-yfti-irow:5;height:27.45pt"><td width="188" valign="top" style="width:141.25pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
-  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.mnd.gov.sg/citiesoftomorrow/about-cot"><b>Cities of Tomorrow</b></a></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
+  padding:.75pt 5.4pt 0cm 5.4pt;height:27.45pt"><p class="MsoNormal"><span style="color:black;mso-color-alt:windowtext"><a href="https://www.mnd.gov.sg/cities-of-tomorrow"><b>Cities of Tomorrow</b></a></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
   border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-ansi-language:EN-US">MND</span></p></td><td width="444" valign="top" style="width:333.15pt;border-top:none;border-left:
