@@ -2,11 +2,12 @@
 title: Cooling Energy Science and Technology Singapore
 permalink: /tech-consortia/coolestsg/
 description: ""
+variant: markdown
 ---
 ## Cooling Energy Science and Technology Singapore ##
 ![](/images/Programmes/Tech%20Consortias/square-melting-ice-cubes-on-wet-table.jpg)
 
-As a tropical country, Singapore needs to develop and deploy efficient cooling technology to improve our liveability in a way that minimises carbon emissions. The [Cooling Energy Science and Technology Singapore (CoolestSG) Consortium](https://coolest.sg/) aims to achieve this by enabling companies and researchers to share facilities to testbed new cooling technologies for deployment.
+As a tropical country, Singapore needs to develop and deploy efficient cooling technology to improve our liveability in a way that minimises carbon emissions. The [Cooling Energy Science and Technology Singapore (CoolestSG) Consortium](https://blog.nus.edu.sg/coolestlab/) aims to achieve this by enabling companies and researchers to share facilities to testbed new cooling technologies for deployment.
 
 CoolestSG will develop and accelerate the deployment and commercialisation of cooling technologies, which can be applied to buildings, data centres and industry. Technologies include both active and passive cooling, and cooling by integrated design.
 
