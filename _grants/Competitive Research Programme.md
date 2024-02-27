@@ -15,8 +15,8 @@ and society.</p>
 merit review process based on scientific excellence. The theme of the proposed
 research project must be motivated by an important need or problem to be
 solved.</p>
-<p>Past projects have made discoveries of potential significant impact on
-industry and society. Click <a href="https://go.gov.sg/crp-awarded" rel="noopener noreferrer nofollow" target="_blank">here</a> to view these projects.</p>
+<p>Past projects have made discoveries of potentially significant impact
+on industry and society. Click <a href="https://go.gov.sg/crp-30thcall" rel="noopener noreferrer nofollow" target="_blank">here</a> to view these projects.</p>
 <p>The next CRP Grant Call will resume in Mar 2024. Please check the <a href="https://www.researchgrant.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Integrated Grant Management System (IGMS)</a> website
 regularly for updates on the launch dates of the CRP Categories.</p>
 <h3><strong>CRP Categories</strong></h3>
@@ -106,7 +106,7 @@ Technical Competencies of Research Team</p>
 a defined thematic research area and mission.</p>
 </li>
 </ul>
-<p><strong>Please refer to FAQs for more details. </strong>
+<p><strong>For more info on the CRP categories, please refer to the <a href="https://go.gov.sg/crp-faq1" rel="noopener noreferrer nofollow" target="_blank">FAQs </a>for more details.</strong>
 </p>
 <h3><strong>Eligibility Criteria</strong></h3>
 <p>Principal Investigators (PIs) from institutions/organisations which fulfil
@@ -141,5 +141,5 @@ as having productive research outcomes.</p>
 </li>
 </ul>
 <p></p>
-<p>Visit the&nbsp;<strong><a href="https://www.researchgrant.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Integrated Grant Management System (IGMS)</a></strong>&nbsp;website
-to find out more about the next CRP grant call.</p>
+<p><strong>Visit the&nbsp;<a href="https://www.researchgrant.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Integrated Grant Management System (IGMS)</a>&nbsp;website to find out more about the next CRP grant call.</strong>
+</p>
