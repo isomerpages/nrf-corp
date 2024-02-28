@@ -2,7 +2,7 @@
 title: Competitive Research Programme
 permalink: /grants/crp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Grants/team%20meeting%20isometric%20illustration.jpg">
@@ -17,8 +17,8 @@ research project must be motivated by an important need or problem to be
 solved.</p>
 <p>Past projects have made discoveries of potentially significant impact
 on industry and society. Click <a href="https://go.gov.sg/crp-30thcall" rel="noopener noreferrer nofollow" target="_blank">here</a> to view these projects.</p>
-<p>The next CRP Grant Call will resume in Mar 2024. Please check the <a href="https://www.researchgrant.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Integrated Grant Management System (IGMS)</a> website
-regularly for updates on the launch dates of the CRP Categories.</p>
+<p>The next CRP Grant Call will resume in Mar 2024. Please check the <a href="https://www.researchgrant.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Integrated Grant Management System (IGMS)</a> regularly
+for updates on the launch dates of the CRP Categories.</p>
 <h3><strong>CRP Categories</strong></h3>
 <h4><u>CRP</u></h4>
 <ul data-tight="true" class="tight">
@@ -42,10 +42,10 @@ of 3 to 5 years.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Stage 1</p>
+<p>STAGE 1</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Stage 2</p>
+<p>STAGE 2</p>
 </th>
 </tr>
 <tr>
@@ -56,23 +56,49 @@ of 3 to 5 years.</p>
 <p>Full Proposal</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p>CRP Evaluation Criteria:</p>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>CRP EVALUATION CRITERIA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Letter-of-Intent: (i) significance of research and its potential impact;
-(ii) potential for scientific/engineering breakthroughs/disruptive innovation;
-(iii) multi-disciplinarity of the project.</p>
+<p>significance of research and its potential impact;</p>
 </li>
 <li>
-<p>Full Proposal: (i) significance of research and its potential impact;
-(ii) potential for scientific/engineering breakthroughs/disruptive innovation;
-(iii) multi-disciplinarity of the project, (iv) programme management and
-budget; and (v) technical competencies of research team.</p>
+<p>potential for scientific/engineering breakthroughs/disruptive innovation;
+and</p>
+</li>
+<li>
+<p>multi-disciplinarity of the project.</p>
 </li>
 </ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>significance of research and its potential impact;</p>
+</li>
+<li>
+<p>potential for scientific/engineering breakthroughs/disruptive innovation;</p>
+</li>
+<li>
+<p>multi-disciplinarity of the project;</p>
+</li>
+<li>
+<p>programme management and budget; and</p>
+</li>
+<li>
+<p>technical competencies of research team.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><u>Frontier CRP</u></h4>
 <p><em>[New – more details to be released in grant call documents]</em>
 </p>
