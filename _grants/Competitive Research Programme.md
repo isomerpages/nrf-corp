@@ -73,7 +73,7 @@ of 3 to 5 years.</p>
 budget; and (v) technical competencies of research team.</p>
 </li>
 </ul>
-<h4><u>Frontier Science CRP</u></h4>
+<h4><u>Frontier CRP</u></h4>
 <p><em>[New – more details to be released in grant call documents]</em>
 </p>
 <ul data-tight="true" class="tight">
