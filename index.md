@@ -9,8 +9,8 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   research talent.
 image: /images/researcher-holding-blue-pill-v2.jpg
 permalink: /
-notification: The National Survey of Research, Innovation and Enterprise in
-  Singapore (2021) has been published. Visit the Media section to find out more.
+notification: The 2024 FRC AI for Science Workshop, Scoping Report and Survey
+  has been published. Visit the media section to find out more!
 sections:
   - hero:
       title: Research, Innovation & Enterprise
@@ -23,7 +23,7 @@ sections:
           description: Search for research grants
           url: https://www.nrf.gov.sg/grants/igms/
         - title: Ecosystem-wide funding initiatives (FI)
-          description: FIs across the RIEcosystem
+          description: "FIs across the #RIEcosystem"
           url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem-wide-fis/mtc-fis/
         - title: Global Young Scientists Summit 2024
           description: International luminaries in SG
