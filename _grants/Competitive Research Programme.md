@@ -58,7 +58,7 @@ of 3 to 5 years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>CRP EVALUATION CRITERIA</strong>
+<p><strong>EVALUATION CRITERIA</strong>
 </p>
 </td>
 </tr>
@@ -104,23 +104,27 @@ and</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Supports smaller scale research programmes to pursue transformative, innovative
-but still use-inspired research ideas with plausible scientific hypothesis,
-which need not present existing preliminary data.</p>
+<p>Supports smaller-scale research programmes to pursue innovative use-inspired
+research that can potentially result in paradigm shifts and/or breakthroughs
+in scientific knowledge.</p>
 </li>
 <li>
-<p>Supports research ideas in any areas of science and technology that can
-potentially result in paradigm shifts in scientific knowledge.</p>
+<p>Proposals need not present existing preliminary data at the point of application,
+but should present a plausible scientific hypothesis.</p>
 </li>
 <li>
 <p>Funding cap of S$2M (including indirect costs) for 3 to 5 years.</p>
 </li>
 <li>
-<p>One-stage review process, with a gate at 2-year mark.</p>
+<p>One-stage review process for Full Proposal. Evaluation Criteria: (i) conceptual
+novelty, originality and creativity of ideas; (ii) potential for enabling
+paradigm shifts and/or breakthroughs in scientific knowledge; (iii) feasibility
+of scientific hypotheses and proposed approach; (iv) significance and potential
+use of discoveries; (v) technical competencies of the team.</p>
 </li>
 <li>
-<p>Evaluation Criteria: Novelty, Innovation, Approach, Significance of Research,
-Technical Competencies of Research Team</p>
+<p>Awarded projects will undergo a stage-gated review at the 2-year mark.</p>
+<p></p>
 </li>
 </ul>
 <h4><u>Thematic CRP</u></h4>
