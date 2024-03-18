@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Debate-on-the-Motion-of-Thanks-to-the-Presidents-Address-in-Parliament
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Debate-on-the-Motion-of-Thanks-to-the-Presidents-Address-in-Parliament
 ---

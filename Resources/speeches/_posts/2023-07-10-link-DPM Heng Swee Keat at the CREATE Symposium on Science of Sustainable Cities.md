@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-CREATE-Symposium-on-Science-of-Sustainable-Cities
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-CREATE-Symposium-on-Science-of-Sustainable-Cities
 ---

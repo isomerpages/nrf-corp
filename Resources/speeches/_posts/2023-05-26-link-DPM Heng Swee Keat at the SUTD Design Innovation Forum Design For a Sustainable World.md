@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-SUTD-Design-Innovation-Forum-Design-For-a-Sustainable-World
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-SUTD-Design-Innovation-Forum-Design-For-a-Sustainable-World
 ---

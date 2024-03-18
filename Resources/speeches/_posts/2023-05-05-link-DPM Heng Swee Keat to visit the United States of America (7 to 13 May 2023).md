@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-to-visit-the-United-States-of-America
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-to-visit-the-United-States-of-America
 ---

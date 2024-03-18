@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-Asia-Tech-X-Singapore-Summit-2022
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-Asia-Tech-X-Singapore-Summit-2022
 ---

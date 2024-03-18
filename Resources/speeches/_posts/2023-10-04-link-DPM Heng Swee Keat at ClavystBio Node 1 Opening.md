@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-ClavystBio-Node-1-Opening
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-ClavystBio-Node-1-Opening
 ---

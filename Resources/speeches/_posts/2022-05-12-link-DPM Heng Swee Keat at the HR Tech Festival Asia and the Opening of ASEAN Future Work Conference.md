@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-HR-Tech-Festival-Asia-and-the-Opening-of-ASEAN-Future-Work-Conference
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-HR-Tech-Festival-Asia-and-the-Opening-of-ASEAN-Future-Work-Conference
 ---

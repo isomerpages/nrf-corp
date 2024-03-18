@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Opening-Ceremony-of-Industrial-Transformation-Asia-Pacific-2021
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Opening-Ceremony-of-Industrial-Transformation-Asia-Pacific-2021
 ---

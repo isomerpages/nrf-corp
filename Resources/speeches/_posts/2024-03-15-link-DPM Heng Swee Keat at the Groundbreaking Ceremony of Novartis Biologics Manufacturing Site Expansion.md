@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Groundbreaking-Ceremony-of-Novartis-Biologics-Manufacturing-Site-Expansion
+external: https://www.pmo.gov.sg/Newsroom/DPM-Heng-Swee-Keat-at-the-Groundbreaking-Ceremony-of-Novartis-Biologics-Manufacturing-Site-Expansion
 ---
