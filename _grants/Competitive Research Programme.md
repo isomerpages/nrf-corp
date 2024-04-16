@@ -7,10 +7,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Grants/team%20meeting%20isometric%20illustration.jpg">
 </div>
-<p>The National Research Foundation Competitive Research Programme (CRP)
-funding scheme seeks to foster the formation of multi-disciplinary teams
-to conduct cutting-edge research projects that are of relevance to Singapore
-and society.</p>
+<p>The National Research Foundation <strong>Competitive Research Programme (CRP)</strong> funding
+scheme seeks to foster the formation of multi-disciplinary teams to conduct
+cutting-edge research projects relevant to Singapore and society.</p>
 <p>The CRP funds use-inspired basic research projects selected through a
 merit review process based on scientific excellence. The theme of the proposed
 research project must be motivated by an important need or problem to be
@@ -23,7 +22,7 @@ for updates on the launch dates of the CRP Categories.</p>
 <h4><u>CRP</u></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Supports use-inspired basic research programmes of relevance to Singapore,
+<p>Supports use-inspired basic research programmes relevant to Singapore
 in all areas of science and technology. Research ideas at the intersection
 of multiple disciplines, including biological sciences, are considered.</p>
 </li>
@@ -105,7 +104,7 @@ and</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Supports smaller-scale research programmes to pursue innovative use-inspired
-research that can potentially result in paradigm shifts and/or breakthroughs
+research that can potentially enable paradigm shifts and/or breakthroughs
 in scientific knowledge.</p>
 </li>
 <li>
@@ -116,11 +115,10 @@ but should present a plausible scientific hypothesis.</p>
 <p>Funding cap of S$2M (including indirect costs) for 3 to 5 years.</p>
 </li>
 <li>
-<p>One-stage review process for Full Proposal. Evaluation Criteria: (i) conceptual
-novelty, originality and creativity of ideas; (ii) potential for enabling
-paradigm shifts and/or breakthroughs in scientific knowledge; (iii) feasibility
-of scientific hypotheses and proposed approach; (iv) significance and potential
-use of discoveries; (v) technical competencies of the team.</p>
+<p>One-stage review process for Full Proposal. Evaluation Criteria: on (i)
+originality and ground-breaking nature of the research; (ii) significance
+and potential impact of the research; (iii) scientific approach; (iv) technical
+competencies of the team.</p>
 </li>
 <li>
 <p>Awarded projects will undergo a stage-gated review at the 2-year mark.</p>
