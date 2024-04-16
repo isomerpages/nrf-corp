@@ -115,10 +115,10 @@ but should present a plausible scientific hypothesis.</p>
 <p>Funding cap of S$2M (including indirect costs) for 3 to 5 years.</p>
 </li>
 <li>
-<p>One-stage review process for Full Proposal. Evaluation Criteria: on (i)
-originality and ground-breaking nature of the research; (ii) significance
-and potential impact of the research; (iii) scientific approach; (iv) technical
-competencies of the team.</p>
+<p>One-stage review process for Full Proposal. Evaluation Criteria: (i) originality
+and ground-breaking nature of the research; (ii) significance and potential
+impact of the research; (iii) scientific approach; (iv) technical competencies
+of the team.</p>
 </li>
 <li>
 <p>Awarded projects will undergo a stage-gated review at the 2-year mark.</p>
