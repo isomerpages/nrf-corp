@@ -11,13 +11,14 @@ Deputy Prime Minister and Coordinating Minister for Economic Policies, **Mr Heng
 
 ### NRF Board Members ###
 
-|  |  |  |
+| | |  |
 | -------- | -------- | -------- |
+||***Ministerial Members***
 | **Mr Heng Swee Keat**<br>Deputy Prime Minister, Deputy Chairman, RIEC, and Chairman, NRF Board | **Mr Gan Kim Yong**<br>Deputy Prime Minister and Minister for Trade and Industry | **Mr Teo Chee Hean**<br>Senior Minister,&nbsp;Coordinating Minister&nbsp;for&nbsp;National Security, and&nbsp;Special&nbsp;Advisor to NRF
 | **Ms Grace Fu**<br>Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations | **Mr Chan Chun Sing**<br>Minister for Education and Minister-in-charge of the Public Service | **Mr Masagos Zulkifli**<br>Minister for Social and Family Development, Second Minister for Health and Minister-in-charge of Muslim Affairs
 | **Mr Ong Ye Kung**<br>Minister for Health | **Mr Desmond Lee**<br>Minister for National Development and Minister-in-charge of Social Services Integration | **Mrs Josephine Teo**<br>Minister for Communications and Information, Minister-in-charge of Smart Nation and Cybersecurity, and Second Minister for Home Affairs
 | **Ms Indranee Thurai Rajah**<br>Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development | **Dr Tan See Leng**<br>Minister for Manpower, and Second Minister for Trade and Industry | **Mr Chee Hong Tat**<br>Minister for Transport and Second Minister for Finance
-||***NRF Board Non-Ministerial Members***||
+||***Non-Ministerial Members***||
 | **Mr Leo Yip**<br>Head of Civil Service, Permanent Secretary (Prime Minister's Office) and Chairman, RIE Strategy Committee | **Professor Tan Chorh Chuan**<br>Permanent Secretary (National&nbsp;Research and Development) and&nbsp;Chairman,&nbsp;Agency for Science,&nbsp;Technology and Research | **Dr Beh Swan Gin**<br>Permanent Secretary (Development), Ministry of Trade &amp; Industry
 | **Mr Lai Chung Han**<br>Permanent Secretary (Education) | **Ms Lai Wei Lin**<br>Permanent Secretary (Transport Development) and Second Permanent Secretary (Finance) | **Mr Lee Chuan Teck**<br>Chairman, Enterprise Singapore
 | **Mr Joseph Leong**<br>Permanent Secretary (Communications and Information), Permanent Secretary (Cybersecurity) and Permanent Secretary (Smart Nation and Digital Government Group) | **Mr Gabriel Lim**<br>Permanent Secretary (Policy), Ministry of Trade &amp; Industry | **Mr Stanley Loh**<br>Permanent Secretary (Sustainability and the Environment) and Second Permanent Secretary (Prime Minister's Office)(Special Duties)
