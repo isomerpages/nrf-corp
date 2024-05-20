@@ -20,13 +20,13 @@ This high-level council underscores the political commitment to and importance p
 
 | | |  |
 | -------- | -------- | -------- |
-||***RIEC Ministerial Members***
+||***Ministerial Members***
 | **Mr Lee Hsien Loong** <br>Senior Minister and Chairman, RIEC | **Mr Heng Swee Keat** <br>Deputy Prime Minister, Deputy Chairman, RIEC, and Chairman, NRF Board | **Mr Gan Kim Yong**<br>Deputy Prime Minister and Minister for Trade and Industry
 |**Mr Teo Chee Hean** <br>Senior Minister,&nbsp;Coordinating Minister for&nbsp;National Security, and&nbsp;Special Advisor to NRF | **Dr Ng Eng Hen** <br>Minister for Defence | **Dr&nbsp;Vivian Balakrishnan**<br>Minister for Foreign Affairs
 | **Ms Grace Fu**<br>Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations |**Mr Chan Chun Sing**<br>Minister for Education | **Mr Masagos Zulkifli**<br> Minister for Social and Family Development and Second Minister for Health
 | **Mr Ong Ye Kung**<br>Minister for Health | **Mr Desmond Lee**<br>Minister for National Development and Minister-in-charge of Social Services Integration | **Mrs Josephine Teo** <br>Minister for Communications &amp; Information, Second Minister for Home Affairs, and Minister-in-charge of Smart Nation and Cybersecurity
 | **Ms Indranee Thurai Rajah** <br>Minister, Prime Minister's Office, Second Minister for Finance and Second Minister for National Development |**Dr Tan See Leng**<br>Minister for Manpower and Second Minister for Trade and Industry | **Mr Chee Hong Tat**<br> Minister for Transport and Second Minister for Finance 
-||***RIEC Non-Ministerial Members***||
+||***Non-Ministerial Members***||
 |**Mr Sudipta Bhattacharya**<br>Chief Technology Officer and Chief Executive Officer for North America, Adani Group | **Prof Victor Dzau** <br> President, US National Academy of Medicine, and Chair, Health and Human Potential (HHP) International Advisory Council (IAC) | **Sir Richard Friend** <br>Director of Research, Department of Physics, University of Cambridge, and Chairman, NRF Scientific Advisory Board
 | **Ms Goh Swee Chen**<br>Chairman, National Arts Council and Chairman, Nanyang Technological University, Singapore | **Mr Avi Hasson**<br> CEO, Start-up Nation Central; Former Chief Scientist, Israel Ministry of Economy and Industry | **Mr Hsieh Fu Hua**<br>Chairman, National University of Singapore Board of Trustees; Chairman, National University Health System
 | **Ms Jenny Lee**<br>Managing Partner, Granite Asia | **Mr Forrest Li**<br>Founder, Chairman and Group CEO of Sea Ltd | **Dr Li Ge** <br>Founder, Chairman and CEO of WuXi AppTec, Founder and Chairman of WuXi Biologics
