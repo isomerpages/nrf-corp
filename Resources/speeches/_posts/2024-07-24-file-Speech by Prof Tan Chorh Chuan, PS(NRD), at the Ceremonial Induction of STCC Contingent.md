@@ -1,6 +1,7 @@
 ---
-title: Speech by Prof Tan Chorh Chuan, PS(NRD), at the 2024 CREATE Symposium
-date: 2024-07-22
+title: Speech by Prof Tan Chorh Chuan, PS(NRD), at the Ceremonial Induction of
+  STCC Contingent
+date: 2024-07-24
 layout: file
 description: ""
 image: ""
