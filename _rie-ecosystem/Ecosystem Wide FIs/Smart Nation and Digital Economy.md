@@ -3,6 +3,7 @@ title: Smart Nation and Digital Economy
 permalink: /rie-ecosystem/ecosystem-wide-fis/snde-fis/
 description: ""
 third_nav_title: Ecosystem Wide FIs
+variant: markdown
 ---
 **Funding Initiatives (FIs)** are grant schemes with a set of deliverables, evaluation processes and criteria. The FIs are managed by **Implementing Agencies (IAs)** across Singapore.
 
@@ -15,7 +16,7 @@ Here is a list of major Smart Nation and Digital Economy (SNDE) FIs outside NRF:
   none;mso-border-left-alt:solid #606160 1.0pt;background:#D5DCE4;mso-background-themecolor:
   text2;mso-background-themetint:51;padding:2.25pt .45pt 0cm .45pt;height:5.4pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext">Description</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:27.45pt"><td width="183" valign="top" style="width:137.2pt;border:solid #606160 1.0pt;
   border-top:none;mso-border-top-alt:solid #606160 1.0pt;background:#F9F9F9;
-  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext"><a href="https://www.imda.gov.sg/ai-and-data">AI Singapore (AISG)</a></span></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
+  padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal"><b><span style="color:black;mso-color-alt:windowtext"><a href="https://aisingapore.org/">AI Singapore (AISG)</a></span></b></p></td><td width="102" valign="top" style="width:76.35pt;border-top:none;border-left:
   none;border-bottom:solid #606160 1.0pt;border-right:solid #606160 1.0pt;
   mso-border-top-alt:solid #606160 1.0pt;mso-border-left-alt:solid #606160 1.0pt;
   background:#F9F9F9;padding:2.25pt .45pt 0cm .45pt;height:27.45pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="color:black;mso-color-alt:windowtext">Infocomm Media Development Authority (IMDA)/National AI Office (NAIO)</span></p></td><td width="423" valign="top" style="width:317.55pt;border-top:none;border-left:
