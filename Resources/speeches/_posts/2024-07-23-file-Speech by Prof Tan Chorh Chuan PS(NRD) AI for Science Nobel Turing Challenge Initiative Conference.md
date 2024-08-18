@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Speech_by_PS_NRD_A1for_Science_Nobel_Turing_Challenge_Initiative_2024.pdf
+file_url: /files/v2_Speech_by_PS_NRD_A1for_Science_Nobel_Turing_Challenge_Initiative_2024.pdf
 ---
