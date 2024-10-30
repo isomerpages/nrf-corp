@@ -1,5 +1,5 @@
 ---
-title: DPM Heng Swee Keat at Launch of NSCC supercomputers
+title: DPM Heng Swee Keat at the Launch of NSCC Supercomputers
 date: 2024-10-25
 layout: file
 description: ""
