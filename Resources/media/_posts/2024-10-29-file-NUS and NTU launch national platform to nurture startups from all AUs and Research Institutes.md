@@ -1,5 +1,5 @@
 ---
-title: NUS and NTU launch national platform to nurture startup from all AUs and
+title: NUS and NTU launch national platform to nurture startups from all AUs and
   Research Institutes
 date: 2024-10-29
 layout: file
