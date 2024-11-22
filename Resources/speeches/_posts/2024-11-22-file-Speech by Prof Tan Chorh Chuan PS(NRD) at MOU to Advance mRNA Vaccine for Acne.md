@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Speech_by_Prof_Tan_Chorh_Chuan_at_Sanofi_ASTAR_and_NSC.pdf
+file_url: /files/PS_speech_for_MoU_to_advance_Vaccine_for_Acne.pdf
 ---
