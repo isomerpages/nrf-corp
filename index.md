@@ -9,7 +9,7 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   research talent.
 image: /images/researcher-holding-blue-pill-v2.jpg
 permalink: /
-notification: Application are now OPEN for the 18th NRF Fellowship (Class of
+notification: Applications are now OPEN for the 18th NRF Fellowship (Class of
   2026). For details and to register, visit https://www.researchgrant.gov.sg
 sections:
   - hero:
