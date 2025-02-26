@@ -16,7 +16,7 @@ research project must be motivated by an important need or problem to be
 solved.</p>
 <p>Past projects have made discoveries of potentially significant impact
 on industry and society. Click <a href="https://go.gov.sg/crp-30thcall" rel="noopener noreferrer nofollow" target="_blank">here</a> to view these projects.</p>
-<p>The next CRP Grant Call will resume in Mar 2024. Please check the <a href="https://www.researchgrant.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Integrated Grant Management System (IGMS)</a> regularly
+<p>The next CRP Grant Call will resume in Mar 2025. Please check the <a href="https://www.researchgrant.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Integrated Grant Management System (IGMS)</a> regularly
 for updates on the launch dates of the CRP Categories.</p>
 <h3><strong>CRP Categories</strong></h3>
 <h4><u>CRP</u></h4>
@@ -37,7 +37,11 @@ of 3 to 5 years.</p>
 <p>Two-stage review process:</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
