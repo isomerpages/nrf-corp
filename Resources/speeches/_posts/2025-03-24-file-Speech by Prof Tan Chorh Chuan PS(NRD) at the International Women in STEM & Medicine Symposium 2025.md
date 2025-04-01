@@ -6,5 +6,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/GOH_Keynote_speech_at_the_International_Women_in_STEM_Medicine_Symposium_2025.pdf
+file_url: /files/GOH_Keynote_speech_at_the_International_Women_in_STEM_Medicine_2025.pdf
 ---
