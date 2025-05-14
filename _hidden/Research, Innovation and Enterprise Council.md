@@ -1,9 +1,8 @@
 ---
 title: Research, Innovation and Enterprise Council
-permalink: /about/governance/riec/
+permalink: /hidden/
 description: ""
 variant: markdown
-third_nav_title: Governance
 ---
 The NRF supports the **Research Innovation and Enterprise Council (RIEC)**.
 
