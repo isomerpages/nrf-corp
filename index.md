@@ -9,8 +9,10 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   research talent.
 image: /images/researcher-holding-blue-pill-v2.jpg
 permalink: /
-notification: 💡 Explore how IP drives innovation and growth at IP Week @ SG
-  2025 (www.ipweek2025.sg)
+notification: Beware of scams that misuse NRF  logo and report any suspicious
+  emails or calls to the Police. Government officials will never ask you to
+  transfer money or disclose bank log-in details over a phone call. Call the
+  24/7 ScamShield Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       title: Research, Innovation & Enterprise
