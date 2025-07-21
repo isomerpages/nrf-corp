@@ -1,6 +1,6 @@
 ---
-title: Research, Innovation and Enterprise Council
-permalink: /hidden/
+title: Temp Hidden
+permalink: /temp/
 description: ""
 variant: markdown
 ---
