@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 third_nav_title: Governance
 ---
-The National Research Foundation, Singapore (NRF) was formed in 2006 under the Prime Minister's Office, Singapore, to support the [Research, Innovation and Enterprise Council (RIEC)](/about/governance/riec/) in its work through the development and coordination of national policies to grow Singapore's research capability, support economic growth and meet Singapore's future national challenges.
+The National Research Foundation, Singapore (NRF) was formed in 2006 under the Prime Minister's Office, Singapore, to support the Research, Innovation and Enterprise Council (RIEC) in its work through the development and coordination of national policies to grow Singapore's research capability, support economic growth and meet Singapore's future national challenges.
 
 Deputy Prime Minister and Coordinating Minister for Economic Policies, **Mr Heng Swee Keat**, is the Chairman of the NRF Board.
 
