@@ -5,8 +5,6 @@ description: ""
 variant: markdown
 third_nav_title: Governance
 ---
-
-
 ### NRF Board Members ###
 
 | | |  |
