@@ -9,4 +9,4 @@ NRF aims to develop a strong science research and manpower base in Singapore. It
 
 The NRF Investigatorship provides opportunities for scientists and researchers to pursue ground-breaking, high-risk research. It is designed to support a small number of excellent Principal Investigators who have a track record of research achievements that identify them as leaders in their respective field(s) of research.  
   
-[View list of awarded NRF Investigators here.](https://go.gov.sg/nrfi-2024 "View list of awarded NRF Investigators here.")
+[View list of awarded NRF Investigators.](https://go.gov.sg/nrf-investigatorship "View list of awarded NRF Investigators.")
