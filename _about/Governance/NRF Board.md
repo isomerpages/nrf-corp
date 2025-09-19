@@ -22,4 +22,4 @@ third_nav_title: Governance
 | **Mr Png Cheong Boon**<br>Chairman, Economic Development Board | **Mr Chia Song Hwee**<br>Deputy Chief Executive Officer, Temasek International | **Ms Geraldine Chin**<br>Chairman and Managing Director, ExxonMobil Asia Pacific, and Member, Public Service Commission |
 | **Mr Piyush Gupta**<br>Former CEO, DBS Group, and Chairman, Singapore Management University | **Prof Ho Teck Hua**<br>President, Nanyang Technological University | **Mr Lim Chow Kiat**<br>CEO, GIC Pte Ltd |
 | **Prof Ivy Ng**<br>Senior Advisor, SingHealth Board, and Member, Human Health &amp; Potential (HHP) EXCO | **Mr Ong Kim Pong**<br>Group Chief Executive Officer, PSA International, and Co-Chair, Manufacturing, Trade &amp; Connectivity (MTC) International Advisory Panel | **Prof Tan Eng Chye**<br>President, National University of Singapore |
-| **Mr Wong Kim Yin**<br>Group President and CEO, Sembcorp Industries Ltd, and Chairman, Health Promotion Board |
+| **Mr Wong Kim Yin**<br>Group CEO, Sembcorp Industries Ltd, and Chairman, Health Promotion Board |
