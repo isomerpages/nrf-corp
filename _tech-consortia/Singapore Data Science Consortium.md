@@ -2,10 +2,11 @@
 title: Singapore Data Science Consortium
 permalink: /tech-consortia/sdsc/
 description: ""
+variant: markdown
 ---
 ![](/images/Programmes/Tech%20Consortias/science-and-technology-screen.jpg)
 
-The [Singapore Data Science Consortium (SDSC)](http://sdsc.sg/) was set up to deepen Singapore’s existing strengths in data science and analytics. SDSC will strengthen collaborative research linkages between Institutes of Higher Learning, research institutes and industry in data science R&D, with the aim of facilitating industry adoption of the latest cutting-edge data science and analytics technologies to address real-world challenges. It will also train our local pipeline of talents with deep data science capabilities.
+The Singapore Data Science Consortium (SDSC) was set up to deepen Singapore’s existing strengths in data science and analytics. SDSC will strengthen collaborative research linkages between Institutes of Higher Learning, research institutes and industry in data science R&D, with the aim of facilitating industry adoption of the latest cutting-edge data science and analytics technologies to address real-world challenges. It will also train our local pipeline of talents with deep data science capabilities.
  
 SDSC was set up by the National Research Foundation Singapore, in collaboration with the National University of Singapore (NUS), the Nanyang Technological University, the Singapore Management University and the Agency for Science, Technology and Research. SDSC will work in partnership with the Economic Development Board and the Infocomm Media Development Authority to engage companies in six economic sectors, namely: finance; healthcare; customer and retail; manufacturing; logistics; and transport. It will put particular emphasis on engaging local enterprises including large local enterprises, small and medium-sized enterprises and start-ups.
  
