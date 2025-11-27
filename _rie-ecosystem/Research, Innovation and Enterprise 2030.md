@@ -4,11 +4,11 @@ permalink: /rie2030/
 variant: tiptap
 description: ""
 ---
-<h2>Research, Innovation and Enterprise (RIE) 2030</h2>
-<p>The <strong>RIE2030 plan</strong> is a five-year strategy that will strengthen
-Singapore’s overall competitiveness and societal resilience, and put the
-nation in a stronger position to address the challenges and opportunities
-in the current volatile global landscape.</p>
+<h2>RIE2030</h2>
+<p>The <strong>Research, Innovation and Enterprise (RIE) 2030 plan</strong> is
+a five-year strategy that will strengthen Singapore’s overall competitiveness
+and societal resilience, and put the nation in a stronger position to address
+the challenges and opportunities in the current volatile global landscape.</p>
 <p>RIE2030 will be steered by coordinated efforts in data, artificial intelligence
 (AI), and compute capabilities, and anchored on keeping our basic research
 and talent at the cutting edge. The five-year strategic plan is designed
