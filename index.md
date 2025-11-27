@@ -27,13 +27,15 @@ sections:
         - title: Ecosystem-wide funding initiatives (FI)
           description: "FIs across the #RIEcosystem"
           url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem-wide-fis/mtc-fis/
-        - title: Global Young Scientists Summit 2024
+        - title: Global Young Scientists Summit
           description: International luminaries in SG
           url: https://gyss.nrf.gov.sg/
         - title: President's Science & Technology Awards (PSTA)
-          description: Singapore's brightest minds
+          description: Singapore's top minds
           url: https://www.psta.gov.sg
       background: /images/researcher-holding-blue-pill-v2.jpg
+      variant: floating
+      backgroundColor: gray
   - infobar:
       title: National Research Foundation, Singapore (NRF)
       description: Custodian of Singapore's RIE Ecosystem, NRF sets the national
