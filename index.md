@@ -24,9 +24,9 @@ sections:
         - title: Integrated Grant Management System
           description: Search for research grants
           url: https://www.nrf.gov.sg/grants/igms/
-        - title: Ecosystem-wide funding initiatives (FI)
-          description: "FIs across the #RIEcosystem"
-          url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem-wide-fis/mtc-fis/
+        - title: Research, Innovation & Enterprise (RIE) 2030 plan
+          description: Vibrant RIE ecosystem
+          url: https://www.nrf.gov.sg/rie2030
         - title: Global Young Scientists Summit
           description: International luminaries in SG
           url: https://gyss.nrf.gov.sg/
@@ -38,9 +38,9 @@ sections:
       backgroundColor: gray
   - infobar:
       title: National Research Foundation, Singapore (NRF)
-      description: Custodian of Singapore's RIE Ecosystem, NRF sets the national
-        direction for R&D, funds strategic initiatives and nurtures research
-        talent.
+      description: We aim to build a dynamic RIE ecosystem that advances Singapore’s
+        competitiveness and drives societal and economic impact for Singapore
+        and the world.
   - infopic:
       title: NRF Fellowship
       subtitle: Grants
