@@ -24,5 +24,8 @@ thus bolstering Singapore’s position as a global innovation hub.</p>
 <li>
 <p>Factsheets</p>
 </li>
+<li>
+<p>Speeches</p>
+</li>
 </ul>
 <p></p>
