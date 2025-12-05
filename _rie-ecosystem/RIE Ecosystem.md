@@ -21,12 +21,12 @@ and Enterprise”, with the vision of growing a research-intensive, innovative
 and entrepreneurial economy. This reflected a growing emphasis on translation,
 commercialisation and innovation strategies that tap on the growing pipeline
 of promising research outputs and support our enterprises.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMAGE_2.png">
+</div>
 <p>The first RIE plan (“RIE2015”) was announced in 2010, and successive 5-year
 RIE plans have continued to be rolled out since. Given the rapidly evolving
 global and technology landscape, the RIE plans have also set aside White
 Space funding for addressing unanticipated needs and opportunities that
 arise after the launch of each plan.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMAGE_2.png">
-</div>
 <p></p>
