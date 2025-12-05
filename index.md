@@ -15,30 +15,34 @@ notification: Beware of scams that misuse NRF  logo and report any suspicious
   24/7 ScamShield Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
-      title: Research, Innovation & Enterprise
-      subtitle: Cornerstone of Singapore’s development into a knowledge-based,
-        innovation-driven economy and society.
+      title: Research, Innovation & Enterprise 2030
+      subtitle: Five-year plan to deepen research capabilities, enhance our talent
+        pool and drive impactful innovation.
       button: Find out more
-      url: /rie-ecosystem/ecosystem/
+      url: https://www.nrf.gov.sg/rie2030/
       key_highlights:
+        - title: Research, Innovation & Enterprise
+          description: Three decades of RIE progress
+          url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem/
         - title: Integrated Grant Management System
-          description: Search for research grants
+          description: Gateway to research grants
           url: https://www.nrf.gov.sg/grants/igms/
-        - title: Ecosystem-wide funding initiatives (FI)
-          description: "FIs across the #RIEcosystem"
-          url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem-wide-fis/mtc-fis/
-        - title: Global Young Scientists Summit 2024
-          description: International luminaries in SG
-          url: https://gyss.nrf.gov.sg/
         - title: President's Science & Technology Awards (PSTA)
-          description: Singapore's brightest minds
+          description: Celebrating SG's top minds
           url: https://www.psta.gov.sg
+        - title: Global Young Scientists Summit
+          description: Young minds, global ideas
+          url: https://gyss.nrf.gov.sg/
       background: /images/researcher-holding-blue-pill-v2.jpg
+      variant: floating
+      backgroundColor: gray
+      alignment: left
+      size: md
   - infobar:
       title: National Research Foundation, Singapore (NRF)
-      description: Custodian of Singapore's RIE Ecosystem, NRF sets the national
-        direction for R&D, funds strategic initiatives and nurtures research
-        talent.
+      description: We aim to build a dynamic RIE ecosystem that advances Singapore’s
+        competitiveness and drives societal and economic impact for Singapore
+        and the world.
   - infopic:
       title: NRF Fellowship
       subtitle: Grants
