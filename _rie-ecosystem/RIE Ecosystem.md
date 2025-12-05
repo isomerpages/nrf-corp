@@ -29,4 +29,5 @@ RIE plans have continued to be rolled out since. Given the rapidly evolving
 global and technology landscape, the RIE plans have also set aside White
 Space funding for addressing unanticipated needs and opportunities that
 arise after the launch of each plan.</p>
+<p>Learn more about the latest RIE2030 plan <a href="https://www.nrf.gov.sg/rie2030/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
