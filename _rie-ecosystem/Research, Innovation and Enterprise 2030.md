@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h2>RIE2030</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/dd.png">
+</div>
 <p>The <strong>Research, Innovation and Enterprise (RIE) 2030 plan</strong> is
 a five-year strategy that will strengthen Singapore’s overall competitiveness
 and societal resilience, and put the nation in a stronger position to address
