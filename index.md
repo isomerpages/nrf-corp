@@ -40,9 +40,9 @@ sections:
       size: md
   - infobar:
       title: National Research Foundation, Singapore (NRF)
-      description: We aim to build a dynamic RIE ecosystem that advances Singapore’s
-        competitiveness and drives societal and economic impact for Singapore
-        and the world.
+      description: NRF aims to build a dynamic RIE ecosystem that advances Singapore’s
+        competitiveness and drive societal and economic impact for Singapore and
+        the world.
   - infopic:
       title: NRF Fellowship
       subtitle: Grants
