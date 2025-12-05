@@ -15,13 +15,13 @@ notification: Beware of scams that misuse NRF  logo and report any suspicious
   24/7 ScamShield Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
-      title: Research, Innovation & Enterprise
-      subtitle: Cornerstone of Singapore’s development into a knowledge-based,
-        innovation-driven economy and society.
+      title: Research, Innovation & Enterprise 2030
+      subtitle: Five-year plan to deepen research capabilities, enhance our talent
+        pool and drive impactful innovation.
       button: Find out more
-      url: /rie-ecosystem/ecosystem/
+      url: /rie-ecosystem/rie2030/
       key_highlights:
-        - title: Research, Innovation & Enterprise (RIE) 2030 plan
+        - title: Research, Innovation & Enterprise
           description: Vibrant RIE ecosystem
           url: https://www.nrf.gov.sg/rie-2030-plan/
         - title: Integrated Grant Management System
@@ -36,6 +36,7 @@ sections:
       background: /images/researcher-holding-blue-pill-v2.jpg
       variant: floating
       backgroundColor: gray
+      alignment: left
   - infobar:
       title: National Research Foundation, Singapore (NRF)
       description: We aim to build a dynamic RIE ecosystem that advances Singapore’s
