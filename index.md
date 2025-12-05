@@ -19,7 +19,7 @@ sections:
       subtitle: Five-year plan to deepen research capabilities, enhance our talent
         pool and drive impactful innovation.
       button: Find out more
-      url: /rie-ecosystem/rie2030/
+      url: https://www.nrf.gov.sg/rie2030/
       key_highlights:
         - title: Research, Innovation & Enterprise
           description: Three decades of RIE progress
@@ -37,6 +37,7 @@ sections:
       variant: floating
       backgroundColor: gray
       alignment: left
+      size: md
   - infobar:
       title: National Research Foundation, Singapore (NRF)
       description: We aim to build a dynamic RIE ecosystem that advances Singapore’s
