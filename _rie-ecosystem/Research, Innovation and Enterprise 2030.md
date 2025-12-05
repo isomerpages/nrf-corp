@@ -4,8 +4,6 @@ permalink: /rie2030/
 variant: tiptap
 description: ""
 ---
-<h2>RIE2030</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/dd.png">
 </div>
