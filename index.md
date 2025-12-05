@@ -22,16 +22,16 @@ sections:
       url: /rie-ecosystem/rie2030/
       key_highlights:
         - title: Research, Innovation & Enterprise
-          description: Vibrant RIE ecosystem
-          url: https://www.nrf.gov.sg/rie-2030-plan/
+          description: Three decades of RIE progress
+          url: https://www.nrf.gov.sg/rie-ecosystem/ecosystem/
         - title: Integrated Grant Management System
-          description: Search for research grants
+          description: Gateway to research grants
           url: https://www.nrf.gov.sg/grants/igms/
         - title: President's Science & Technology Awards (PSTA)
-          description: Singapore's top minds
+          description: Celebrating SG's top minds
           url: https://www.psta.gov.sg
         - title: Global Young Scientists Summit
-          description: International luminaries in SG
+          description: Young minds, global ideas
           url: https://gyss.nrf.gov.sg/
       background: /images/researcher-holding-blue-pill-v2.jpg
       variant: floating
