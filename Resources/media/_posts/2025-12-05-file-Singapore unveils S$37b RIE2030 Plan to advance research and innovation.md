@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/RIE2030_Press_Release__website_.pdf
+file_url: /files/RIE2030_Press_Release.pdf
 ---
