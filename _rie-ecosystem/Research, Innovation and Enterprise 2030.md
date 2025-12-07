@@ -27,5 +27,9 @@ data and compute to enable cutting edge research and innovation.</p>
 <p><a href="https://go.gov.sg/rie2030factsheet" rel="noopener nofollow" target="_blank">Factsheets</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.nrf.gov.sg/singapore-horizon-europe-complementary-fund/" rel="noopener nofollow" target="_blank">Singapore-Horizon Europe Complementary Fund</a>
+</p>
+</li>
 </ul>
 <p></p>
