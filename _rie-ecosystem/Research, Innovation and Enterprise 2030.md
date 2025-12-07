@@ -34,8 +34,8 @@ is a dedicated fund set up by NRF to support eligible local research entities
 that are part of successful Horizon Europe Pillar II projects, in areas
 of priority to Singapore.</p>
 <p>Singapore entities, including researchers from publicly-funded research
-institutions, companies, as well as non-profit organisations, are eligible
-to apply for the SG-HE Complementary Fund.</p>
+institutions and companies are eligible to apply for the SG-HE Complementary
+Fund.</p>
 <p>Please sign up <a href="https://go.gov.sg/sghe" rel="noopener nofollow" target="_blank">here</a> to
 indicate your interest in the SG-HE Complementary Fund and to RSVP for
 upcoming Information Sessions to be conducted by NRF in January 2026.</p>
