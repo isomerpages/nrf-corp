@@ -28,4 +28,19 @@ data and compute to enable cutting edge research and innovation.</p>
 </p>
 </li>
 </ul>
+<h4>Singapore Horizon Europe Complentary Fund</h4>
+<p>The <strong>Singapore-Horizon Europe (SG-HE) Complementary Fund </strong>is
+a dedicated fund set up by NRF to support eligible local research entities
+that are part of successful Horizon Europe Pillar Il projects, in areas
+of priority to Singapore.</p>
+<p>Singapore entities, including researchers from publicly-funded research
+institutions, companies, as well as non-profit organisations, are eligible
+to apply for the SG-HE Complementary Fund.</p>
+<p>Please sign up here to indicate your interest in the SG-HE Complementary
+Fund and to RSVP for upcoming Information Sessions to be conducted by NRF
+in January 2026.</p>
+<p>For further enquiries, please contact <a href="mailto:NCP@nrf.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NCP@nrf.gov.sg</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
