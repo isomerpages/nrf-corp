@@ -2,6 +2,7 @@ collections:
   grants:
     output: true
     order:
+      - Singapore Horizon Europe Complementary Fund.md
       - Central Gap Fund.md
       - Competitive Research Programme.md
       - Integrated Grant Management System (IGMS).md
