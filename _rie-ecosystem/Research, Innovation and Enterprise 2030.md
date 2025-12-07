@@ -28,7 +28,7 @@ data and compute to enable cutting edge research and innovation.</p>
 </p>
 </li>
 </ul>
-<h4>Singapore Horizon Europe Complentary Fund</h4>
+<h4>Singapore Horizon Europe Complemejntary Fund</h4>
 <p>The <strong>Singapore-Horizon Europe (SG-HE) Complementary Fund </strong>is
 a dedicated fund set up by NRF to support eligible local research entities
 that are part of successful Horizon Europe Pillar Il projects, in areas
