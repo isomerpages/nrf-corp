@@ -10,8 +10,8 @@ description: ""
 <p>The <strong>Research, Innovation and Enterprise (RIE) 2030 plan</strong> is
 a five-year strategy that will strengthen Singapore’s overall competitiveness
 and societal resilience, and put the nation in a stronger position to address
-the challenges and opportunities in the current volatile global landscape.</p>
-<p>A major new initiative in RIE2030 will be the launching of two <strong>RIE Flagships</strong> and
+the challenges and opportunities in a global landscape.</p>
+<p>A major new initiative in RIE2030 will be the launch of two <strong>RIE Flagships</strong> and
 two <strong>RIE Grand Challenges</strong>. These large national research
 and translational programmes will advance economic outcomes and strategic
 priorities in key areas.</p>
@@ -34,7 +34,7 @@ is a dedicated fund set up by NRF to support eligible local research entities
 that are part of successful Horizon Europe Pillar II projects, in areas
 of priority to Singapore.</p>
 <p>Singapore entities, including researchers from publicly-funded research
-institutions and companies are eligible to apply for the SG-HE Complementary
+institutions and companies, are eligible to apply for the SG-HE Complementary
 Fund.</p>
 <p>Please sign up <a href="https://go.gov.sg/sghe" rel="noopener nofollow" target="_blank">here</a> to
 indicate your interest in the SG-HE Complementary Fund and to RSVP for
