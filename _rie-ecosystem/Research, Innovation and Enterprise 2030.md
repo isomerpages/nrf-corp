@@ -10,8 +10,8 @@ description: ""
 <p>The <strong>Research, Innovation and Enterprise (RIE) 2030 plan</strong> is
 a five-year strategy that will strengthen Singapore’s overall competitiveness
 and societal resilience, and put the nation in a stronger position to address
-the challenges and opportunities in the current volatile global landscape.</p>
-<p>A major new initiative in RIE2030 will be the launching of two <strong>RIE Flagships</strong> and
+the challenges and opportunities in a global landscape.</p>
+<p>A major new initiative in RIE2030 will be the launch of two <strong>RIE Flagships</strong> and
 two <strong>RIE Grand Challenges</strong>. These large national research
 and translational programmes will advance economic outcomes and strategic
 priorities in key areas.</p>
