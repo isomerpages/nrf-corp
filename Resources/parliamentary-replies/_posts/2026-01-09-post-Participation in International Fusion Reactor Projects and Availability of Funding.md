@@ -11,7 +11,7 @@ variant: tiptap
 <h4>Date: For Parliament Sitting on 15 February 2022</h4>
 <h4><strong>Title: Goals and Priorities Set under Research, Innovation and Enterprise 2025 Plan</strong></h4>
 <h4>MPs Speaking: Mr Gerald Giam Yean Song, Mr Heng Swee Keat</h4>
-<p><strong>Mr Gerald Giam Yean Song</strong> asked the Prime Minister&nbsp;with
+<p><strong>QUESTION: Mr Gerald Giam Yean Song</strong> asked the Prime Minister&nbsp;with
 regard to the recent experimental developments in fusion and the Government's
 previously stated aims to look into nuclear fusion as a source of electricity
 generation (a) whether the National Research Foundation is looking to participate
@@ -19,7 +19,7 @@ in any international fusion reactor projects, like the International Thermonucle
 Experimental Reactor (ITER), to allow Singaporean researchers direct access
 to the data and latest developments in the field; and (b) if so, what projects
 have been looked into and how much funding is being provided.</p>
-<p><strong>Mr Heng Swee Keat (for the Prime Minister)</strong>:&nbsp;The
+<p><strong>RESPONSE: Mr Heng Swee Keat (for the Prime Minister)</strong>:&nbsp;The
 National Research Foundation is not currently participating in any international
 fusion reactor projects. Nonetheless, as part of our overall efforts of
 keeping abreast with the latest progress in nuclear technologies, we are
@@ -36,7 +36,6 @@ science and technology by supporting research in relevant areas of nuclear
 science and engineering, and training a pool of scientists and experts
 through education programmes and collaborations with overseas nuclear technology
 partners.</p>
-<p>(<strong>Question No. 1564 in Notice Paper No. 960 of 2022</strong>)</p>
-<p>
+<p>(<strong>Question No. 1564 in Notice Paper No. 960 of 2022</strong>)
 <br>
 </p>
