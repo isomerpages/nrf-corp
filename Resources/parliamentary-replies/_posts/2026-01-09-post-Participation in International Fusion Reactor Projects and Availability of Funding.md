@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <h4>Date: For Parliament Sitting on 9 January 2023</h4>
 <h4><strong>Title: Participation in International Fusion Reactor Projects and Availability of Funding</strong></h4>
-<h4>MPs Speaking: Mr Gerald Giam Yean Song,Mr Heng Swee Keat</h4>
+<h4>MPs Speaking: Mr Gerald Giam Yean Song, Mr Heng Swee Keat</h4>
 <p><strong>Mr Gerald Giam Yean Song</strong> asked the Prime Minister&nbsp;with
 regard to the recent experimental developments in fusion and the Government's
 previously stated aims to look into nuclear fusion as a source of electricity
