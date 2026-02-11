@@ -8,8 +8,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Date: For Parliament Sitting on 9 January 2023</h4>
-<h4><strong>Title: Participation in International Fusion Reactor Projects and Availability of Funding</strong></h4>
+<h4>Date: For Parliament Sitting on 15 February 2022</h4>
+<h4><strong>Title: Goals and Priorities Set under Research, Innovation and Enterprise 2025 Plan</strong></h4>
 <h4>MPs Speaking: Mr Gerald Giam Yean Song, Mr Heng Swee Keat</h4>
 <p><strong>Mr Gerald Giam Yean Song</strong> asked the Prime Minister&nbsp;with
 regard to the recent experimental developments in fusion and the Government's
@@ -36,7 +36,7 @@ science and technology by supporting research in relevant areas of nuclear
 science and engineering, and training a pool of scientists and experts
 through education programmes and collaborations with overseas nuclear technology
 partners.</p>
-<p>(<strong>Question No. 2520 in Notice Paper No. 1611 of 2022</strong>)</p>
+<p>(<strong>Question No. 1564 in Notice Paper No. 960 of 2022</strong>)</p>
 <p>
 <br>
 </p>
