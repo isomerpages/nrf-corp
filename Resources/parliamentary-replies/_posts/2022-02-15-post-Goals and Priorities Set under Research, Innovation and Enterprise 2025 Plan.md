@@ -105,3 +105,4 @@ postgraduate studies while undertaking an industrial R&amp;D project at
 a Singapore-based company. This form of training allows trainees to develop
 a stronger appreciation for the commercial applications of research, and
 develops more "industry-ready" postgraduates.</p>
+<p>(<strong>Question No. 1564 in Notice Paper No. 960 of 2022</strong>)</p>
