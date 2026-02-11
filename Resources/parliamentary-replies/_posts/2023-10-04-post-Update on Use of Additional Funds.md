@@ -11,14 +11,14 @@ variant: tiptap
 <h4><strong>Title: Update on Use of Additional Funds Received by National Research Foundation and Increase in Disbursements for Its Manpower Horizontal Programme in FY2023</strong></h4>
 <h4>MPs Speaking: Assoc Prof Jamus Jerome Lim, Mr Heng Swee Keat</h4>
 <p></p>
-<p><strong>Assoc Prof Jamus Jerome Lim</strong> asked the Prime Minister (a)
-how does the National Research Foundation plan to expend the additional
-S$0.9 billion received by the National Research Fund in FY2023, given the
-relatively small increment of S$34 million in total disbursement to approved
-organisations from FY2022 to FY2023; and (b) what accounted for the 11-fold
-increase in disbursements for the Manpower Horizontal Programme in FY2023
-and whether this rate of increase is expected to persist.</p>
-<p><strong>Mr Heng Swee Keat (for the Prime Minister)</strong>:&nbsp;The
+<p><strong>QUESTION: Assoc Prof Jamus Jerome Lim</strong> asked the Prime
+Minister (a) how does the National Research Foundation plan to expend the
+additional S$0.9 billion received by the National Research Fund in FY2023,
+given the relatively small increment of S$34 million in total disbursement
+to approved organisations from FY2022 to FY2023; and (b) what accounted
+for the 11-fold increase in disbursements for the Manpower Horizontal Programme
+in FY2023 and whether this rate of increase is expected to persist.</p>
+<p><strong>RESPONSE: Mr Heng Swee Keat (for the Prime Minister)</strong>:&nbsp;The
 Government is committed to fund investments in Research, Innovation and
 Enterprise (RIE) through economic cycles. Resources are regularly allocated
 to ensure sustained and assured funding for ongoing and new RIE programmes
