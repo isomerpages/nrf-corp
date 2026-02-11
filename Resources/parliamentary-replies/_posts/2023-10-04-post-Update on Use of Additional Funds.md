@@ -42,4 +42,5 @@ during COVID-19. It was open to hiring in FY2020 and FY2021, with most
 of the trainee claims disbursed in FY2022.&nbsp;As hiring ceased in FY2021,
 disbursements related to the programme will taper off as well, after all
 claims have been checked and paid.</p>
+<p>(<strong>Question No. 5200 in Notice Paper No. 2250 of 2023</strong>)</p>
 <p></p>
