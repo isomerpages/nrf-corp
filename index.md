@@ -9,12 +9,13 @@ description: The National Research Foundation, Singapore (NRF), set up on 1
   research talent.
 image: /images/researcher-holding-blue-pill-v2.jpg
 permalink: /
-notification: "[1] Government officials will <b>NEVER</b> ask you to transfer
-  money or disclose bank log-in details over a phone call. Call the 24/7
-  ScamShield Helpline at 1799 if you are unsure if something is a scam. For more
-  information, visit www.scamshield.gov.sg. [2] Applications are now open for
-  the 19th Singapore NRF Fellowship (Class of 2027). Apply via the Integrated
-  Grants Management System below."
+notification: Government officials will <b>NEVER</b> ask you to transfer money
+  or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam. For more
+  information, visit <a target="_blank"
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.<br><br>Applications
+  are now open for the 19th Singapore NRF Fellowship (Class of 2027). Apply via
+  the Integrated Grants Management System below.
 sections:
   - hero:
       title: Research, Innovation & Enterprise 2030
