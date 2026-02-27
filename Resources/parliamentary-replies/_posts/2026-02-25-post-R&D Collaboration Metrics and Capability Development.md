@@ -37,4 +37,3 @@ and services that help the companies stay globally competitive. This in
 turn spurs increased private sector research and development investments
 in Singapore and the creation of new high-value jobs, and further strengthens
 Singapore's RIE ecosystem.</p>
-<p>(Question No. 1018 for written answer in Notice Paper No. 520 of 2026)</p>
