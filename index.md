@@ -15,7 +15,8 @@ notification: Government officials will <b>NEVER</b> ask you to transfer money
   information, visit <a target="_blank"
   href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.<br><br>Applications
   are now open for the 19th Singapore NRF Fellowship (Class of 2027). Apply via
-  the Integrated Grants Management System below.
+  <a target="_blank"
+  href="https://www.researchgrant.gov.sg/pages/index.aspx">www.researchgrant.gov.sg</a>
 sections:
   - hero:
       title: Research, Innovation & Enterprise 2030
