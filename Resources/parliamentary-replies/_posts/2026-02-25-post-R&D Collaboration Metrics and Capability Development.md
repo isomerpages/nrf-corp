@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>Date: For Parliament Sitting on or after 25 February 2026</h4>
+<h4>Date: For Parliament Sitting on 25 February 2026</h4>
 <h4><strong>Title: R&amp;D Collaboration Metrics and Capability Development</strong></h4>
 <h4>MPs Speaking: Mr Kenneth Tiong Boon Kiat, Mr Gan Kim Yong</h4>
 <p><strong>QUESTION: Mr Kenneth Tiong Boon Kiat </strong>asked the Prime
