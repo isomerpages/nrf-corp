@@ -40,7 +40,7 @@ data and compute to enable cutting-edge research and innovation.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Media Coverage</h4>
+<h4>Selected Media Coverage</h4>
 </th>
 </tr>
 <tr>
