@@ -58,13 +58,13 @@ Zaobao online, 5/12)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3. <a href="https://www.channelnewsasia.com/singapore/national-research-foundation-research-innovation-enterprise-rie-2030-37-billion-5537496" rel="noopener nofollow" target="_blank">Singapore to invest S$37 billion in research, innovation and enterprise over next 5 years: NRF</a> (Channel
-NewsAsia Digital, 5/12)</p>
+NewsAsia digital, 5/12)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4. <a href="https://www.youtube.com/watch?v=qzkoNxsGkVU" rel="noopener nofollow" target="_blank">Singapore to invest S$37b in research, innovation and enterprise over next 5 years</a> (Channel
-NewsAsia News, 5/12, 10pm)</p>
+NewsAsia news, 5/12, 10pm)</p>
 </td>
 </tr>
 </tbody>
