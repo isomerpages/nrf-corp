@@ -78,7 +78,7 @@ sections:
       alt: Image alt text
       image: /images/robotic-arm-2021-08-26-22-59-26-utc.jpg
   - resources:
-      title: News Releases, Speeches, and more
-      subtitle: Media & Publications
+      title: Press Releases, Speeches, and Publications
+      subtitle: Resources
       button: Browse repository
 ---
