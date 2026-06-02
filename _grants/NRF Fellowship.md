@@ -24,7 +24,7 @@ Interested applicants should refer to the detailed NRF guidelines outlined in th
 
 #### NRF Fellowship Institutions
 
-Appointees will be offered tenure-track faculty positions at the following Singapore-based universities and research institutions. They can also be offered positions at the five [Research Centres of Excellence](https://www.nrf.gov.sg/programmes/research-centres-of-excellence).   
+Appointees will be offered tenure-track faculty positions at the following Singapore-based universities and research institutions.   
    
 **[Agency for Science, Technology and Research](http://www.a-star.edu.sg/) (A\*STAR)**  
 A\*STAR is the lead agency for fostering world-class scientific research and talent for a vibrant knowledge-based and innovation-driven Singapore. A\*STAR oversees 14 biomedical sciences and physical sciences and engineering research institutes, and six consortia & centres, located in Biopolis and Fusionopolis, as well as their immediate vicinity.  
