@@ -1,5 +1,6 @@
 ---
-title: DPM Heng Swee Keat at the Global Young Scientists Summit Opening Ceremony 2024
+title: Speech by DPM Heng Swee Keat at the Global Young Scientists Summit
+  Opening Ceremony 2024
 date: 2024-01-09
 layout: link
 description: ""

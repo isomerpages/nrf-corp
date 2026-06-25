@@ -1,5 +1,5 @@
 ---
-title: Chairman Heng Swee Keat at the Launch of the Max Planck Centres, 20 April 2026
+title: Speech by NRF Chairman Heng Swee Keat at the Launch of the Max Planck Centres
 date: 2026-04-20
 layout: file
 description: ""

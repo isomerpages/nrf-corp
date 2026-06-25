@@ -1,5 +1,5 @@
 ---
-title: Chairman Heng Swee Keat at the 3rd Quantum Industry Day, 23 April 2026
+title: Speech by NRF Chairman Heng Swee Keat at the 3rd Quantum Industry Day
 date: 2026-04-23
 layout: file
 description: ""

@@ -1,5 +1,6 @@
 ---
-title: DPM Heng Swee Keat at the Official Launch of the NTI NTU Corporate Laboratory
+title: Speech by DPM Heng Swee Keat at the Official Launch of the NTI NTU
+  Corporate Laboratory
 date: 2023-11-28
 layout: link
 description: ""

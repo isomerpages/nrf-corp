@@ -1,6 +1,6 @@
 ---
-title: DPM Heng Swee Keat at the SingHealth SUTD Collaboration Agreement Signing
-  Ceremony
+title: Speech by DPM Heng Swee Keat at the SingHealth SUTD Collaboration
+  Agreement Signing Ceremony
 date: 2024-01-16
 layout: link
 description: ""

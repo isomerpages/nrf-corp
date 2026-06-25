@@ -1,5 +1,5 @@
 ---
-title: DPM Heng Swee Keat at the opening of Xora Innovation's Office
+title: Speech by DPM Heng Swee Keat at the opening of Xora Innovation's Office
 date: 2024-10-21
 layout: file
 description: ""

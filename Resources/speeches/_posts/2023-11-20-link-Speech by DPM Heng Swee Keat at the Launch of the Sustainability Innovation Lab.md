@@ -1,5 +1,5 @@
 ---
-title: DPM Heng Swee Keat at the Launch of the Sustainability Innovation Lab
+title: Speech by DPM Heng Swee Keat at the Launch of the Sustainability Innovation Lab
 date: 2023-11-20
 layout: link
 description: ""

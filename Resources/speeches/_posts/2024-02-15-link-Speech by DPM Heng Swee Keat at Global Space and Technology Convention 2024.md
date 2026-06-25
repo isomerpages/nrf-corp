@@ -1,5 +1,5 @@
 ---
-title: DPM Heng Swee Keat at Global Space and Technology Convention 2024
+title: Speech by DPM Heng Swee Keat at Global Space and Technology Convention 2024
 date: 2024-02-15
 layout: link
 description: ""

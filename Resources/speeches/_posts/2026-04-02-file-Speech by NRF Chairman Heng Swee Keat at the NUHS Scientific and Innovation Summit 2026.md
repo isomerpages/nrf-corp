@@ -1,6 +1,6 @@
 ---
-title: Chairman Heng Swee Keat at the NUHS Scientific and Innovation Summit
-  2026, 2 April 2026
+title: Speech by NRF Chairman Heng Swee Keat at the NUHS Scientific and
+  Innovation Summit 2026
 date: 2026-04-02
 layout: file
 description: ""

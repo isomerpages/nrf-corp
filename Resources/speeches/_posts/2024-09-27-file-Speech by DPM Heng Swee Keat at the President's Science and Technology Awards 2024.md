@@ -1,5 +1,6 @@
 ---
-title: DPM Heng Swee Keat at the President's Science and Technology Awards 2024
+title: Speech by DPM Heng Swee Keat at the President's Science and Technology
+  Awards 2024
 date: 2024-09-27
 layout: file
 description: ""

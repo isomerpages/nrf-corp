@@ -1,6 +1,6 @@
 ---
-title: DPM Heng Swee Keat at the Groundbreaking Ceremony of Novartis Biologics
-  Manufacturing Site Expansion
+title: Speech by DPM Heng Swee Keat at the Groundbreaking Ceremony of Novartis
+  Biologics Manufacturing Site
 date: 2024-03-15
 layout: link
 description: ""

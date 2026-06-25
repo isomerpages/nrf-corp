@@ -1,5 +1,5 @@
 ---
-title: DPM Heng Swee Keat at RIE Deep Tech Day 2024
+title: Speech by DPM Heng Swee Keat at RIE Deep Tech Day 2024
 date: 2024-10-29
 layout: file
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: Chairman Heng Swee Keat at the Launch of the UOB Innovation Hub at NTU
-  Singapore
+title: Speech by NRF Chairman Heng Swee Keat at the Launch of the UOB Innovation
+  Hub at NTU Singapore
 date: 2026-03-25
 layout: file
 description: ""
