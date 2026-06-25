@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Chairman_Speech_at_the_CREATE_Symposium_2026.pdf
+file_url: /files/Chairman_Speech_at_2026_CREATE_symposium.pdf
 ---
